@@ -1,0 +1,554 @@
+{
+  "grupo_id": "POETICOS",
+  "grupo_nombre": "Poéticos",
+  "libros": [
+    "Job",
+    "Salmos",
+    "Proverbios",
+    "Eclesiastés",
+    "Cantares"
+  ],
+  "total_preguntas": 36,
+  "preguntas": [
+    {
+      "id": 1,
+      "libro": "Job",
+      "dificultad": "facil",
+      "categoria": "Sufrimiento",
+      "pregunta": "¿Por qué sufrió Job según el inicio del libro?",
+      "opciones": {
+        "A": "Por sus propios pecados",
+        "B": "Satanás obtuvo permiso de Dios para probarlo",
+        "C": "Por los pecados de sus hijos",
+        "D": "Por desobedecer un mandato divino"
+      },
+      "correcta": "B",
+      "explicacion": "Job 1:12 narra que Dios permitió a Satanás probar a Job, quitándole todo menos la vida."
+    },
+    {
+      "id": 2,
+      "libro": "Job",
+      "dificultad": "facil",
+      "categoria": "Carácter",
+      "pregunta": "¿Cómo describe la Biblia el carácter de Job al inicio del libro?",
+      "opciones": {
+        "A": "Poderoso y ambicioso",
+        "B": "Perfecto, recto, temeroso de Dios y apartado del mal",
+        "C": "Humilde y pobre",
+        "D": "Sabio pero impaciente"
+      },
+      "correcta": "B",
+      "explicacion": "Job 1:1 describe a Job como hombre perfecto, recto, temeroso de Dios y apartado del mal."
+    },
+    {
+      "id": 3,
+      "libro": "Job",
+      "dificultad": "facil",
+      "categoria": "Restauración",
+      "pregunta": "¿Qué le ocurrió a Job al final del libro?",
+      "opciones": {
+        "A": "Murió en paz sin recuperar nada",
+        "B": "Dios le restauró el doble de lo que había perdido",
+        "C": "Sus amigos le ayudaron a recuperarse",
+        "D": "Fue llevado al cielo como Elías"
+      },
+      "correcta": "B",
+      "explicacion": "Job 42:10 narra que Jehová restauró las pérdidas de Job dándole el doble de lo que antes tenía."
+    },
+    {
+      "id": 4,
+      "libro": "Job",
+      "dificultad": "media",
+      "categoria": "Amigos",
+      "pregunta": "¿Cuántos amigos vinieron a consolar a Job en su sufrimiento?",
+      "opciones": {
+        "A": "2",
+        "B": "3",
+        "C": "4",
+        "D": "5"
+      },
+      "correcta": "B",
+      "explicacion": "Job 2:11 menciona a tres amigos: Elifaz, Bildad y Zofar, que vinieron juntos a consolarlo."
+    },
+    {
+      "id": 5,
+      "libro": "Job",
+      "dificultad": "media",
+      "categoria": "Amigos",
+      "pregunta": "¿Qué hicieron los amigos de Job al verlo tan afligido?",
+      "opciones": {
+        "A": "Le aconsejaron inmediatamente",
+        "B": "Lloraron, rasgaron sus mantos y guardaron silencio 7 días",
+        "C": "Le ofrecieron dinero para sus sacrificios",
+        "D": "Fueron a buscar al sacerdote"
+      },
+      "correcta": "B",
+      "explicacion": "Job 2:12-13 narra que rasgaron sus mantos, echaron polvo sobre sus cabezas y se sentaron con él 7 días sin hablar."
+    },
+    {
+      "id": 6,
+      "libro": "Job",
+      "dificultad": "media",
+      "categoria": "Sufrimiento",
+      "pregunta": "¿Cuál fue la respuesta inicial de Job ante la pérdida de todo?",
+      "opciones": {
+        "A": "Maldijo a Dios",
+        "B": "Culpó a sus hijos",
+        "C": "Se postró y adoró diciendo 'Jehová dio, Jehová quitó'",
+        "D": "Huyó al desierto"
+      },
+      "correcta": "C",
+      "explicacion": "Job 1:20-21 narra que Job se postró y adoró diciendo: 'Jehová dio y Jehová quitó; sea el nombre de Jehová bendito.'"
+    },
+    {
+      "id": 7,
+      "libro": "Job",
+      "dificultad": "dificil",
+      "categoria": "Redentor",
+      "pregunta": "¿Cuál es la declaración de fe de Job más conocida en medio de su sufrimiento?",
+      "opciones": {
+        "A": "'Aunque me mate, en él esperaré'",
+        "B": "'Yo sé que mi Redentor vive'",
+        "C": "'El Señor es mi pastor'",
+        "D": "'No me abandonarás en el Seol'"
+      },
+      "correcta": "B",
+      "explicacion": "Job 19:25 contiene la famosa confesión: 'Yo sé que mi Redentor vive, y al fin se levantará sobre el polvo.'"
+    },
+    {
+      "id": 8,
+      "libro": "Job",
+      "dificultad": "dificil",
+      "categoria": "Dios habla",
+      "pregunta": "¿Desde dónde habló Dios a Job al final del libro?",
+      "opciones": {
+        "A": "En un sueño",
+        "B": "Por medio de Eliú",
+        "C": "Desde un torbellino",
+        "D": "En el templo"
+      },
+      "correcta": "C",
+      "explicacion": "Job 38:1 narra que Jehová respondió a Job desde un torbellino con una serie de preguntas sobre la creación."
+    },
+    {
+      "id": 9,
+      "libro": "Job",
+      "dificultad": "muy_dificil",
+      "categoria": "Amigos",
+      "pregunta": "¿Qué ordenó Dios que hicieran los amigos de Job al final como consecuencia de haber hablado mal?",
+      "opciones": {
+        "A": "Ayunar 40 días",
+        "B": "Ofrecer holocausto y pedir a Job que orara por ellos",
+        "C": "Devolver todo lo que le habían quitado a Job",
+        "D": "Peregrinaje al templo de Jerusalén"
+      },
+      "correcta": "B",
+      "explicacion": "Job 42:8 ordena que ofrezcan siete toros y siete carneros, y que Job orara por ellos para que Dios los perdonara."
+    },
+    {
+      "id": 10,
+      "libro": "Salmos",
+      "dificultad": "facil",
+      "categoria": "Salmo 23",
+      "pregunta": "¿Cuál es el primer versículo del Salmo 23?",
+      "opciones": {
+        "A": "'El Señor es mi luz y mi salvación'",
+        "B": "'Jehová es mi pastor, nada me faltará'",
+        "C": "'Dios es nuestro amparo y fortaleza'",
+        "D": "'Como el ciervo brama por las corrientes de agua'"
+      },
+      "correcta": "B",
+      "explicacion": "El Salmo 23:1 comienza con la famosa declaración: 'Jehová es mi pastor; nada me faltará.'"
+    },
+    {
+      "id": 11,
+      "libro": "Salmos",
+      "dificultad": "facil",
+      "categoria": "Alabanza",
+      "pregunta": "¿Cuántos salmos tiene el libro de los Salmos?",
+      "opciones": {
+        "A": "100",
+        "B": "120",
+        "C": "150",
+        "D": "180"
+      },
+      "correcta": "C",
+      "explicacion": "El libro de los Salmos contiene 150 salmos, siendo el libro más largo de la Biblia en número de capítulos."
+    },
+    {
+      "id": 12,
+      "libro": "Salmos",
+      "dificultad": "facil",
+      "categoria": "David",
+      "pregunta": "¿Quién escribió la mayor parte de los Salmos?",
+      "opciones": {
+        "A": "Salomón",
+        "B": "Moisés",
+        "C": "David",
+        "D": "Asaf"
+      },
+      "correcta": "C",
+      "explicacion": "David es el autor de al menos 73 salmos según sus encabezados, siendo el autor más prolífico del libro."
+    },
+    {
+      "id": 13,
+      "libro": "Salmos",
+      "dificultad": "facil",
+      "categoria": "Salmo 1",
+      "pregunta": "¿Qué describe el Salmo 1 como el camino del hombre bienaventurado?",
+      "opciones": {
+        "A": "Orar tres veces al día",
+        "B": "No andar en consejo de malos, ni estar en camino de pecadores",
+        "C": "Ayunar cada semana",
+        "D": "Ir al templo diariamente"
+      },
+      "correcta": "B",
+      "explicacion": "Salmo 1:1 describe al bienaventurado como el que no anda en consejo de malos ni se sienta en silla de escarnecedores."
+    },
+    {
+      "id": 14,
+      "libro": "Salmos",
+      "dificultad": "media",
+      "categoria": "Salmo 22",
+      "pregunta": "¿Qué salmo comienza con las palabras que Jesús citó en la cruz: 'Dios mío, Dios mío, ¿por qué me has abandonado'?",
+      "opciones": {
+        "A": "Salmo 22",
+        "B": "Salmo 51",
+        "C": "Salmo 69",
+        "D": "Salmo 110"
+      },
+      "correcta": "A",
+      "explicacion": "El Salmo 22:1 comienza con estas palabras, citadas por Jesús en Mateo 27:46 durante la crucifixión."
+    },
+    {
+      "id": 15,
+      "libro": "Salmos",
+      "dificultad": "media",
+      "categoria": "Arrepentimiento",
+      "pregunta": "¿En qué contexto escribió David el Salmo 51?",
+      "opciones": {
+        "A": "Después de la muerte de Goliat",
+        "B": "Después de su pecado con Betsabé",
+        "C": "Durante su huida de Saúl",
+        "D": "Al traer el arca a Jerusalén"
+      },
+      "correcta": "B",
+      "explicacion": "El encabezado del Salmo 51 indica que fue compuesto cuando el profeta Natán fue a David después del asunto con Betsabé."
+    },
+    {
+      "id": 16,
+      "libro": "Salmos",
+      "dificultad": "media",
+      "categoria": "Salmo 119",
+      "pregunta": "¿Cuál es el capítulo más largo de toda la Biblia?",
+      "opciones": {
+        "A": "Salmo 150",
+        "B": "Salmo 119",
+        "C": "Isaías 53",
+        "D": "Números 7"
+      },
+      "correcta": "B",
+      "explicacion": "El Salmo 119 con 176 versículos es el capítulo más largo de la Biblia, dedicado enteramente a la Palabra de Dios."
+    },
+    {
+      "id": 17,
+      "libro": "Salmos",
+      "dificultad": "media",
+      "categoria": "Salmo 46",
+      "pregunta": "¿Qué declara el Salmo 46:1?",
+      "opciones": {
+        "A": "'El cielo cuenta la gloria de Dios'",
+        "B": "'Dios es nuestro amparo y fortaleza, nuestro pronto auxilio en las tribulaciones'",
+        "C": "'Bendice, alma mía, a Jehová'",
+        "D": "'Cantad a Jehová un nuevo cántico'"
+      },
+      "correcta": "B",
+      "explicacion": "Salmo 46:1 declara que Dios es nuestro amparo y fortaleza, socorro muy presente en las angustias."
+    },
+    {
+      "id": 18,
+      "libro": "Salmos",
+      "dificultad": "dificil",
+      "categoria": "Mesianico",
+      "pregunta": "¿Qué salmo profetiza que el Mesías sería sacerdote para siempre según el orden de Melquisedec?",
+      "opciones": {
+        "A": "Salmo 2",
+        "B": "Salmo 22",
+        "C": "Salmo 110",
+        "D": "Salmo 72"
+      },
+      "correcta": "C",
+      "explicacion": "Salmo 110:4 profetiza: 'Tú eres sacerdote para siempre, según el orden de Melquisedec', citado extensamente en Hebreos."
+    },
+    {
+      "id": 19,
+      "libro": "Salmos",
+      "dificultad": "dificil",
+      "categoria": "Alabanza",
+      "pregunta": "¿Qué salmo describe en detalle la formación del ser humano en el vientre materno?",
+      "opciones": {
+        "A": "Salmo 8",
+        "B": "Salmo 100",
+        "C": "Salmo 139",
+        "D": "Salmo 148"
+      },
+      "correcta": "C",
+      "explicacion": "Salmo 139:13-16 describe cómo Dios formó los riñones del salmista y lo tejió en el vientre de su madre."
+    },
+    {
+      "id": 20,
+      "libro": "Salmos",
+      "dificultad": "muy_dificil",
+      "categoria": "Estructura",
+      "pregunta": "¿En cuántos libros está dividido el libro de los Salmos?",
+      "opciones": {
+        "A": "3",
+        "B": "4",
+        "C": "5",
+        "D": "7"
+      },
+      "correcta": "C",
+      "explicacion": "Los Salmos están divididos en 5 libros: I (1-41), II (42-72), III (73-89), IV (90-106) y V (107-150)."
+    },
+    {
+      "id": 21,
+      "libro": "Proverbios",
+      "dificultad": "facil",
+      "categoria": "Sabiduría",
+      "pregunta": "¿Cuál es el principio de la sabiduría según Proverbios?",
+      "opciones": {
+        "A": "El amor al prójimo",
+        "B": "El temor de Jehová",
+        "C": "El estudio de la ley",
+        "D": "La humildad ante los mayores"
+      },
+      "correcta": "B",
+      "explicacion": "Proverbios 1:7 declara: 'El principio de la sabiduría es el temor de Jehová.'"
+    },
+    {
+      "id": 22,
+      "libro": "Proverbios",
+      "dificultad": "facil",
+      "categoria": "Confianza",
+      "pregunta": "¿Qué dice Proverbios 3:5-6 sobre confiar en Dios?",
+      "opciones": {
+        "A": "'El que confía en Dios nunca será avergonzado'",
+        "B": "'Confía en Jehová con todo tu corazón y no te apoyes en tu propia prudencia'",
+        "C": "'La confianza en Dios es mejor que mil ejércitos'",
+        "D": "'Quien teme a Dios no necesita de hombres'"
+      },
+      "correcta": "B",
+      "explicacion": "Proverbios 3:5 ordena confiar en Jehová con todo el corazón y no apoyarse en la propia prudencia."
+    },
+    {
+      "id": 23,
+      "libro": "Proverbios",
+      "dificultad": "facil",
+      "categoria": "Mujer virtuosa",
+      "pregunta": "¿En qué capítulo de Proverbios se describe a la mujer virtuosa?",
+      "opciones": {
+        "A": "Capítulo 8",
+        "B": "Capítulo 21",
+        "C": "Capítulo 31",
+        "D": "Capítulo 25"
+      },
+      "correcta": "C",
+      "explicacion": "Proverbios 31:10-31 contiene el famoso poema acróstico sobre la mujer virtuosa."
+    },
+    {
+      "id": 24,
+      "libro": "Proverbios",
+      "dificultad": "media",
+      "categoria": "Sabiduría",
+      "pregunta": "¿Cómo personifica Proverbios 8 a la sabiduría?",
+      "opciones": {
+        "A": "Como un río que fluye del trono de Dios",
+        "B": "Como una mujer que clama en las plazas y calles",
+        "C": "Como un árbol de vida para los que la abrazan",
+        "D": "Como un escudo para los que la buscan"
+      },
+      "correcta": "B",
+      "explicacion": "Proverbios 8:1-3 describe a la sabiduría como una mujer que clama en las alturas, en los caminos y en las plazas."
+    },
+    {
+      "id": 25,
+      "libro": "Proverbios",
+      "dificultad": "media",
+      "categoria": "Disciplina",
+      "pregunta": "¿Qué dice Proverbios sobre disciplinar a los hijos?",
+      "opciones": {
+        "A": "'El que ama a su hijo no lo corrige'",
+        "B": "'El que escatima la vara odia a su hijo, pero el que lo ama lo disciplina'",
+        "C": "'Deja que el hijo aprenda solo de sus errores'",
+        "D": "'La disciplina severa hace sabio al necio'"
+      },
+      "correcta": "B",
+      "explicacion": "Proverbios 13:24 dice que el que detiene el castigo odia a su hijo, pero el que lo ama lo disciplina con prontitud."
+    },
+    {
+      "id": 26,
+      "libro": "Proverbios",
+      "dificultad": "media",
+      "categoria": "Orgullo",
+      "pregunta": "¿Qué dice Proverbios sobre el orgullo?",
+      "opciones": {
+        "A": "'El orgulloso caerá en su propio lazo'",
+        "B": "'Antes del quebrantamiento va el orgullo, y antes de la caída la altivez de espíritu'",
+        "C": "'El soberbio no tiene amigos'",
+        "D": "'El altivo de ojos Dios lo aborrece'"
+      },
+      "correcta": "B",
+      "explicacion": "Proverbios 16:18 declara que la soberbia precede al quebrantamiento y la altivez de espíritu a la caída."
+    },
+    {
+      "id": 27,
+      "libro": "Proverbios",
+      "dificultad": "dificil",
+      "categoria": "Agur",
+      "pregunta": "¿Quién es el autor de Proverbios 30?",
+      "opciones": {
+        "A": "Salomón",
+        "B": "Ezequías",
+        "C": "Agur, hijo de Jaqué",
+        "D": "Lemuel"
+      },
+      "correcta": "C",
+      "explicacion": "Proverbios 30:1 identifica al autor como Agur hijo de Jaqué, un autor desconocido fuera de este texto."
+    },
+    {
+      "id": 28,
+      "libro": "Proverbios",
+      "dificultad": "muy_dificil",
+      "categoria": "Números",
+      "pregunta": "¿Qué fórmula numérica característica usa Agur en Proverbios 30?",
+      "opciones": {
+        "A": "'Tres cosas... cuatro'",
+        "B": "'Siete cosas... ocho'",
+        "C": "'Una cosa... dos'",
+        "D": "'Cinco cosas... seis'"
+      },
+      "correcta": "A",
+      "explicacion": "Proverbios 30:15-31 repite el patrón 'tres cosas hay... y cuatro' para enumerar observaciones sobre la naturaleza y la vida."
+    },
+    {
+      "id": 29,
+      "libro": "Eclesiastés",
+      "dificultad": "facil",
+      "categoria": "Vanidad",
+      "pregunta": "¿Qué palabra repite constantemente Eclesiastés para describir la vida sin Dios?",
+      "opciones": {
+        "A": "'Nada'",
+        "B": "'Vacío'",
+        "C": "'Vanidad'",
+        "D": "'Ilusión'"
+      },
+      "correcta": "C",
+      "explicacion": "Eclesiastés 1:2 proclama: 'Vanidad de vanidades, todo es vanidad', tema central del libro."
+    },
+    {
+      "id": 30,
+      "libro": "Eclesiastés",
+      "dificultad": "facil",
+      "categoria": "Tiempo",
+      "pregunta": "¿Qué capítulo de Eclesiastés habla de que hay un tiempo para todo?",
+      "opciones": {
+        "A": "Capítulo 1",
+        "B": "Capítulo 3",
+        "C": "Capítulo 7",
+        "D": "Capítulo 12"
+      },
+      "correcta": "B",
+      "explicacion": "Eclesiastés 3:1-8 contiene el famoso poema: 'Todo tiene su tiempo... tiempo de nacer y tiempo de morir...'"
+    },
+    {
+      "id": 31,
+      "libro": "Eclesiastés",
+      "dificultad": "media",
+      "categoria": "Conclusión",
+      "pregunta": "¿Cuál es la conclusión final del libro de Eclesiastés?",
+      "opciones": {
+        "A": "'Goza de la vida mientras puedas'",
+        "B": "'Teme a Dios y guarda sus mandamientos, porque esto es el todo del hombre'",
+        "C": "'La sabiduría humana supera a todas las riquezas'",
+        "D": "'Nada tiene sentido bajo el sol'"
+      },
+      "correcta": "B",
+      "explicacion": "Eclesiastés 12:13 concluye: 'El fin de todo el discurso oído es este: Teme a Dios y guarda sus mandamientos.'"
+    },
+    {
+      "id": 32,
+      "libro": "Eclesiastés",
+      "dificultad": "media",
+      "categoria": "Sabiduría",
+      "pregunta": "¿Qué ventaja tiene el hombre sabio sobre el necio según Eclesiastés 2?",
+      "opciones": {
+        "A": "Vive más años",
+        "B": "Acumula más riquezas",
+        "C": "La sabiduría supera a la necedad como la luz supera a las tinieblas",
+        "D": "Es respetado por los reyes"
+      },
+      "correcta": "C",
+      "explicacion": "Eclesiastés 2:13 declara que la sabiduría aventaja a la necedad como la luz aventaja a las tinieblas."
+    },
+    {
+      "id": 33,
+      "libro": "Eclesiastés",
+      "dificultad": "dificil",
+      "categoria": "Vejez",
+      "pregunta": "¿Qué imagen poética usa Eclesiastés 12 para describir la vejez y la muerte?",
+      "opciones": {
+        "A": "Un árbol que pierde sus hojas",
+        "B": "El sol que se pone para no salir",
+        "C": "La rueda junto al pozo rota, el hilo de plata suelto, el cuenco de oro quebrado",
+        "D": "Un río que llega al mar sin llenarlo"
+      },
+      "correcta": "C",
+      "explicacion": "Eclesiastés 12:6 usa imágenes poéticas: el hilo de plata, el cuenco de oro, el cántaro junto a la fuente y la rueda."
+    },
+    {
+      "id": 34,
+      "libro": "Cantares",
+      "dificultad": "facil",
+      "categoria": "Amor",
+      "pregunta": "¿Qué celebra principalmente el libro de Cantares?",
+      "opciones": {
+        "A": "La sabiduría del rey Salomón",
+        "B": "El amor conyugal y la belleza del amor humano",
+        "C": "La conquista de Jerusalén",
+        "D": "Las riquezas del reino de Israel"
+      },
+      "correcta": "B",
+      "explicacion": "Cantares es un poema de amor que celebra la belleza del amor entre un hombre y una mujer, y alegóricamente el amor de Dios por su pueblo."
+    },
+    {
+      "id": 35,
+      "libro": "Cantares",
+      "dificultad": "media",
+      "categoria": "Amor",
+      "pregunta": "¿Cuál es el versículo más citado de Cantares sobre el amor?",
+      "opciones": {
+        "A": "'El amor es fuerte como la muerte'",
+        "B": "'Mi amado es mío y yo soy suya'",
+        "C": "'Ponme como sello sobre tu corazón'",
+        "D": "Tanto A como C son igual de conocidos"
+      },
+      "correcta": "A",
+      "explicacion": "Cantares 8:6 declara: 'el amor es fuerte como la muerte', uno de los versículos más poderosos sobre el amor en la Biblia."
+    },
+    {
+      "id": 36,
+      "libro": "Cantares",
+      "dificultad": "dificil",
+      "categoria": "Estructura",
+      "pregunta": "¿A quién se atribuye la autoría de Cantares?",
+      "opciones": {
+        "A": "David",
+        "B": "Salomón",
+        "C": "Asaf",
+        "D": "Etán el ezraíta"
+      },
+      "correcta": "B",
+      "explicacion": "Cantares 1:1 lo atribuye a Salomón, aunque los eruditos debaten si fue escrito por él o dedicado a él."
+    }
+  ]
+}

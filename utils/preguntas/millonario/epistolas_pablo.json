@@ -1,0 +1,382 @@
+{
+  "grupo_id": "EPISTOLAS_PABLO",
+  "grupo_nombre": "Epístolas de Pablo",
+  "libros": [
+    "Romanos",
+    "1 Corintios",
+    "2 Corintios",
+    "Gálatas",
+    "Efesios",
+    "Filipenses",
+    "Colosenses",
+    "1 Tesalonicenses",
+    "2 Tesalonicenses",
+    "1 Timoteo",
+    "2 Timoteo",
+    "Tito",
+    "Filemón"
+  ],
+  "total_preguntas": 24,
+  "preguntas": [
+    {
+      "id": 1,
+      "libro": "Romanos",
+      "dificultad": "facil",
+      "categoria": "Salvación",
+      "pregunta": "¿Qué declara Romanos 3:23 sobre todos los seres humanos?",
+      "opciones": {
+        "A": "'Todos son capaces de hacer el bien'",
+        "B": "'Todos pecaron y están destituidos de la gloria de Dios'",
+        "C": "'Todos merecen la muerte'",
+        "D": "'Todos pueden ser salvos si se esfuerzan'"
+      },
+      "correcta": "B",
+      "explicacion": "Romanos 3:23 afirma universalmente que todos pecaron y están destituidos de la gloria de Dios."
+    },
+    {
+      "id": 2,
+      "libro": "Romanos",
+      "dificultad": "facil",
+      "categoria": "Fe",
+      "pregunta": "¿Qué dice Romanos 10:9 sobre la salvación?",
+      "opciones": {
+        "A": "'El que ayuna será salvo'",
+        "B": "'Si confesares con tu boca que Jesús es el Señor y creyeres que Dios le levantó de los muertos, serás salvo'",
+        "C": "'El que guarda los mandamientos será salvo'",
+        "D": "'El bautismo te salva'"
+      },
+      "correcta": "B",
+      "explicacion": "Romanos 10:9 presenta la confesión de Jesús como Señor y la fe en su resurrección como condición de salvación."
+    },
+    {
+      "id": 3,
+      "libro": "Romanos",
+      "dificultad": "media",
+      "categoria": "Justificación",
+      "pregunta": "¿Cuál es el tema central de la carta a los Romanos?",
+      "opciones": {
+        "A": "La vida en la iglesia",
+        "B": "La justificación por la fe sola",
+        "C": "Los dones espirituales",
+        "D": "La segunda venida de Cristo"
+      },
+      "correcta": "B",
+      "explicacion": "Romanos desarrolla sistemáticamente que el hombre es justificado por la fe en Cristo, no por las obras de la ley."
+    },
+    {
+      "id": 4,
+      "libro": "Romanos",
+      "dificultad": "media",
+      "categoria": "Promesa",
+      "pregunta": "¿Qué promete Romanos 8:28?",
+      "opciones": {
+        "A": "'Todo el que cree nunca enfermará'",
+        "B": "'A los que aman a Dios todas las cosas les ayudan a bien'",
+        "C": "'El que persevere hasta el fin será salvo'",
+        "D": "'Dios nunca permitirá la tentación sin salida'"
+      },
+      "correcta": "B",
+      "explicacion": "Romanos 8:28 promete que a los que aman a Dios todas las cosas cooperan para bien, a los llamados conforme a su propósito."
+    },
+    {
+      "id": 5,
+      "libro": "Romanos",
+      "dificultad": "dificil",
+      "categoria": "Dones",
+      "pregunta": "¿Cuántos dones espirituales lista Pablo en Romanos 12?",
+      "opciones": {
+        "A": "5",
+        "B": "7",
+        "C": "9",
+        "D": "12"
+      },
+      "correcta": "B",
+      "explicacion": "Romanos 12:6-8 lista 7 dones: profecía, servicio, enseñanza, exhortación, repartir, presidir y hacer misericordia."
+    },
+    {
+      "id": 6,
+      "libro": "1 Corintios",
+      "dificultad": "facil",
+      "categoria": "Amor",
+      "pregunta": "¿En qué capítulo de 1 Corintios se encuentra el himno al amor?",
+      "opciones": {
+        "A": "Capítulo 10",
+        "B": "Capítulo 12",
+        "C": "Capítulo 13",
+        "D": "Capítulo 15"
+      },
+      "correcta": "C",
+      "explicacion": "1 Corintios 13 contiene el famoso himno al amor donde Pablo describe las características del amor genuino."
+    },
+    {
+      "id": 7,
+      "libro": "1 Corintios",
+      "dificultad": "facil",
+      "categoria": "Resurrección",
+      "pregunta": "¿Qué capítulo de 1 Corintios es el más extenso sobre la resurrección?",
+      "opciones": {
+        "A": "Capítulo 12",
+        "B": "Capítulo 13",
+        "C": "Capítulo 15",
+        "D": "Capítulo 16"
+      },
+      "correcta": "C",
+      "explicacion": "1 Corintios 15 es el capítulo más completo del NT sobre la resurrección, presentando el evangelio y la esperanza cristiana."
+    },
+    {
+      "id": 8,
+      "libro": "1 Corintios",
+      "dificultad": "media",
+      "categoria": "Dones",
+      "pregunta": "¿Qué imagen usa Pablo en 1 Corintios 12 para describir la unidad en la diversidad de dones?",
+      "opciones": {
+        "A": "Un ejército con diferentes armas",
+        "B": "Un cuerpo con muchos miembros",
+        "C": "Un edificio con distintas piedras",
+        "D": "Un jardín con distintas flores"
+      },
+      "correcta": "B",
+      "explicacion": "1 Corintios 12:12-27 usa la imagen del cuerpo humano para enseñar que cada miembro de la iglesia tiene su función."
+    },
+    {
+      "id": 9,
+      "libro": "1 Corintios",
+      "dificultad": "dificil",
+      "categoria": "Cena del Señor",
+      "pregunta": "¿Qué advierte Pablo sobre tomar la Cena del Señor de manera indigna?",
+      "opciones": {
+        "A": "Que perderán su salvación",
+        "B": "Que comerán y beberán juicio para sí mismos",
+        "C": "Que serán excluidos de la iglesia",
+        "D": "Que ofenden al pastor"
+      },
+      "correcta": "B",
+      "explicacion": "1 Corintios 11:29 advierte que el que come y bebe indignamente, juicio come y bebe para sí, sin discernir el cuerpo del Señor."
+    },
+    {
+      "id": 10,
+      "libro": "2 Corintios",
+      "dificultad": "facil",
+      "categoria": "Gracia",
+      "pregunta": "¿Qué le respondió Dios a Pablo cuando pidió que le quitara el aguijón en la carne?",
+      "opciones": {
+        "A": "'Ten fe y serás sano'",
+        "B": "'Bástate mi gracia, porque mi poder se perfecciona en la debilidad'",
+        "C": "'Persevera y serás recompensado'",
+        "D": "'Este aguijón es por tus pecados pasados'"
+      },
+      "correcta": "B",
+      "explicacion": "2 Corintios 12:9 contiene la respuesta de Dios: 'Bástate mi gracia, porque mi poder se perfecciona en la debilidad.'"
+    },
+    {
+      "id": 11,
+      "libro": "2 Corintios",
+      "dificultad": "media",
+      "categoria": "Ministerio",
+      "pregunta": "¿Cómo describe Pablo a los creyentes en 2 Corintios 5:17?",
+      "opciones": {
+        "A": "'Hijos de Dios por adopción'",
+        "B": "'Nueva criatura: las cosas viejas pasaron, todo es hecho nuevo'",
+        "C": "'Templo del Espíritu Santo'",
+        "D": "'Coherederos con Cristo'"
+      },
+      "correcta": "B",
+      "explicacion": "2 Corintios 5:17 declara: 'si alguno está en Cristo, nueva criatura es; las cosas viejas pasaron; todas son hechas nuevas.'"
+    },
+    {
+      "id": 12,
+      "libro": "Gálatas",
+      "dificultad": "facil",
+      "categoria": "Libertad",
+      "pregunta": "¿Cuál es el tema central de Gálatas?",
+      "opciones": {
+        "A": "La vida en el Espíritu",
+        "B": "La libertad en Cristo frente a la ley",
+        "C": "La segunda venida",
+        "D": "La unidad de la iglesia"
+      },
+      "correcta": "B",
+      "explicacion": "Gálatas defiende que la justificación es por la fe en Cristo, no por las obras de la ley, y llama a la libertad cristiana."
+    },
+    {
+      "id": 13,
+      "libro": "Gálatas",
+      "dificultad": "media",
+      "categoria": "Fruto",
+      "pregunta": "¿Cuántos frutos del Espíritu lista Pablo en Gálatas 5?",
+      "opciones": {
+        "A": "7",
+        "B": "8",
+        "C": "9",
+        "D": "12"
+      },
+      "correcta": "C",
+      "explicacion": "Gálatas 5:22-23 lista 9 frutos: amor, gozo, paz, paciencia, benignidad, bondad, fe, mansedumbre y templanza."
+    },
+    {
+      "id": 14,
+      "libro": "Gálatas",
+      "dificultad": "dificil",
+      "categoria": "Justificación",
+      "pregunta": "¿A qué incidente con Pedro se refiere Pablo en Gálatas 2 como ejemplo de hipocresía?",
+      "opciones": {
+        "A": "Cuando Pedro negó a Jesús",
+        "B": "Cuando Pedro dejó de comer con los gentiles al llegar judíos de Jerusalén",
+        "C": "Cuando Pedro rechazó bautizar a Cornelio",
+        "D": "Cuando Pedro no quiso ir al Concilio de Jerusalén"
+      },
+      "correcta": "B",
+      "explicacion": "Gálatas 2:11-14 narra que Pablo resistió a Pedro cara a cara porque se apartaba de los gentiles al llegar los de Santiago."
+    },
+    {
+      "id": 15,
+      "libro": "Efesios",
+      "dificultad": "facil",
+      "categoria": "Gracia",
+      "pregunta": "¿Qué declara Efesios 2:8-9 sobre la salvación?",
+      "opciones": {
+        "A": "'La salvación es por obras y fe juntas'",
+        "B": "'Porque por gracia sois salvos por medio de la fe, y esto no de vosotros: es don de Dios'",
+        "C": "'La salvación es el resultado del bautismo'",
+        "D": "'Solo los predestinados serán salvos'"
+      },
+      "correcta": "B",
+      "explicacion": "Efesios 2:8-9 es el texto clásico sobre la salvación por gracia mediante la fe, no de obras para que nadie se gloríe."
+    },
+    {
+      "id": 16,
+      "libro": "Efesios",
+      "dificultad": "media",
+      "categoria": "Armadura",
+      "pregunta": "¿Cuántas piezas de la armadura de Dios menciona Efesios 6?",
+      "opciones": {
+        "A": "4",
+        "B": "5",
+        "C": "6",
+        "D": "7"
+      },
+      "correcta": "C",
+      "explicacion": "Efesios 6:14-17 describe 6 piezas: cinto de verdad, coraza de justicia, calzado, escudo de la fe, yelmo de salvación y espada del Espíritu."
+    },
+    {
+      "id": 17,
+      "libro": "Filipenses",
+      "dificultad": "facil",
+      "categoria": "Gozo",
+      "pregunta": "¿Cuál es el versículo más conocido de Filipenses sobre el gozo?",
+      "opciones": {
+        "A": "'Todo lo puedo en Cristo que me fortalece'",
+        "B": "'Regocijaos en el Señor siempre; otra vez digo: ¡Regocijaos!'",
+        "C": "'La paz de Dios que sobrepasa todo entendimiento'",
+        "D": "'Mi Dios suplirá todo lo que os falta'"
+      },
+      "correcta": "B",
+      "explicacion": "Filipenses 4:4 exhorta: 'Regocijaos en el Señor siempre; otra vez digo: ¡Regocijaos!' Pablo lo escribió desde prisión."
+    },
+    {
+      "id": 18,
+      "libro": "Filipenses",
+      "dificultad": "media",
+      "categoria": "Humillación",
+      "pregunta": "¿Qué himno cristológico contiene Filipenses 2 sobre la humillación de Cristo?",
+      "opciones": {
+        "A": "El himno a la creación",
+        "B": "El himno de la kenosis: Cristo se despojó a sí mismo tomando forma de siervo",
+        "C": "El himno a la resurrección",
+        "D": "El himno a la segunda venida"
+      },
+      "correcta": "B",
+      "explicacion": "Filipenses 2:5-11 contiene el himno de la kenosis donde Cristo, siendo Dios, se humilló hasta la muerte de cruz."
+    },
+    {
+      "id": 19,
+      "libro": "Colosenses",
+      "dificultad": "facil",
+      "categoria": "Cristo",
+      "pregunta": "¿Qué declara Colosenses 1:15-16 sobre Jesucristo?",
+      "opciones": {
+        "A": "Que es el mayor de los ángeles",
+        "B": "Que es la imagen del Dios invisible y que en él fueron creadas todas las cosas",
+        "C": "Que fue el primer ser creado por Dios",
+        "D": "Que es igual a los profetas pero más grande"
+      },
+      "correcta": "B",
+      "explicacion": "Colosenses 1:15-16 declara que Cristo es imagen del Dios invisible, primogénito de toda creación, y que en él fueron creadas todas las cosas."
+    },
+    {
+      "id": 20,
+      "libro": "1 Tesalonicenses",
+      "dificultad": "facil",
+      "categoria": "Segunda Venida",
+      "pregunta": "¿Qué describe 1 Tesalonicenses 4:16-17 sobre la segunda venida?",
+      "opciones": {
+        "A": "Que Cristo vendrá en secreto",
+        "B": "Que el Señor descenderá con voz de arcángel y trompeta y los muertos en Cristo resucitarán primero",
+        "C": "Que solo los vivos serán arrebatados",
+        "D": "Que nadie sabe cómo vendrá"
+      },
+      "correcta": "B",
+      "explicacion": "1 Tesalonicenses 4:16-17 describe la venida del Señor con voz de mando, voz de arcángel, trompeta de Dios y el arrebatamiento."
+    },
+    {
+      "id": 21,
+      "libro": "2 Tesalonicenses",
+      "dificultad": "media",
+      "categoria": "Apostasía",
+      "pregunta": "¿Qué debe ocurrir antes de la venida del Señor según 2 Tesalonicenses 2?",
+      "opciones": {
+        "A": "La predicación del evangelio a toda nación",
+        "B": "La apostasía y la revelación del hombre de pecado",
+        "C": "La reconstrucción del templo de Salomón",
+        "D": "El regreso de los judíos a Israel"
+      },
+      "correcta": "B",
+      "explicacion": "2 Tesalonicenses 2:3 indica que antes del día del Señor vendrá la apostasía y se manifestará el hombre de pecado."
+    },
+    {
+      "id": 22,
+      "libro": "1 Timoteo",
+      "dificultad": "facil",
+      "categoria": "Escritura",
+      "pregunta": "¿Qué declara 2 Timoteo 3:16 sobre la Escritura?",
+      "opciones": {
+        "A": "'La Escritura es útil para la historia'",
+        "B": "'Toda la Escritura es inspirada por Dios y útil para enseñar, redargüir, corregir e instruir'",
+        "C": "'Las Escrituras son la Palabra de los profetas'",
+        "D": "'Solo el NT es inspirado completamente'"
+      },
+      "correcta": "B",
+      "explicacion": "2 Timoteo 3:16 declara que toda Escritura es inspirada (theopneustos, 'exhalada por Dios') y provechosa para toda obra buena."
+    },
+    {
+      "id": 23,
+      "libro": "Filemón",
+      "dificultad": "dificil",
+      "categoria": "Perdón",
+      "pregunta": "¿Por qué escribió Pablo la carta a Filemón?",
+      "opciones": {
+        "A": "Para pedirle dinero para el viaje a España",
+        "B": "Para interceder por el esclavo fugitivo Onésimo y pedir que lo recibiera como hermano",
+        "C": "Para reprenderlo por su apostasía",
+        "D": "Para nombrarlo anciano de la iglesia"
+      },
+      "correcta": "B",
+      "explicacion": "Filemón 1:10-16 muestra a Pablo intercediendo por Onésimo, pidiendo a Filemón que lo reciba ya no como esclavo sino como hermano."
+    },
+    {
+      "id": 24,
+      "libro": "Tito",
+      "dificultad": "media",
+      "categoria": "Gracia",
+      "pregunta": "¿Qué declara Tito 3:5 sobre la base de la salvación?",
+      "opciones": {
+        "A": "'Nos salvó por nuestras obras de justicia'",
+        "B": "'Nos salvó por su misericordia, mediante el lavamiento de la regeneración'",
+        "C": "'Nos salvó porque lo merecíamos'",
+        "D": "'Nos salvó por el bautismo y la fe'"
+      },
+      "correcta": "B",
+      "explicacion": "Tito 3:5 afirma que Dios nos salvó no por obras de justicia que nosotros hubiéramos hecho, sino por su misericordia."
+    }
+  ]
+}

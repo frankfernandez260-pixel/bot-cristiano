@@ -1,0 +1,509 @@
+{
+  "grupo_id": "EVANGELIOS_HECHOS",
+  "grupo_nombre": "Evangelios y Hechos",
+  "libros": [
+    "Mateo",
+    "Marcos",
+    "Lucas",
+    "Juan",
+    "Hechos"
+  ],
+  "total_preguntas": 33,
+  "preguntas": [
+    {
+      "id": 1,
+      "libro": "Mateo",
+      "dificultad": "facil",
+      "categoria": "Nacimiento",
+      "pregunta": "¿Quiénes visitaron al niño Jesús según el evangelio de Mateo?",
+      "opciones": {
+        "A": "Pastores de Belén",
+        "B": "Magos del oriente",
+        "C": "Sacerdotes del templo",
+        "D": "Ángeles del cielo"
+      },
+      "correcta": "B",
+      "explicacion": "Mateo 2:1-2 narra que unos magos del oriente llegaron a Jerusalén buscando al rey de los judíos."
+    },
+    {
+      "id": 2,
+      "libro": "Mateo",
+      "dificultad": "facil",
+      "categoria": "Sermón del Monte",
+      "pregunta": "¿En qué capítulo de Mateo se encuentra el Sermón del Monte?",
+      "opciones": {
+        "A": "Capítulos 3-4",
+        "B": "Capítulos 5-7",
+        "C": "Capítulos 8-9",
+        "D": "Capítulos 10-11"
+      },
+      "correcta": "B",
+      "explicacion": "Mateo 5-7 contiene el Sermón del Monte, el discurso más largo de Jesús en los evangelios."
+    },
+    {
+      "id": 3,
+      "libro": "Mateo",
+      "dificultad": "facil",
+      "categoria": "Gran Comisión",
+      "pregunta": "¿Cuál es la Gran Comisión que Jesús dio al final de Mateo?",
+      "opciones": {
+        "A": "'Amad a vuestros enemigos'",
+        "B": "'Id y haced discípulos de todas las naciones'",
+        "C": "'Predicad el evangelio a toda criatura'",
+        "D": "'Sed santos como yo soy santo'"
+      },
+      "correcta": "B",
+      "explicacion": "Mateo 28:19 contiene la Gran Comisión: 'Id y haced discípulos de todas las naciones, bautizándolos.'"
+    },
+    {
+      "id": 4,
+      "libro": "Mateo",
+      "dificultad": "media",
+      "categoria": "Bienaventuranzas",
+      "pregunta": "¿Cuántas bienaventuranzas contiene el Sermón del Monte en Mateo 5?",
+      "opciones": {
+        "A": "6",
+        "B": "7",
+        "C": "8",
+        "D": "10"
+      },
+      "correcta": "C",
+      "explicacion": "Mateo 5:3-10 contiene 8 bienaventuranzas que describen el carácter del ciudadano del reino de Dios."
+    },
+    {
+      "id": 5,
+      "libro": "Mateo",
+      "dificultad": "media",
+      "categoria": "Parábolas",
+      "pregunta": "¿Cuántas parábolas del reino contiene Mateo 13?",
+      "opciones": {
+        "A": "4",
+        "B": "5",
+        "C": "7",
+        "D": "9"
+      },
+      "correcta": "C",
+      "explicacion": "Mateo 13 agrupa 7 parábolas del reino: el sembrador, la cizaña, el grano de mostaza, la levadura, el tesoro, la perla y la red."
+    },
+    {
+      "id": 6,
+      "libro": "Mateo",
+      "dificultad": "media",
+      "categoria": "Pedro",
+      "pregunta": "¿Qué confesó Pedro sobre Jesús en Cesarea de Filipo?",
+      "opciones": {
+        "A": "'Eres el profeta que había de venir'",
+        "B": "'Tú eres el Cristo, el Hijo del Dios viviente'",
+        "C": "'Eres el rey de Israel'",
+        "D": "'Eres mayor que Moisés y Elías'"
+      },
+      "correcta": "B",
+      "explicacion": "Mateo 16:16 narra la confesión de Pedro: 'Tú eres el Cristo, el Hijo del Dios viviente.'"
+    },
+    {
+      "id": 7,
+      "libro": "Mateo",
+      "dificultad": "dificil",
+      "categoria": "Genealogía",
+      "pregunta": "¿En cuántas generaciones divide Mateo la genealogía de Jesús?",
+      "opciones": {
+        "A": "Tres grupos de 12",
+        "B": "Tres grupos de 14",
+        "C": "Cuatro grupos de 10",
+        "D": "Dos grupos de 21"
+      },
+      "correcta": "B",
+      "explicacion": "Mateo 1:17 divide la genealogía en tres grupos de 14 generaciones: Abraham a David, David al cautiverio, y el cautiverio a Cristo."
+    },
+    {
+      "id": 8,
+      "libro": "Mateo",
+      "dificultad": "muy_dificil",
+      "categoria": "Discurso",
+      "pregunta": "¿Cuántos discursos principales de Jesús estructura el evangelio de Mateo?",
+      "opciones": {
+        "A": "3",
+        "B": "4",
+        "C": "5",
+        "D": "7"
+      },
+      "correcta": "C",
+      "explicacion": "Mateo organiza 5 grandes discursos de Jesús: Sermón del Monte (5-7), misión (10), parábolas (13), iglesia (18) y escatología (24-25)."
+    },
+    {
+      "id": 9,
+      "libro": "Marcos",
+      "dificultad": "facil",
+      "categoria": "Acción",
+      "pregunta": "¿Qué palabra repite constantemente Marcos para describir la rapidez de las acciones de Jesús?",
+      "opciones": {
+        "A": "'Luego'/'Enseguida'",
+        "B": "'Pronto'",
+        "C": "'De repente'",
+        "D": "'En aquel momento'"
+      },
+      "correcta": "A",
+      "explicacion": "Marcos usa 'enseguida' (euthys en griego) más de 40 veces, dando al evangelio un ritmo de acción rápida y urgente."
+    },
+    {
+      "id": 10,
+      "libro": "Marcos",
+      "dificultad": "facil",
+      "categoria": "Bautismo",
+      "pregunta": "¿Qué ocurrió cuando Jesús fue bautizado según Marcos?",
+      "opciones": {
+        "A": "Juan se negó a bautizarlo al principio",
+        "B": "Los cielos se abrieron, el Espíritu descendió como paloma y una voz dijo 'Tú eres mi Hijo amado'",
+        "C": "Una multitud presenció el evento",
+        "D": "Jesús salió del agua y oró 40 días"
+      },
+      "correcta": "B",
+      "explicacion": "Marcos 1:10-11 describe los cielos abriéndose, el Espíritu como paloma y la voz del Padre afirmando a Jesús."
+    },
+    {
+      "id": 11,
+      "libro": "Marcos",
+      "dificultad": "media",
+      "categoria": "Mesías",
+      "pregunta": "¿Qué se conoce como el 'secreto mesiánico' en Marcos?",
+      "opciones": {
+        "A": "Que Jesús nunca reveló ser el Mesías",
+        "B": "Que Jesús frecuentemente mandaba silencio sobre sus milagros e identidad",
+        "C": "Que solo los discípulos sabían que era el Mesías",
+        "D": "Que sus milagros ocurrían de noche"
+      },
+      "correcta": "B",
+      "explicacion": "Marcos muestra a Jesús ordenando silencio repetidamente (1:44, 5:43, 7:36, 8:30), lo que los eruditos llaman el secreto mesiánico."
+    },
+    {
+      "id": 12,
+      "libro": "Marcos",
+      "dificultad": "dificil",
+      "categoria": "Estructura",
+      "pregunta": "¿Cuál es el versículo bisagra que divide el evangelio de Marcos en dos partes?",
+      "opciones": {
+        "A": "Marcos 6:1",
+        "B": "Marcos 8:29",
+        "C": "Marcos 10:1",
+        "D": "Marcos 12:1"
+      },
+      "correcta": "B",
+      "explicacion": "Marcos 8:29 con la confesión de Pedro ('Tú eres el Cristo') divide el evangelio: ministerio en Galilea y camino a Jerusalén."
+    },
+    {
+      "id": 13,
+      "libro": "Lucas",
+      "dificultad": "facil",
+      "categoria": "Nacimiento",
+      "pregunta": "¿Quiénes visitaron al niño Jesús según el evangelio de Lucas?",
+      "opciones": {
+        "A": "Magos del oriente",
+        "B": "Pastores de los campos cercanos",
+        "C": "Sacerdotes del templo",
+        "D": "Ancianos de Belén"
+      },
+      "correcta": "B",
+      "explicacion": "Lucas 2:8-16 narra que los pastores que guardaban sus rebaños fueron a ver al niño tras el anuncio del ángel."
+    },
+    {
+      "id": 14,
+      "libro": "Lucas",
+      "dificultad": "facil",
+      "categoria": "Parábolas",
+      "pregunta": "¿En qué evangelio se encuentra la parábola del hijo pródigo?",
+      "opciones": {
+        "A": "Mateo",
+        "B": "Marcos",
+        "C": "Lucas",
+        "D": "Juan"
+      },
+      "correcta": "C",
+      "explicacion": "Lucas 15:11-32 contiene la parábola del hijo pródigo, exclusiva de Lucas, sobre el amor del padre perdonador."
+    },
+    {
+      "id": 15,
+      "libro": "Lucas",
+      "dificultad": "media",
+      "categoria": "Parábolas",
+      "pregunta": "¿Cuántas parábolas exclusivas de Lucas se encuentran en su evangelio?",
+      "opciones": {
+        "A": "5",
+        "B": "10",
+        "C": "18",
+        "D": "25"
+      },
+      "correcta": "C",
+      "explicacion": "Lucas contiene aproximadamente 18 parábolas únicas no encontradas en otros evangelios, incluyendo el buen samaritano y el hijo pródigo."
+    },
+    {
+      "id": 16,
+      "libro": "Lucas",
+      "dificultad": "media",
+      "categoria": "Mujeres",
+      "pregunta": "¿Qué característica distingue al evangelio de Lucas respecto a las mujeres?",
+      "opciones": {
+        "A": "No menciona mujeres en el ministerio",
+        "B": "Destaca prominentemente el rol de mujeres como María, Ana, Elizabet y otras",
+        "C": "Solo menciona a María la madre de Jesús",
+        "D": "Describe a las mujeres como seguidoras pasivas"
+      },
+      "correcta": "B",
+      "explicacion": "Lucas destaca más que cualquier otro evangelio el papel de mujeres: Elizabet, Ana, María Magdalena, la viuda de Naín, etc."
+    },
+    {
+      "id": 17,
+      "libro": "Lucas",
+      "dificultad": "dificil",
+      "categoria": "Nacimiento",
+      "pregunta": "¿Cuál es el cántico que canta María al visitar a Elizabet en Lucas 1?",
+      "opciones": {
+        "A": "El Benedictus",
+        "B": "El Magnificat",
+        "C": "El Nunc Dimittis",
+        "D": "El Gloria in Excelsis"
+      },
+      "correcta": "B",
+      "explicacion": "Lucas 1:46-55 contiene el Magnificat ('Mi alma magnifica al Señor'), el himno de alabanza de María."
+    },
+    {
+      "id": 18,
+      "libro": "Lucas",
+      "dificultad": "muy_dificil",
+      "categoria": "Estructura",
+      "pregunta": "¿A quién está dedicado el evangelio de Lucas?",
+      "opciones": {
+        "A": "A los gentiles en general",
+        "B": "A Teófilo",
+        "C": "A la iglesia de Antioquía",
+        "D": "Al apóstol Pablo"
+      },
+      "correcta": "B",
+      "explicacion": "Lucas 1:3 dedica el evangelio a 'Teófilo', también destinatario de Hechos, posiblemente un oficial romano o mecenas cristiano."
+    },
+    {
+      "id": 19,
+      "libro": "Juan",
+      "dificultad": "facil",
+      "categoria": "Amor",
+      "pregunta": "¿Cuál es el versículo más conocido de toda la Biblia sobre el amor de Dios?",
+      "opciones": {
+        "A": "'Dios es amor'",
+        "B": "'Porque de tal manera amó Dios al mundo que dio a su Hijo unigénito'",
+        "C": "'El amor de Dios ha sido derramado en nuestros corazones'",
+        "D": "'Amarás al Señor tu Dios con todo tu corazón'"
+      },
+      "correcta": "B",
+      "explicacion": "Juan 3:16 es el versículo más memorizado de la Biblia: 'Porque de tal manera amó Dios al mundo...'"
+    },
+    {
+      "id": 20,
+      "libro": "Juan",
+      "dificultad": "facil",
+      "categoria": "Yo Soy",
+      "pregunta": "¿Cuántas declaraciones 'Yo Soy' con predicado hace Jesús en el evangelio de Juan?",
+      "opciones": {
+        "A": "5",
+        "B": "7",
+        "C": "9",
+        "D": "12"
+      },
+      "correcta": "B",
+      "explicacion": "Juan registra 7 declaraciones 'Yo soy': el pan de vida, la luz del mundo, la puerta, el buen pastor, la resurrección, el camino y la vid."
+    },
+    {
+      "id": 21,
+      "libro": "Juan",
+      "dificultad": "facil",
+      "categoria": "Prólogo",
+      "pregunta": "¿Cómo comienza el evangelio de Juan?",
+      "opciones": {
+        "A": "'El principio del evangelio de Jesucristo'",
+        "B": "'En el principio era el Verbo, y el Verbo era con Dios'",
+        "C": "'Genealogía de Jesucristo, hijo de David'",
+        "D": "'Muchos han tratado de poner en orden la historia'"
+      },
+      "correcta": "B",
+      "explicacion": "Juan 1:1 abre con el prólogo teológico que presenta a Jesús como el Verbo eterno que estaba con Dios y era Dios."
+    },
+    {
+      "id": 22,
+      "libro": "Juan",
+      "dificultad": "media",
+      "categoria": "Señales",
+      "pregunta": "¿Cuál fue el primer milagro (señal) de Jesús según Juan?",
+      "opciones": {
+        "A": "Sanar a un ciego de nacimiento",
+        "B": "Convertir el agua en vino en Caná",
+        "C": "Multiplicar los panes y los peces",
+        "D": "Resucitar a Lázaro"
+      },
+      "correcta": "B",
+      "explicacion": "Juan 2:1-11 narra la conversión del agua en vino en las bodas de Caná como la primera señal de Jesús."
+    },
+    {
+      "id": 23,
+      "libro": "Juan",
+      "dificultad": "media",
+      "categoria": "Resurrección",
+      "pregunta": "¿A quién resucitó Jesús de entre los muertos después de 4 días en Juan 11?",
+      "opciones": {
+        "A": "Al hijo de la viuda de Naín",
+        "B": "A la hija de Jairo",
+        "C": "A Lázaro de Betania",
+        "D": "A un joven de Naín"
+      },
+      "correcta": "C",
+      "explicacion": "Juan 11:43-44 narra que Jesús llamó a Lázaro a salir del sepulcro después de cuatro días de muerto."
+    },
+    {
+      "id": 24,
+      "libro": "Juan",
+      "dificultad": "media",
+      "categoria": "Propósito",
+      "pregunta": "¿Cuál declara Juan como propósito de su evangelio?",
+      "opciones": {
+        "A": "Dar un relato ordenado de la vida de Jesús",
+        "B": "Que crean que Jesús es el Cristo, el Hijo de Dios, y tengan vida en su nombre",
+        "C": "Confirmar lo que los otros evangelios enseñan",
+        "D": "Preservar los dichos de Jesús para la iglesia"
+      },
+      "correcta": "B",
+      "explicacion": "Juan 20:31 declara explícitamente: 'estas señales han sido escritas para que creáis que Jesús es el Cristo... y para que creyendo, tengáis vida.'"
+    },
+    {
+      "id": 25,
+      "libro": "Juan",
+      "dificultad": "dificil",
+      "categoria": "Discurso",
+      "pregunta": "¿En qué capítulos de Juan se encuentra el Discurso del Aposento Alto?",
+      "opciones": {
+        "A": "Capítulos 10-12",
+        "B": "Capítulos 13-17",
+        "C": "Capítulos 14-16",
+        "D": "Capítulos 15-18"
+      },
+      "correcta": "B",
+      "explicacion": "Juan 13-17 contiene el Discurso del Aposento Alto, incluyendo el lavamiento de pies, las palabras de consuelo y la oración sacerdotal."
+    },
+    {
+      "id": 26,
+      "libro": "Hechos",
+      "dificultad": "facil",
+      "categoria": "Pentecostés",
+      "pregunta": "¿Qué ocurrió el día de Pentecostés según Hechos 2?",
+      "opciones": {
+        "A": "Jesús se apareció a los discípulos",
+        "B": "El Espíritu Santo descendió con viento recio y lenguas de fuego",
+        "C": "Pedro fue arrestado por primera vez",
+        "D": "La iglesia se dividió en grupos"
+      },
+      "correcta": "B",
+      "explicacion": "Hechos 2:2-4 narra que vino del cielo un estruendo de viento recio, aparecieron lenguas de fuego y todos fueron llenos del Espíritu."
+    },
+    {
+      "id": 27,
+      "libro": "Hechos",
+      "dificultad": "facil",
+      "categoria": "Pablo",
+      "pregunta": "¿Cómo se llamaba Pablo antes de su conversión?",
+      "opciones": {
+        "A": "Bernabé",
+        "B": "Saulo",
+        "C": "Esteban",
+        "D": "Silas"
+      },
+      "correcta": "B",
+      "explicacion": "Hechos 7:58 y 8:1 mencionan a Saulo como el que guardaba las ropas de los que apedreaban a Esteban."
+    },
+    {
+      "id": 28,
+      "libro": "Hechos",
+      "dificultad": "facil",
+      "categoria": "Conversión",
+      "pregunta": "¿Qué le ocurrió a Saulo en el camino a Damasco?",
+      "opciones": {
+        "A": "Un ángel lo detuvo con una espada",
+        "B": "Una luz del cielo lo derribó y escuchó la voz de Jesús",
+        "C": "Tuvo un sueño y vio a Jesús",
+        "D": "Un cristiano le predicó el evangelio"
+      },
+      "correcta": "B",
+      "explicacion": "Hechos 9:3-5 narra que una luz del cielo lo rodeó, cayó al suelo y escuchó la voz de Jesús preguntando por qué lo perseguía."
+    },
+    {
+      "id": 29,
+      "libro": "Hechos",
+      "dificultad": "media",
+      "categoria": "Iglesia",
+      "pregunta": "¿En qué ciudad se llamaron 'cristianos' los discípulos por primera vez?",
+      "opciones": {
+        "A": "Jerusalén",
+        "B": "Roma",
+        "C": "Antioquía",
+        "D": "Éfeso"
+      },
+      "correcta": "C",
+      "explicacion": "Hechos 11:26 narra que fue en Antioquía donde por primera vez los discípulos fueron llamados cristianos."
+    },
+    {
+      "id": 30,
+      "libro": "Hechos",
+      "dificultad": "media",
+      "categoria": "Concilio",
+      "pregunta": "¿Cuál fue la decisión del Concilio de Jerusalén en Hechos 15?",
+      "opciones": {
+        "A": "Que los gentiles debían circuncidarse",
+        "B": "Que los gentiles no necesitaban circuncidarse para salvarse",
+        "C": "Que solo los judíos podían ser líderes",
+        "D": "Que Pablo debía dejar de predicar a los gentiles"
+      },
+      "correcta": "B",
+      "explicacion": "Hechos 15:19-20 resuelve que no se impondría el yugo de la circuncisión a los gentiles, solo abstenciones básicas."
+    },
+    {
+      "id": 31,
+      "libro": "Hechos",
+      "dificultad": "media",
+      "categoria": "Viajes",
+      "pregunta": "¿Cuántos viajes misioneros de Pablo registra el libro de Hechos?",
+      "opciones": {
+        "A": "2",
+        "B": "3",
+        "C": "4",
+        "D": "5"
+      },
+      "correcta": "B",
+      "explicacion": "Hechos registra 3 viajes misioneros de Pablo (caps. 13-14, 15-18, 18-21) más el viaje final a Roma (27-28)."
+    },
+    {
+      "id": 32,
+      "libro": "Hechos",
+      "dificultad": "dificil",
+      "categoria": "Esteban",
+      "pregunta": "¿Qué vio Esteban antes de ser apedreado?",
+      "opciones": {
+        "A": "Un ángel con una corona",
+        "B": "Los cielos abiertos y a Jesús de pie a la diestra de Dios",
+        "C": "Una visión del paraíso",
+        "D": "A Jesús descendiendo en una nube"
+      },
+      "correcta": "B",
+      "explicacion": "Hechos 7:55-56 narra que Esteban, lleno del Espíritu, miró al cielo y vio a Jesús de pie a la diestra de Dios."
+    },
+    {
+      "id": 33,
+      "libro": "Hechos",
+      "dificultad": "muy_dificil",
+      "categoria": "Pablo",
+      "pregunta": "¿En qué ciudad predicó Pablo en el Areópago (colina de Marte) sobre el 'Dios no conocido'?",
+      "opciones": {
+        "A": "Corinto",
+        "B": "Éfeso",
+        "C": "Atenas",
+        "D": "Tesalónica"
+      },
+      "correcta": "C",
+      "explicacion": "Hechos 17:22-23 narra el sermón de Pablo en el Areópago de Atenas sobre el altar al 'Dios no conocido'."
+    }
+  ]
+}

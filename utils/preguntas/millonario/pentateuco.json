@@ -1,0 +1,3404 @@
+{
+  "grupo_id": "PENTATEUCO",
+  "grupo_nombre": "Pentateuco",
+  "libros": [
+    "Génesis",
+    "Éxodo",
+    "Levítico",
+    "Números",
+    "Deuteronomio"
+  ],
+  "total_preguntas": 226,
+  "preguntas": [
+    {
+      "libro": "Génesis",
+      "id": 1,
+      "dificultad": "facil",
+      "categoria": "Creación",
+      "pregunta": "¿Qué creó Dios el segundo día?",
+      "opciones": {
+        "A": "La luz",
+        "B": "El firmamento",
+        "C": "Los animales",
+        "D": "El sol"
+      },
+      "correcta": "B",
+      "explicacion": "Génesis 1:6-8 describe la creación del firmamento que separa las aguas."
+    },
+    {
+      "libro": "Génesis",
+      "id": 2,
+      "dificultad": "media",
+      "categoria": "Creación",
+      "pregunta": "¿Qué creó Dios el cuarto día?",
+      "opciones": {
+        "A": "Los animales",
+        "B": "Las estrellas, el sol y la luna",
+        "C": "El hombre",
+        "D": "Las plantas"
+      },
+      "correcta": "B",
+      "explicacion": "Génesis 1:14-19 indica que el sol, la luna y las estrellas fueron creados el cuarto día."
+    },
+    {
+      "libro": "Génesis",
+      "id": 3,
+      "dificultad": "dificil",
+      "categoria": "Creación",
+      "pregunta": "¿Qué nombre le dio Dios a la expansión?",
+      "opciones": {
+        "A": "Tierra",
+        "B": "Mar",
+        "C": "Cielos",
+        "D": "Luz"
+      },
+      "correcta": "C",
+      "explicacion": "Génesis 1:8 dice que Dios llamó a la expansión 'Cielos'."
+    },
+    {
+      "libro": "Génesis",
+      "id": 4,
+      "dificultad": "facil",
+      "categoria": "Edén",
+      "pregunta": "¿De qué árbol no debían comer Adán y Eva?",
+      "opciones": {
+        "A": "Árbol de la vida",
+        "B": "Árbol del conocimiento del bien y del mal",
+        "C": "Árbol del Edén",
+        "D": "Árbol de la sabiduría"
+      },
+      "correcta": "B",
+      "explicacion": "Génesis 2:17 menciona este árbol específicamente."
+    },
+    {
+      "libro": "Génesis",
+      "id": 5,
+      "dificultad": "media",
+      "categoria": "Edén",
+      "pregunta": "¿Qué animales llevó Dios ante Adán?",
+      "opciones": {
+        "A": "Solo aves",
+        "B": "Solo animales terrestres",
+        "C": "Todos los animales",
+        "D": "Solo reptiles"
+      },
+      "correcta": "C",
+      "explicacion": "Génesis 2:19 dice que Dios llevó los animales para que Adán les pusiera nombre."
+    },
+    {
+      "libro": "Génesis",
+      "id": 6,
+      "dificultad": "media",
+      "categoria": "Caída",
+      "pregunta": "¿Qué argumento usó la serpiente para engañar a Eva?",
+      "opciones": {
+        "A": "Que morirían inmediatamente",
+        "B": "Que serían como Dios",
+        "C": "Que serían ricos",
+        "D": "Que dominarían la tierra"
+      },
+      "correcta": "B",
+      "explicacion": "Génesis 3:5 menciona que serían como Dios, conociendo el bien y el mal."
+    },
+    {
+      "libro": "Génesis",
+      "id": 7,
+      "dificultad": "dificil",
+      "categoria": "Caída",
+      "pregunta": "¿Qué hizo Dios para cubrir la desnudez de Adán y Eva?",
+      "opciones": {
+        "A": "Les dio hojas",
+        "B": "Les dio túnicas de piel",
+        "C": "Los ocultó",
+        "D": "No hizo nada"
+      },
+      "correcta": "B",
+      "explicacion": "Génesis 3:21 dice que Dios hizo túnicas de piel."
+    },
+    {
+      "libro": "Génesis",
+      "id": 8,
+      "dificultad": "facil",
+      "categoria": "Caín y Abel",
+      "pregunta": "¿Qué ofrecía Abel a Dios?",
+      "opciones": {
+        "A": "Frutos",
+        "B": "Animales",
+        "C": "Oro",
+        "D": "Pan"
+      },
+      "correcta": "B",
+      "explicacion": "Abel ofrecía de los primogénitos de sus ovejas (Génesis 4:4)."
+    },
+    {
+      "libro": "Génesis",
+      "id": 9,
+      "dificultad": "media",
+      "categoria": "Diluvio",
+      "pregunta": "¿Cuántas personas entraron al arca?",
+      "opciones": {
+        "A": "6",
+        "B": "7",
+        "C": "8",
+        "D": "10"
+      },
+      "correcta": "C",
+      "explicacion": "Noé, su esposa, sus tres hijos y sus esposas (8 en total)."
+    },
+    {
+      "libro": "Génesis",
+      "id": 10,
+      "dificultad": "dificil",
+      "categoria": "Diluvio",
+      "pregunta": "¿Cuántos días prevalecieron las aguas sobre la tierra?",
+      "opciones": {
+        "A": "40",
+        "B": "100",
+        "C": "150",
+        "D": "365"
+      },
+      "correcta": "C",
+      "explicacion": "Génesis 7:24 menciona 150 días."
+    },
+    {
+      "libro": "Génesis",
+      "id": 11,
+      "dificultad": "media",
+      "categoria": "Babel",
+      "pregunta": "¿Qué material usaban en lugar de piedra en Babel?",
+      "opciones": {
+        "A": "Madera",
+        "B": "Ladrillo",
+        "C": "Oro",
+        "D": "Arena"
+      },
+      "correcta": "B",
+      "explicacion": "Génesis 11:3 menciona el uso de ladrillos."
+    },
+    {
+      "libro": "Génesis",
+      "id": 12,
+      "dificultad": "facil",
+      "categoria": "Abraham",
+      "pregunta": "¿De dónde salió Abraham cuando Dios lo llamó?",
+      "opciones": {
+        "A": "Egipto",
+        "B": "Ur de los caldeos",
+        "C": "Israel",
+        "D": "Babel"
+      },
+      "correcta": "B",
+      "explicacion": "Génesis 12 menciona que salió de Ur."
+    },
+    {
+      "libro": "Génesis",
+      "id": 13,
+      "dificultad": "dificil",
+      "categoria": "Abraham",
+      "pregunta": "¿Qué señal estableció Dios como pacto con Abraham?",
+      "opciones": {
+        "A": "El arcoíris",
+        "B": "La circuncisión",
+        "C": "El sacrificio",
+        "D": "El templo"
+      },
+      "correcta": "B",
+      "explicacion": "Génesis 17 establece la circuncisión como señal del pacto."
+    },
+    {
+      "libro": "Génesis",
+      "id": 14,
+      "dificultad": "media",
+      "categoria": "Lot",
+      "pregunta": "¿Qué le pasó a la esposa de Lot?",
+      "opciones": {
+        "A": "Murió en el fuego",
+        "B": "Se convirtió en estatua de sal",
+        "C": "Se perdió",
+        "D": "Huyó a Egipto"
+      },
+      "correcta": "B",
+      "explicacion": "Génesis 19:26 relata que se convirtió en estatua de sal."
+    },
+    {
+      "libro": "Génesis",
+      "id": 15,
+      "dificultad": "muy_dificil",
+      "categoria": "Abraham",
+      "pregunta": "¿Cuántos justos pidió Abraham para salvar Sodoma inicialmente?",
+      "opciones": {
+        "A": "10",
+        "B": "20",
+        "C": "50",
+        "D": "100"
+      },
+      "correcta": "C",
+      "explicacion": "Comenzó pidiendo por 50 justos (Génesis 18:24)."
+    },
+    {
+      "libro": "Génesis",
+      "id": 16,
+      "dificultad": "media",
+      "categoria": "Isaac",
+      "pregunta": "¿Dónde conoció el siervo de Abraham a Rebeca?",
+      "opciones": {
+        "A": "Un río",
+        "B": "Un pozo",
+        "C": "Una montaña",
+        "D": "Un templo"
+      },
+      "correcta": "B",
+      "explicacion": "Génesis 24 describe el encuentro en un pozo."
+    },
+    {
+      "libro": "Génesis",
+      "id": 17,
+      "dificultad": "dificil",
+      "categoria": "Jacob",
+      "pregunta": "¿Cuántos años trabajó Jacob por Raquel?",
+      "opciones": {
+        "A": "7",
+        "B": "14",
+        "C": "10",
+        "D": "20"
+      },
+      "correcta": "B",
+      "explicacion": "Trabajó 7 por Lea y 7 más por Raquel (Génesis 29)."
+    },
+    {
+      "libro": "Génesis",
+      "id": 18,
+      "dificultad": "media",
+      "categoria": "Jacob",
+      "pregunta": "¿Cómo se llamaba el suegro de Jacob?",
+      "opciones": {
+        "A": "Lot",
+        "B": "Labán",
+        "C": "Isaac",
+        "D": "Esaú"
+      },
+      "correcta": "B",
+      "explicacion": "Labán era su suegro (Génesis 29)."
+    },
+    {
+      "libro": "Génesis",
+      "id": 19,
+      "dificultad": "facil",
+      "categoria": "José",
+      "pregunta": "¿Qué habilidad especial tenía José?",
+      "opciones": {
+        "A": "Curar enfermos",
+        "B": "Interpretar sueños",
+        "C": "Profetizar guerras",
+        "D": "Construir ciudades"
+      },
+      "correcta": "B",
+      "explicacion": "José interpretaba sueños (Génesis 40-41)."
+    },
+    {
+      "libro": "Génesis",
+      "id": 20,
+      "dificultad": "dificil",
+      "categoria": "José",
+      "pregunta": "¿Qué cargo obtuvo José en Egipto?",
+      "opciones": {
+        "A": "General",
+        "B": "Gobernador",
+        "C": "Sacerdote",
+        "D": "Escriba"
+      },
+      "correcta": "B",
+      "explicacion": "Fue puesto como gobernador sobre Egipto (Génesis 41:41)."
+    },
+    {
+      "libro": "Génesis",
+      "id": 21,
+      "dificultad": "muy_dificil",
+      "categoria": "José",
+      "pregunta": "¿Qué nombre egipcio le dio el faraón a José?",
+      "opciones": {
+        "A": "Zafnat-panea",
+        "B": "Osiris",
+        "C": "Ramsés",
+        "D": "Seti"
+      },
+      "correcta": "A",
+      "explicacion": "Génesis 41:45 menciona este nombre."
+    },
+    {
+      "libro": "Génesis",
+      "id": 22,
+      "dificultad": "media",
+      "categoria": "José",
+      "pregunta": "¿Qué hizo José cuando se reveló a sus hermanos?",
+      "opciones": {
+        "A": "Los castigó",
+        "B": "Los perdonó",
+        "C": "Los expulsó",
+        "D": "Los encarceló"
+      },
+      "correcta": "B",
+      "explicacion": "José los perdonó reconociendo el plan de Dios (Génesis 45)."
+    },
+    {
+      "libro": "Génesis",
+      "id": 23,
+      "dificultad": "dificil",
+      "categoria": "José",
+      "pregunta": "¿Dónde se estableció la familia de Jacob en Egipto?",
+      "opciones": {
+        "A": "Gosén",
+        "B": "Menfis",
+        "C": "Cairo",
+        "D": "Sinai"
+      },
+      "correcta": "A",
+      "explicacion": "Génesis 47 menciona la tierra de Gosén."
+    },
+    {
+      "libro": "Génesis",
+      "id": 24,
+      "dificultad": "muy_dificil",
+      "categoria": "Jacob",
+      "pregunta": "¿Qué hijo recibió la bendición principal de Jacob al final?",
+      "opciones": {
+        "A": "Rubén",
+        "B": "Judá",
+        "C": "Leví",
+        "D": "Benjamín"
+      },
+      "correcta": "B",
+      "explicacion": "Génesis 49 destaca a Judá como líder."
+    },
+    {
+      "libro": "Génesis",
+      "id": 25,
+      "dificultad": "dificil",
+      "categoria": "Jacob",
+      "pregunta": "¿Dónde pidió Jacob ser enterrado?",
+      "opciones": {
+        "A": "Egipto",
+        "B": "Cueva de Macpela",
+        "C": "Babel",
+        "D": "Jericó"
+      },
+      "correcta": "B",
+      "explicacion": "Génesis 49:29 menciona la cueva de Macpela."
+    },
+    {
+      "libro": "Génesis",
+      "id": 26,
+      "dificultad": "media",
+      "categoria": "Creación",
+      "pregunta": "¿Qué creó Dios el tercer día?",
+      "opciones": {
+        "A": "El sol",
+        "B": "Los animales",
+        "C": "La vegetación y la tierra seca",
+        "D": "El hombre"
+      },
+      "correcta": "C",
+      "explicacion": "Génesis 1:9-13 describe la aparición de la tierra seca y la vegetación."
+    },
+    {
+      "libro": "Génesis",
+      "id": 27,
+      "dificultad": "dificil",
+      "categoria": "Creación",
+      "pregunta": "¿Qué bendición dio Dios a los animales marinos y aves?",
+      "opciones": {
+        "A": "Dominar la tierra",
+        "B": "Multiplicarse y llenar las aguas y el cielo",
+        "C": "Gobernar sobre el hombre",
+        "D": "Hablar"
+      },
+      "correcta": "B",
+      "explicacion": "Génesis 1:22 menciona esta bendición."
+    },
+    {
+      "libro": "Génesis",
+      "id": 28,
+      "dificultad": "media",
+      "categoria": "Edén",
+      "pregunta": "¿Cuántos ríos salían del Edén?",
+      "opciones": {
+        "A": "2",
+        "B": "3",
+        "C": "4",
+        "D": "5"
+      },
+      "correcta": "C",
+      "explicacion": "Génesis 2:10 menciona cuatro ríos."
+    },
+    {
+      "libro": "Génesis",
+      "id": 29,
+      "dificultad": "muy_dificil",
+      "categoria": "Edén",
+      "pregunta": "¿Cuál de estos NO es un río del Edén?",
+      "opciones": {
+        "A": "Pisón",
+        "B": "Gihón",
+        "C": "Tigris",
+        "D": "Nilo"
+      },
+      "correcta": "D",
+      "explicacion": "Los ríos eran Pisón, Gihón, Tigris y Éufrates."
+    },
+    {
+      "libro": "Génesis",
+      "id": 30,
+      "dificultad": "facil",
+      "categoria": "Caín y Abel",
+      "pregunta": "¿Qué profesión tenía Caín?",
+      "opciones": {
+        "A": "Pastor",
+        "B": "Agricultor",
+        "C": "Rey",
+        "D": "Carpintero"
+      },
+      "correcta": "B",
+      "explicacion": "Génesis 4:2 menciona que trabajaba la tierra."
+    },
+    {
+      "libro": "Génesis",
+      "id": 31,
+      "dificultad": "media",
+      "categoria": "Diluvio",
+      "pregunta": "¿Quién cerró la puerta del arca?",
+      "opciones": {
+        "A": "Noé",
+        "B": "Sem",
+        "C": "Dios",
+        "D": "Ángeles"
+      },
+      "correcta": "C",
+      "explicacion": "Génesis 7:16 dice que Dios cerró la puerta."
+    },
+    {
+      "libro": "Génesis",
+      "id": 32,
+      "dificultad": "dificil",
+      "categoria": "Diluvio",
+      "pregunta": "¿Cuántos pares de animales limpios llevó Noé?",
+      "opciones": {
+        "A": "1",
+        "B": "2",
+        "C": "7",
+        "D": "10"
+      },
+      "correcta": "C",
+      "explicacion": "Génesis 7:2 menciona siete pares."
+    },
+    {
+      "libro": "Génesis",
+      "id": 33,
+      "dificultad": "media",
+      "categoria": "Diluvio",
+      "pregunta": "¿Qué señal dio Dios como pacto después del diluvio?",
+      "opciones": {
+        "A": "La nube",
+        "B": "El arcoíris",
+        "C": "El fuego",
+        "D": "La estrella"
+      },
+      "correcta": "B",
+      "explicacion": "Génesis 9:13 menciona el arcoíris."
+    },
+    {
+      "libro": "Génesis",
+      "id": 34,
+      "dificultad": "dificil",
+      "categoria": "Noé",
+      "pregunta": "¿Qué hijo de Noé vio su desnudez?",
+      "opciones": {
+        "A": "Sem",
+        "B": "Jafet",
+        "C": "Cam",
+        "D": "Ninguno"
+      },
+      "correcta": "C",
+      "explicacion": "Génesis 9:22 menciona a Cam."
+    },
+    {
+      "libro": "Génesis",
+      "id": 35,
+      "dificultad": "muy_dificil",
+      "categoria": "Noé",
+      "pregunta": "¿A quién maldijo Noé?",
+      "opciones": {
+        "A": "Cam",
+        "B": "Canaán",
+        "C": "Sem",
+        "D": "Jafet"
+      },
+      "correcta": "B",
+      "explicacion": "Génesis 9:25 muestra que maldijo a Canaán."
+    },
+    {
+      "libro": "Génesis",
+      "id": 36,
+      "dificultad": "media",
+      "categoria": "Abraham",
+      "pregunta": "¿Quién acompañó a Abraham cuando salió de su tierra?",
+      "opciones": {
+        "A": "Isaac",
+        "B": "Lot",
+        "C": "Jacob",
+        "D": "José"
+      },
+      "correcta": "B",
+      "explicacion": "Lot, su sobrino, lo acompañó (Génesis 12)."
+    },
+    {
+      "libro": "Génesis",
+      "id": 37,
+      "dificultad": "dificil",
+      "categoria": "Abraham",
+      "pregunta": "¿Qué rey bendijo a Abraham?",
+      "opciones": {
+        "A": "Faraón",
+        "B": "Melquisedec",
+        "C": "Saúl",
+        "D": "David"
+      },
+      "correcta": "B",
+      "explicacion": "Génesis 14 menciona a Melquisedec."
+    },
+    {
+      "libro": "Génesis",
+      "id": 38,
+      "dificultad": "muy_dificil",
+      "categoria": "Abraham",
+      "pregunta": "¿Qué dio Abraham a Melquisedec?",
+      "opciones": {
+        "A": "Un sacrificio",
+        "B": "El diezmo",
+        "C": "Un altar",
+        "D": "Un animal"
+      },
+      "correcta": "B",
+      "explicacion": "Génesis 14:20 menciona el diezmo."
+    },
+    {
+      "libro": "Génesis",
+      "id": 39,
+      "dificultad": "media",
+      "categoria": "Agar",
+      "pregunta": "¿Cómo se llamaba el hijo de Agar?",
+      "opciones": {
+        "A": "Isaac",
+        "B": "Ismael",
+        "C": "Esaú",
+        "D": "Jacob"
+      },
+      "correcta": "B",
+      "explicacion": "Génesis 16 menciona a Ismael."
+    },
+    {
+      "libro": "Génesis",
+      "id": 40,
+      "dificultad": "dificil",
+      "categoria": "Agar",
+      "pregunta": "¿Dónde encontró el ángel a Agar?",
+      "opciones": {
+        "A": "En una ciudad",
+        "B": "En un pozo en el desierto",
+        "C": "En una montaña",
+        "D": "En una cueva"
+      },
+      "correcta": "B",
+      "explicacion": "Génesis 16:7 menciona un pozo en el desierto."
+    },
+    {
+      "libro": "Génesis",
+      "id": 41,
+      "dificultad": "media",
+      "categoria": "Isaac",
+      "pregunta": "¿Cuántos años tenía Abraham cuando nació Isaac?",
+      "opciones": {
+        "A": "75",
+        "B": "90",
+        "C": "100",
+        "D": "120"
+      },
+      "correcta": "C",
+      "explicacion": "Génesis 21:5 menciona 100 años."
+    },
+    {
+      "libro": "Génesis",
+      "id": 42,
+      "dificultad": "dificil",
+      "categoria": "Isaac",
+      "pregunta": "¿Dónde iba Abraham a sacrificar a Isaac?",
+      "opciones": {
+        "A": "Monte Sinaí",
+        "B": "Monte Moriah",
+        "C": "Monte Carmelo",
+        "D": "Monte Nebo"
+      },
+      "correcta": "B",
+      "explicacion": "Génesis 22 menciona el monte Moriah."
+    },
+    {
+      "libro": "Génesis",
+      "id": 43,
+      "dificultad": "media",
+      "categoria": "Isaac",
+      "pregunta": "¿Qué animal proveyó Dios en lugar de Isaac?",
+      "opciones": {
+        "A": "Cordero",
+        "B": "Cabra",
+        "C": "Carnero",
+        "D": "Toro"
+      },
+      "correcta": "C",
+      "explicacion": "Génesis 22:13 menciona un carnero."
+    },
+    {
+      "libro": "Génesis",
+      "id": 44,
+      "dificultad": "dificil",
+      "categoria": "Isaac",
+      "pregunta": "¿Dónde vivía Isaac cuando encontró esposa?",
+      "opciones": {
+        "A": "Egipto",
+        "B": "Beer-lajai-roi",
+        "C": "Babel",
+        "D": "Ur"
+      },
+      "correcta": "B",
+      "explicacion": "Génesis 24:62 menciona este lugar."
+    },
+    {
+      "libro": "Génesis",
+      "id": 45,
+      "dificultad": "muy_dificil",
+      "categoria": "Isaac",
+      "pregunta": "¿Quién ayudó a Jacob a engañar a Isaac?",
+      "opciones": {
+        "A": "Raquel",
+        "B": "Sara",
+        "C": "Rebeca",
+        "D": "Lea"
+      },
+      "correcta": "C",
+      "explicacion": "Génesis 27 muestra que Rebeca ayudó a Jacob."
+    },
+    {
+      "libro": "Génesis",
+      "id": 46,
+      "dificultad": "media",
+      "categoria": "Jacob",
+      "pregunta": "¿Qué usó Jacob para engañar a Isaac?",
+      "opciones": {
+        "A": "Piel de cabra",
+        "B": "Ropa de Esaú",
+        "C": "Ambas",
+        "D": "Ninguna"
+      },
+      "correcta": "C",
+      "explicacion": "Génesis 27 muestra que usó piel y ropa."
+    },
+    {
+      "libro": "Génesis",
+      "id": 47,
+      "dificultad": "dificil",
+      "categoria": "Jacob",
+      "pregunta": "¿Cuántos hijos tuvo Jacob?",
+      "opciones": {
+        "A": "10",
+        "B": "11",
+        "C": "12",
+        "D": "13"
+      },
+      "correcta": "C",
+      "explicacion": "Tuvo 12 hijos, las tribus de Israel."
+    },
+    {
+      "libro": "Génesis",
+      "id": 48,
+      "dificultad": "media",
+      "categoria": "José",
+      "pregunta": "¿Qué soñó José sobre sus hermanos?",
+      "opciones": {
+        "A": "Que lo atacaban",
+        "B": "Que se inclinaban ante él",
+        "C": "Que huían",
+        "D": "Que morían"
+      },
+      "correcta": "B",
+      "explicacion": "Génesis 37 describe este sueño."
+    },
+    {
+      "libro": "Génesis",
+      "id": 49,
+      "dificultad": "dificil",
+      "categoria": "José",
+      "pregunta": "¿Por cuánto dinero vendieron a José?",
+      "opciones": {
+        "A": "10 piezas de plata",
+        "B": "20 piezas de plata",
+        "C": "30 piezas de plata",
+        "D": "40 piezas de plata"
+      },
+      "correcta": "B",
+      "explicacion": "Génesis 37:28 menciona 20 piezas de plata."
+    },
+    {
+      "libro": "Génesis",
+      "id": 50,
+      "dificultad": "muy_dificil",
+      "categoria": "José",
+      "pregunta": "¿Qué oficio tenía Potifar?",
+      "opciones": {
+        "A": "Sacerdote",
+        "B": "Capitán de la guardia",
+        "C": "Gobernador",
+        "D": "General"
+      },
+      "correcta": "B",
+      "explicacion": "Génesis 39 lo describe así."
+    },
+    {
+      "libro": "Génesis",
+      "id": 51,
+      "dificultad": "media",
+      "categoria": "José",
+      "pregunta": "¿Por qué fue encarcelado José?",
+      "opciones": {
+        "A": "Robo",
+        "B": "Mentira de la esposa de Potifar",
+        "C": "Traición",
+        "D": "Deuda"
+      },
+      "correcta": "B",
+      "explicacion": "Fue acusado falsamente (Génesis 39)."
+    },
+    {
+      "libro": "Génesis",
+      "id": 52,
+      "dificultad": "dificil",
+      "categoria": "José",
+      "pregunta": "¿Qué soñó el copero del faraón?",
+      "opciones": {
+        "A": "Un río",
+        "B": "Una vid",
+        "C": "Una corona",
+        "D": "Un templo"
+      },
+      "correcta": "B",
+      "explicacion": "Génesis 40 describe la vid."
+    },
+    {
+      "libro": "Génesis",
+      "id": 53,
+      "dificultad": "dificil",
+      "categoria": "José",
+      "pregunta": "¿Qué soñó el panadero?",
+      "opciones": {
+        "A": "Pan en canastas",
+        "B": "Animales",
+        "C": "Agua",
+        "D": "Oro"
+      },
+      "correcta": "A",
+      "explicacion": "Génesis 40 menciona las canastas."
+    },
+    {
+      "libro": "Génesis",
+      "id": 54,
+      "dificultad": "media",
+      "categoria": "José",
+      "pregunta": "¿Qué soñó el faraón?",
+      "opciones": {
+        "A": "Montañas",
+        "B": "Vacas y espigas",
+        "C": "Ríos",
+        "D": "Fuego"
+      },
+      "correcta": "B",
+      "explicacion": "Génesis 41 describe ambos sueños."
+    },
+    {
+      "libro": "Génesis",
+      "id": 55,
+      "dificultad": "muy_dificil",
+      "categoria": "José",
+      "pregunta": "¿Cuántas vacas flacas vio el faraón?",
+      "opciones": {
+        "A": "5",
+        "B": "6",
+        "C": "7",
+        "D": "8"
+      },
+      "correcta": "C",
+      "explicacion": "Génesis 41 menciona 7 vacas flacas."
+    },
+    {
+      "libro": "Génesis",
+      "id": 56,
+      "dificultad": "media",
+      "categoria": "José",
+      "pregunta": "¿Qué hizo José para prepararse para el hambre?",
+      "opciones": {
+        "A": "Construyó ciudades",
+        "B": "Almacenó grano",
+        "C": "Entrenó soldados",
+        "D": "Hizo alianzas"
+      },
+      "correcta": "B",
+      "explicacion": "Génesis 41 describe el almacenamiento."
+    },
+    {
+      "libro": "Génesis",
+      "id": 57,
+      "dificultad": "dificil",
+      "categoria": "José",
+      "pregunta": "¿Qué exigió José a sus hermanos como prueba?",
+      "opciones": {
+        "A": "Dinero",
+        "B": "Traer a Benjamín",
+        "C": "Un sacrificio",
+        "D": "Un juramento"
+      },
+      "correcta": "B",
+      "explicacion": "Génesis 42-43."
+    },
+    {
+      "libro": "Génesis",
+      "id": 58,
+      "dificultad": "muy_dificil",
+      "categoria": "José",
+      "pregunta": "¿Qué hermano se ofreció en lugar de Benjamín?",
+      "opciones": {
+        "A": "Rubén",
+        "B": "Judá",
+        "C": "Leví",
+        "D": "Dan"
+      },
+      "correcta": "B",
+      "explicacion": "Génesis 44 muestra a Judá."
+    },
+    {
+      "libro": "Génesis",
+      "id": 59,
+      "dificultad": "media",
+      "categoria": "José",
+      "pregunta": "¿Qué dijo José sobre lo que sus hermanos hicieron?",
+      "opciones": {
+        "A": "Fue injusticia",
+        "B": "Fue castigo",
+        "C": "Dios lo encaminó para bien",
+        "D": "Fue error"
+      },
+      "correcta": "C",
+      "explicacion": "Génesis 50:20."
+    },
+    {
+      "libro": "Génesis",
+      "id": 60,
+      "dificultad": "dificil",
+      "categoria": "Final",
+      "pregunta": "¿Cuántos años vivió José?",
+      "opciones": {
+        "A": "100",
+        "B": "110",
+        "C": "120",
+        "D": "130"
+      },
+      "correcta": "B",
+      "explicacion": "Génesis 50:26 menciona 110 años."
+    },
+    {
+      "libro": "Génesis",
+      "id": 61,
+      "dificultad": "media",
+      "categoria": "Creación",
+      "pregunta": "¿Qué día reposó Dios?",
+      "opciones": {
+        "A": "Sexto",
+        "B": "Séptimo",
+        "C": "Quinto",
+        "D": "Octavo"
+      },
+      "correcta": "B",
+      "explicacion": "Génesis 2:2 indica que Dios reposó el séptimo día."
+    },
+    {
+      "libro": "Génesis",
+      "id": 62,
+      "dificultad": "facil",
+      "categoria": "Creación",
+      "pregunta": "¿Qué creó Dios primero?",
+      "opciones": {
+        "A": "El hombre",
+        "B": "La luz",
+        "C": "Los animales",
+        "D": "El sol"
+      },
+      "correcta": "B",
+      "explicacion": "Génesis 1:3."
+    },
+    {
+      "libro": "Génesis",
+      "id": 63,
+      "dificultad": "dificil",
+      "categoria": "Edén",
+      "pregunta": "¿Qué puso Dios para guardar el camino al árbol de la vida?",
+      "opciones": {
+        "A": "Ángeles",
+        "B": "Querubines y espada encendida",
+        "C": "Fuego",
+        "D": "Un muro"
+      },
+      "correcta": "B",
+      "explicacion": "Génesis 3:24."
+    },
+    {
+      "libro": "Génesis",
+      "id": 64,
+      "dificultad": "media",
+      "categoria": "Caín y Abel",
+      "pregunta": "¿Qué dijo Dios a Caín antes de pecar?",
+      "opciones": {
+        "A": "Huye",
+        "B": "El pecado está a la puerta",
+        "C": "Serás castigado",
+        "D": "Ora más"
+      },
+      "correcta": "B",
+      "explicacion": "Génesis 4:7."
+    },
+    {
+      "libro": "Génesis",
+      "id": 65,
+      "dificultad": "dificil",
+      "categoria": "Diluvio",
+      "pregunta": "¿Cuántos días llovió durante el diluvio?",
+      "opciones": {
+        "A": "30",
+        "B": "40",
+        "C": "100",
+        "D": "150"
+      },
+      "correcta": "B",
+      "explicacion": "Génesis 7:12."
+    },
+    {
+      "libro": "Génesis",
+      "id": 66,
+      "dificultad": "media",
+      "categoria": "Noé",
+      "pregunta": "¿Qué plantó Noé después del diluvio?",
+      "opciones": {
+        "A": "Un olivo",
+        "B": "Una viña",
+        "C": "Trigo",
+        "D": "Higuera"
+      },
+      "correcta": "B",
+      "explicacion": "Génesis 9:20."
+    },
+    {
+      "libro": "Génesis",
+      "id": 67,
+      "dificultad": "dificil",
+      "categoria": "Noé",
+      "pregunta": "¿Quién vio la desnudez de Noé?",
+      "opciones": {
+        "A": "Sem",
+        "B": "Cam",
+        "C": "Jafet",
+        "D": "Todos"
+      },
+      "correcta": "B",
+      "explicacion": "Génesis 9:22."
+    },
+    {
+      "libro": "Génesis",
+      "id": 68,
+      "dificultad": "muy_dificil",
+      "categoria": "Noé",
+      "pregunta": "¿A quién fue maldecido tras el incidente de Noé?",
+      "opciones": {
+        "A": "Cam",
+        "B": "Canaán",
+        "C": "Jafet",
+        "D": "Sem"
+      },
+      "correcta": "B",
+      "explicacion": "Génesis 9:25."
+    },
+    {
+      "libro": "Génesis",
+      "id": 69,
+      "dificultad": "media",
+      "categoria": "Babel",
+      "pregunta": "¿Qué querían construir en Babel?",
+      "opciones": {
+        "A": "Un templo",
+        "B": "Una torre",
+        "C": "Un palacio",
+        "D": "Una ciudad santa"
+      },
+      "correcta": "B",
+      "explicacion": "Génesis 11."
+    },
+    {
+      "libro": "Génesis",
+      "id": 70,
+      "dificultad": "dificil",
+      "categoria": "Babel",
+      "pregunta": "¿Cuál era el propósito de la torre?",
+      "opciones": {
+        "A": "Adorar a Dios",
+        "B": "Alcanzar el cielo y hacerse un nombre",
+        "C": "Protegerse",
+        "D": "Vivir en ella"
+      },
+      "correcta": "B",
+      "explicacion": "Génesis 11:4."
+    },
+    {
+      "libro": "Génesis",
+      "id": 71,
+      "dificultad": "media",
+      "categoria": "Abraham",
+      "pregunta": "¿Cómo se llamaba la esposa de Abraham originalmente?",
+      "opciones": {
+        "A": "Sara",
+        "B": "Sarai",
+        "C": "Rebeca",
+        "D": "Agar"
+      },
+      "correcta": "B",
+      "explicacion": "Génesis 17:15."
+    },
+    {
+      "libro": "Génesis",
+      "id": 72,
+      "dificultad": "dificil",
+      "categoria": "Abraham",
+      "pregunta": "¿Quién fue el hijo de Abraham con Agar?",
+      "opciones": {
+        "A": "Isaac",
+        "B": "Ismael",
+        "C": "Esaú",
+        "D": "Jacob"
+      },
+      "correcta": "B",
+      "explicacion": "Génesis 16."
+    },
+    {
+      "libro": "Génesis",
+      "id": 73,
+      "dificultad": "muy_dificil",
+      "categoria": "Abraham",
+      "pregunta": "¿Qué ciudad destruyó Dios junto con Sodoma?",
+      "opciones": {
+        "A": "Jericó",
+        "B": "Gomorra",
+        "C": "Nínive",
+        "D": "Babel"
+      },
+      "correcta": "B",
+      "explicacion": "Génesis 19."
+    },
+    {
+      "libro": "Génesis",
+      "id": 74,
+      "dificultad": "media",
+      "categoria": "Isaac",
+      "pregunta": "¿Quién fue el padre de Esaú y Jacob?",
+      "opciones": {
+        "A": "Abraham",
+        "B": "Isaac",
+        "C": "José",
+        "D": "Lot"
+      },
+      "correcta": "B",
+      "explicacion": "Génesis 25."
+    },
+    {
+      "libro": "Génesis",
+      "id": 75,
+      "dificultad": "dificil",
+      "categoria": "Jacob",
+      "pregunta": "¿Qué compró Jacob a Esaú?",
+      "opciones": {
+        "A": "Una tierra",
+        "B": "La primogenitura",
+        "C": "Ganado",
+        "D": "Un pozo"
+      },
+      "correcta": "B",
+      "explicacion": "Génesis 25:31."
+    },
+    {
+      "libro": "Génesis",
+      "id": 76,
+      "dificultad": "media",
+      "categoria": "Jacob",
+      "pregunta": "¿Quién ayudó a Jacob a engañar a Isaac?",
+      "opciones": {
+        "A": "Raquel",
+        "B": "Lea",
+        "C": "Rebeca",
+        "D": "Sara"
+      },
+      "correcta": "C",
+      "explicacion": "Génesis 27."
+    },
+    {
+      "libro": "Génesis",
+      "id": 77,
+      "dificultad": "dificil",
+      "categoria": "Jacob",
+      "pregunta": "¿Qué animal usó Jacob para engañar a Isaac?",
+      "opciones": {
+        "A": "Oveja",
+        "B": "Cabrito",
+        "C": "Toro",
+        "D": "Caballo"
+      },
+      "correcta": "B",
+      "explicacion": "Génesis 27."
+    },
+    {
+      "libro": "Génesis",
+      "id": 78,
+      "dificultad": "media",
+      "categoria": "José",
+      "pregunta": "¿Cuántos hermanos tenía José?",
+      "opciones": {
+        "A": "10",
+        "B": "11",
+        "C": "12",
+        "D": "9"
+      },
+      "correcta": "B",
+      "explicacion": "José tenía 11 hermanos."
+    },
+    {
+      "libro": "Génesis",
+      "id": 79,
+      "dificultad": "dificil",
+      "categoria": "José",
+      "pregunta": "¿Qué prenda especial recibió José de su padre?",
+      "opciones": {
+        "A": "Corona",
+        "B": "Túnica de colores",
+        "C": "Capa dorada",
+        "D": "Sandalias reales"
+      },
+      "correcta": "B",
+      "explicacion": "Génesis 37."
+    },
+    {
+      "libro": "Génesis",
+      "id": 80,
+      "dificultad": "media",
+      "categoria": "José",
+      "pregunta": "¿Por cuánto fue vendido José?",
+      "opciones": {
+        "A": "10 piezas de plata",
+        "B": "20 piezas de plata",
+        "C": "30 piezas de plata",
+        "D": "50 piezas de plata"
+      },
+      "correcta": "B",
+      "explicacion": "Génesis 37:28."
+    },
+    {
+      "libro": "Génesis",
+      "id": 81,
+      "dificultad": "dificil",
+      "categoria": "José",
+      "pregunta": "¿Qué hicieron los hermanos con la túnica de José?",
+      "opciones": {
+        "A": "La quemaron",
+        "B": "La escondieron",
+        "C": "La mancharon con sangre",
+        "D": "La vendieron"
+      },
+      "correcta": "C",
+      "explicacion": "Génesis 37:31."
+    },
+    {
+      "libro": "Génesis",
+      "id": 82,
+      "dificultad": "media",
+      "categoria": "José",
+      "pregunta": "¿Qué oficio tenía Potifar?",
+      "opciones": {
+        "A": "Rey",
+        "B": "Capitán de la guardia",
+        "C": "Sacerdote",
+        "D": "Mercader"
+      },
+      "correcta": "B",
+      "explicacion": "Génesis 39:1."
+    },
+    {
+      "libro": "Génesis",
+      "id": 83,
+      "dificultad": "dificil",
+      "categoria": "José",
+      "pregunta": "¿Qué olvidó hacer el copero tras salir de prisión?",
+      "opciones": {
+        "A": "Agradecer",
+        "B": "Hablar bien de José",
+        "C": "Orar",
+        "D": "Regresar"
+      },
+      "correcta": "B",
+      "explicacion": "Génesis 40:23."
+    },
+    {
+      "libro": "Génesis",
+      "id": 84,
+      "dificultad": "media",
+      "categoria": "José",
+      "pregunta": "¿Qué edad tenía José cuando se presentó ante Faraón?",
+      "opciones": {
+        "A": "25",
+        "B": "30",
+        "C": "35",
+        "D": "40"
+      },
+      "correcta": "B",
+      "explicacion": "Génesis 41:46."
+    },
+    {
+      "libro": "Génesis",
+      "id": 85,
+      "dificultad": "dificil",
+      "categoria": "José",
+      "pregunta": "¿Cómo llamó José a su primer hijo?",
+      "opciones": {
+        "A": "Efraín",
+        "B": "Manasés",
+        "C": "Judá",
+        "D": "Benjamín"
+      },
+      "correcta": "B",
+      "explicacion": "Génesis 41:51."
+    },
+    {
+      "libro": "Génesis",
+      "id": 86,
+      "dificultad": "dificil",
+      "categoria": "José",
+      "pregunta": "¿Cómo llamó José a su segundo hijo?",
+      "opciones": {
+        "A": "Manasés",
+        "B": "Efraín",
+        "C": "Leví",
+        "D": "Dan"
+      },
+      "correcta": "B",
+      "explicacion": "Génesis 41:52."
+    },
+    {
+      "libro": "Génesis",
+      "id": 87,
+      "dificultad": "media",
+      "categoria": "José",
+      "pregunta": "¿Quién bajó a Egipto primero en busca de alimento?",
+      "opciones": {
+        "A": "José",
+        "B": "Los hermanos de José",
+        "C": "Jacob",
+        "D": "Isaac"
+      },
+      "correcta": "B",
+      "explicacion": "Génesis 42."
+    },
+    {
+      "libro": "Génesis",
+      "id": 88,
+      "dificultad": "dificil",
+      "categoria": "José",
+      "pregunta": "¿A quién dejó José preso en Egipto la primera vez?",
+      "opciones": {
+        "A": "Judá",
+        "B": "Rubén",
+        "C": "Simeón",
+        "D": "Leví"
+      },
+      "correcta": "C",
+      "explicacion": "Génesis 42:24."
+    },
+    {
+      "libro": "Génesis",
+      "id": 89,
+      "dificultad": "muy_dificil",
+      "categoria": "José",
+      "pregunta": "¿Qué exigió José para probar a sus hermanos?",
+      "opciones": {
+        "A": "Dinero",
+        "B": "Traer a Benjamín",
+        "C": "Trabajar para él",
+        "D": "Confesar su pecado"
+      },
+      "correcta": "B",
+      "explicacion": "Génesis 42:15."
+    },
+    {
+      "libro": "Génesis",
+      "id": 90,
+      "dificultad": "media",
+      "categoria": "Jacob",
+      "pregunta": "¿Cuántas personas descendieron a Egipto con Jacob?",
+      "opciones": {
+        "A": "50",
+        "B": "66",
+        "C": "70",
+        "D": "75"
+      },
+      "correcta": "C",
+      "explicacion": "Génesis 46:27 menciona 70 personas."
+    },
+    {
+      "libro": "Génesis",
+      "id": 91,
+      "dificultad": "media",
+      "categoria": "José",
+      "pregunta": "¿Dónde estableció José a su familia en Egipto?",
+      "opciones": {
+        "A": "Menfis",
+        "B": "Gosén",
+        "C": "Tebas",
+        "D": "Sinaí"
+      },
+      "correcta": "B",
+      "explicacion": "Génesis 47:6 menciona la tierra de Gosén."
+    },
+    {
+      "libro": "Génesis",
+      "id": 92,
+      "dificultad": "dificil",
+      "categoria": "José",
+      "pregunta": "¿Qué pidió Jacob antes de morir respecto a su entierro?",
+      "opciones": {
+        "A": "Ser enterrado en Egipto",
+        "B": "Ser cremado",
+        "C": "Ser enterrado en Canaán",
+        "D": "Ser enterrado en el desierto"
+      },
+      "correcta": "C",
+      "explicacion": "Génesis 47:29-30."
+    },
+    {
+      "libro": "Génesis",
+      "id": 93,
+      "dificultad": "media",
+      "categoria": "Jacob",
+      "pregunta": "¿Sobre quién cruzó Jacob sus manos al bendecir?",
+      "opciones": {
+        "A": "Sus hijos",
+        "B": "Efraín y Manasés",
+        "C": "José y Benjamín",
+        "D": "Judá y Rubén"
+      },
+      "correcta": "B",
+      "explicacion": "Génesis 48."
+    },
+    {
+      "libro": "Génesis",
+      "id": 94,
+      "dificultad": "dificil",
+      "categoria": "Jacob",
+      "pregunta": "¿Quién recibió la bendición mayor entre los hijos de José?",
+      "opciones": {
+        "A": "Manasés",
+        "B": "Efraín",
+        "C": "Ambos igual",
+        "D": "Ninguno"
+      },
+      "correcta": "B",
+      "explicacion": "Génesis 48:19."
+    },
+    {
+      "libro": "Génesis",
+      "id": 95,
+      "dificultad": "muy_dificil",
+      "categoria": "Jacob",
+      "pregunta": "¿Qué dijo Jacob sobre Judá en su bendición?",
+      "opciones": {
+        "A": "Sería sacerdote",
+        "B": "El cetro no se apartará de él",
+        "C": "Sería esclavo",
+        "D": "Sería olvidado"
+      },
+      "correcta": "B",
+      "explicacion": "Génesis 49:10."
+    },
+    {
+      "libro": "Génesis",
+      "id": 96,
+      "dificultad": "media",
+      "categoria": "Jacob",
+      "pregunta": "¿Cuántos hijos tuvo Jacob?",
+      "opciones": {
+        "A": "10",
+        "B": "11",
+        "C": "12",
+        "D": "13"
+      },
+      "correcta": "C",
+      "explicacion": "Los 12 patriarcas de Israel."
+    },
+    {
+      "libro": "Génesis",
+      "id": 97,
+      "dificultad": "dificil",
+      "categoria": "Jacob",
+      "pregunta": "¿Dónde fue enterrado Jacob?",
+      "opciones": {
+        "A": "Egipto",
+        "B": "Monte Sinaí",
+        "C": "Cueva de Macpela",
+        "D": "Jerusalén"
+      },
+      "correcta": "C",
+      "explicacion": "Génesis 50:13."
+    },
+    {
+      "libro": "Génesis",
+      "id": 98,
+      "dificultad": "media",
+      "categoria": "José",
+      "pregunta": "¿Cuántos años vivió José?",
+      "opciones": {
+        "A": "100",
+        "B": "110",
+        "C": "120",
+        "D": "90"
+      },
+      "correcta": "B",
+      "explicacion": "Génesis 50:26."
+    },
+    {
+      "libro": "Génesis",
+      "id": 99,
+      "dificultad": "dificil",
+      "categoria": "José",
+      "pregunta": "¿Qué pidió José antes de morir?",
+      "opciones": {
+        "A": "Dinero",
+        "B": "Que llevaran sus huesos",
+        "C": "Un palacio",
+        "D": "Ser rey"
+      },
+      "correcta": "B",
+      "explicacion": "Génesis 50:25."
+    },
+    {
+      "libro": "Génesis",
+      "id": 100,
+      "dificultad": "media",
+      "categoria": "José",
+      "pregunta": "¿Qué temieron los hermanos tras la muerte de Jacob?",
+      "opciones": {
+        "A": "Hambre",
+        "B": "Castigo de José",
+        "C": "Exilio",
+        "D": "Guerra"
+      },
+      "correcta": "B",
+      "explicacion": "Génesis 50:15."
+    },
+    {
+      "libro": "Génesis",
+      "id": 101,
+      "dificultad": "dificil",
+      "categoria": "José",
+      "pregunta": "¿Qué respondió José a sus hermanos sobre el mal que le hicieron?",
+      "opciones": {
+        "A": "Los castigaría",
+        "B": "Dios lo encaminó a bien",
+        "C": "Los expulsaría",
+        "D": "Los ignoraría"
+      },
+      "correcta": "B",
+      "explicacion": "Génesis 50:20."
+    },
+    {
+      "libro": "Génesis",
+      "id": 102,
+      "dificultad": "facil",
+      "categoria": "Creación",
+      "pregunta": "¿Quién creó los cielos y la tierra?",
+      "opciones": {
+        "A": "Moisés",
+        "B": "Dios",
+        "C": "Adán",
+        "D": "Abraham"
+      },
+      "correcta": "B",
+      "explicacion": "Génesis 1:1."
+    },
+    {
+      "libro": "Génesis",
+      "id": 103,
+      "dificultad": "media",
+      "categoria": "Edén",
+      "pregunta": "¿Qué árbol estaba prohibido comer?",
+      "opciones": {
+        "A": "Árbol de la vida",
+        "B": "Árbol del conocimiento del bien y del mal",
+        "C": "Árbol del fruto rojo",
+        "D": "Árbol santo"
+      },
+      "correcta": "B",
+      "explicacion": "Génesis 2:17."
+    },
+    {
+      "libro": "Génesis",
+      "id": 104,
+      "dificultad": "dificil",
+      "categoria": "Diluvio",
+      "pregunta": "¿Qué señal dio Dios del pacto con Noé?",
+      "opciones": {
+        "A": "Fuego",
+        "B": "Arco iris",
+        "C": "Nube",
+        "D": "Estrella"
+      },
+      "correcta": "B",
+      "explicacion": "Génesis 9:13."
+    },
+    {
+      "libro": "Génesis",
+      "id": 105,
+      "dificultad": "media",
+      "categoria": "Abraham",
+      "pregunta": "¿Qué prometió Dios a Abraham?",
+      "opciones": {
+        "A": "Riqueza inmediata",
+        "B": "Muchos descendientes",
+        "C": "Un reino terrenal",
+        "D": "Vida eterna directa"
+      },
+      "correcta": "B",
+      "explicacion": "Génesis 12:2."
+    },
+    {
+      "libro": "Génesis",
+      "id": 106,
+      "dificultad": "dificil",
+      "categoria": "Abraham",
+      "pregunta": "¿Qué pidió Dios a Abraham como prueba?",
+      "opciones": {
+        "A": "Ayunar",
+        "B": "Sacrificar a Isaac",
+        "C": "Ir a Egipto",
+        "D": "Construir un templo"
+      },
+      "correcta": "B",
+      "explicacion": "Génesis 22."
+    },
+    {
+      "libro": "Génesis",
+      "id": 107,
+      "dificultad": "media",
+      "categoria": "Isaac",
+      "pregunta": "¿Quién fue la esposa de Isaac?",
+      "opciones": {
+        "A": "Sara",
+        "B": "Rebeca",
+        "C": "Raquel",
+        "D": "Lea"
+      },
+      "correcta": "B",
+      "explicacion": "Génesis 24."
+    },
+    {
+      "libro": "Génesis",
+      "id": 108,
+      "dificultad": "dificil",
+      "categoria": "Jacob",
+      "pregunta": "¿Cuántos años sirvió Jacob por Raquel en total?",
+      "opciones": {
+        "A": "7",
+        "B": "14",
+        "C": "10",
+        "D": "20"
+      },
+      "correcta": "B",
+      "explicacion": "Génesis 29."
+    },
+    {
+      "libro": "Génesis",
+      "id": 109,
+      "dificultad": "media",
+      "categoria": "Jacob",
+      "pregunta": "¿Cómo se llamó el lugar donde Jacob soñó con la escalera?",
+      "opciones": {
+        "A": "Hebrón",
+        "B": "Betel",
+        "C": "Siquem",
+        "D": "Gosén"
+      },
+      "correcta": "B",
+      "explicacion": "Génesis 28:19."
+    },
+    {
+      "libro": "Génesis",
+      "id": 110,
+      "dificultad": "dificil",
+      "categoria": "Jacob",
+      "pregunta": "¿Con quién luchó Jacob?",
+      "opciones": {
+        "A": "Un ángel",
+        "B": "Esaú",
+        "C": "Un rey",
+        "D": "Un soldado"
+      },
+      "correcta": "A",
+      "explicacion": "Génesis 32."
+    },
+    {
+      "libro": "Génesis",
+      "id": 111,
+      "dificultad": "media",
+      "categoria": "Jacob",
+      "pregunta": "¿Qué nombre recibió Jacob después de luchar?",
+      "opciones": {
+        "A": "Israel",
+        "B": "Judá",
+        "C": "Leví",
+        "D": "Dan"
+      },
+      "correcta": "A",
+      "explicacion": "Génesis 32:28."
+    },
+    {
+      "libro": "Génesis",
+      "id": 112,
+      "dificultad": "dificil",
+      "categoria": "José",
+      "pregunta": "¿Qué significaban las vacas gordas en el sueño de Faraón?",
+      "opciones": {
+        "A": "Plagas",
+        "B": "Años de abundancia",
+        "C": "Guerras",
+        "D": "Muerte"
+      },
+      "correcta": "B",
+      "explicacion": "Génesis 41."
+    },
+    {
+      "libro": "Génesis",
+      "id": 113,
+      "dificultad": "media",
+      "categoria": "José",
+      "pregunta": "¿Qué significaban las vacas flacas?",
+      "opciones": {
+        "A": "Prosperidad",
+        "B": "Hambre",
+        "C": "Fiestas",
+        "D": "Victoria"
+      },
+      "correcta": "B",
+      "explicacion": "Génesis 41."
+    },
+    {
+      "libro": "Génesis",
+      "id": 114,
+      "dificultad": "dificil",
+      "categoria": "José",
+      "pregunta": "¿Qué escondió José en el saco de Benjamín?",
+      "opciones": {
+        "A": "Dinero",
+        "B": "Una copa",
+        "C": "Comida",
+        "D": "Una carta"
+      },
+      "correcta": "B",
+      "explicacion": "Génesis 44."
+    },
+    {
+      "libro": "Génesis",
+      "id": 115,
+      "dificultad": "media",
+      "categoria": "José",
+      "pregunta": "¿Quién se ofreció como sustituto por Benjamín?",
+      "opciones": {
+        "A": "Rubén",
+        "B": "Judá",
+        "C": "Leví",
+        "D": "Simeón"
+      },
+      "correcta": "B",
+      "explicacion": "Génesis 44:33."
+    },
+    {
+      "libro": "Génesis",
+      "id": 116,
+      "dificultad": "dificil",
+      "categoria": "José",
+      "pregunta": "¿Qué hizo José al revelarse a sus hermanos?",
+      "opciones": {
+        "A": "Se enojó",
+        "B": "Lloró",
+        "C": "Los castigó",
+        "D": "Se fue"
+      },
+      "correcta": "B",
+      "explicacion": "Génesis 45:2."
+    },
+    {
+      "libro": "Génesis",
+      "id": 117,
+      "dificultad": "media",
+      "categoria": "José",
+      "pregunta": "¿Qué envió José a su padre como señal?",
+      "opciones": {
+        "A": "Cartas",
+        "B": "Carros",
+        "C": "Dinero",
+        "D": "Animales"
+      },
+      "correcta": "B",
+      "explicacion": "Génesis 45:27."
+    },
+    {
+      "libro": "Génesis",
+      "id": 118,
+      "dificultad": "dificil",
+      "categoria": "Jacob",
+      "pregunta": "¿Cuántos años vivió Jacob?",
+      "opciones": {
+        "A": "120",
+        "B": "147",
+        "C": "130",
+        "D": "150"
+      },
+      "correcta": "B",
+      "explicacion": "Génesis 47:28."
+    },
+    {
+      "libro": "Génesis",
+      "id": 119,
+      "dificultad": "muy_dificil",
+      "categoria": "Jacob",
+      "pregunta": "¿Qué tribu fue descrita como 'cachorro de león'?",
+      "opciones": {
+        "A": "Judá",
+        "B": "Benjamín",
+        "C": "Leví",
+        "D": "Dan"
+      },
+      "correcta": "A",
+      "explicacion": "Génesis 49:9."
+    },
+    {
+      "libro": "Génesis",
+      "id": 120,
+      "dificultad": "media",
+      "categoria": "General",
+      "pregunta": "¿Qué libro sigue después de Génesis?",
+      "opciones": {
+        "A": "Levítico",
+        "B": "Números",
+        "C": "Éxodo",
+        "D": "Deuteronomio"
+      },
+      "correcta": "C",
+      "explicacion": "El segundo libro de la Biblia es Éxodo."
+    },
+    {
+      "id": 121,
+      "libro": "Éxodo",
+      "dificultad": "facil",
+      "categoria": "Moisés",
+      "pregunta": "¿En qué objeto fue colocado el bebé Moisés para salvarlo?",
+      "opciones": {
+        "A": "Un cesto de papiro",
+        "B": "Una bolsa de cuero",
+        "C": "Un barco de madera",
+        "D": "Un canasto de mimbre"
+      },
+      "correcta": "A",
+      "explicacion": "Éxodo 2:3 describe que su madre lo colocó en un cesto de papiro cubierto con brea y alquitrán."
+    },
+    {
+      "id": 122,
+      "libro": "Éxodo",
+      "dificultad": "facil",
+      "categoria": "Moisés",
+      "pregunta": "¿Quién encontró al bebé Moisés flotando en el río?",
+      "opciones": {
+        "A": "La esposa del faraón",
+        "B": "La hija del faraón",
+        "C": "Una esclava hebrea",
+        "D": "Una sacerdotisa egipcia"
+      },
+      "correcta": "B",
+      "explicacion": "Éxodo 2:5 indica que fue la hija del faraón quien encontró la canasta."
+    },
+    {
+      "id": 123,
+      "libro": "Éxodo",
+      "dificultad": "facil",
+      "categoria": "Plagas",
+      "pregunta": "¿Cuántas plagas envió Dios sobre Egipto?",
+      "opciones": {
+        "A": "7",
+        "B": "10",
+        "C": "12",
+        "D": "9"
+      },
+      "correcta": "B",
+      "explicacion": "Dios envió 10 plagas sobre Egipto, descritas en Éxodo 7–12."
+    },
+    {
+      "id": 124,
+      "libro": "Éxodo",
+      "dificultad": "facil",
+      "categoria": "Mandamientos",
+      "pregunta": "¿En qué monte recibió Moisés los Diez Mandamientos?",
+      "opciones": {
+        "A": "Monte Carmelo",
+        "B": "Monte Nebo",
+        "C": "Monte Sinaí",
+        "D": "Monte Tabor"
+      },
+      "correcta": "C",
+      "explicacion": "Éxodo 19–20 narra que Dios entregó los mandamientos a Moisés en el Monte Sinaí."
+    },
+    {
+      "id": 125,
+      "libro": "Éxodo",
+      "dificultad": "facil",
+      "categoria": "Zarza",
+      "pregunta": "¿Qué vio Moisés arder sin consumirse en el desierto?",
+      "opciones": {
+        "A": "Un árbol de olivo",
+        "B": "Una zarza",
+        "C": "Una palmera",
+        "D": "Un cedro"
+      },
+      "correcta": "B",
+      "explicacion": "Éxodo 3:2 describe la zarza ardiente de donde Dios habló a Moisés."
+    },
+    {
+      "id": 126,
+      "libro": "Éxodo",
+      "dificultad": "facil",
+      "categoria": "Mar Rojo",
+      "pregunta": "¿Qué hizo Dios con el Mar Rojo para que Israel cruzara?",
+      "opciones": {
+        "A": "Lo congeló",
+        "B": "Lo dividió",
+        "C": "Lo secó completamente",
+        "D": "Los hizo caminar sobre él"
+      },
+      "correcta": "B",
+      "explicacion": "Éxodo 14:21 dice que Dios dividió las aguas con un fuerte viento oriental."
+    },
+    {
+      "id": 127,
+      "libro": "Éxodo",
+      "dificultad": "facil",
+      "categoria": "Maná",
+      "pregunta": "¿Cómo se llamaba el alimento que Dios envió del cielo en el desierto?",
+      "opciones": {
+        "A": "Maná",
+        "B": "Mirra",
+        "C": "Hisopo",
+        "D": "Sésamo"
+      },
+      "correcta": "A",
+      "explicacion": "Éxodo 16:31 nombra este alimento como maná, descrito como semilla de culantro blanco."
+    },
+    {
+      "id": 128,
+      "libro": "Éxodo",
+      "dificultad": "facil",
+      "categoria": "Mandamientos",
+      "pregunta": "¿En qué material estaban escritos los Diez Mandamientos?",
+      "opciones": {
+        "A": "Pergamino",
+        "B": "Papiro",
+        "C": "Tablas de piedra",
+        "D": "Madera de cedro"
+      },
+      "correcta": "C",
+      "explicacion": "Éxodo 31:18 describe las tablas de piedra escritas por el dedo de Dios."
+    },
+    {
+      "id": 129,
+      "libro": "Éxodo",
+      "dificultad": "media",
+      "categoria": "Moisés",
+      "pregunta": "¿A qué tierra huyó Moisés después de matar al egipcio?",
+      "opciones": {
+        "A": "Canaán",
+        "B": "Madián",
+        "C": "Moab",
+        "D": "Edom"
+      },
+      "correcta": "B",
+      "explicacion": "Éxodo 2:15 narra que Moisés huyó a la tierra de Madián."
+    },
+    {
+      "id": 130,
+      "libro": "Éxodo",
+      "dificultad": "media",
+      "categoria": "Moisés",
+      "pregunta": "¿Con quién se casó Moisés en Madián?",
+      "opciones": {
+        "A": "Miriam",
+        "B": "Débora",
+        "C": "Séfora",
+        "D": "Raquel"
+      },
+      "correcta": "C",
+      "explicacion": "Éxodo 2:21 menciona que Moisés se casó con Séfora, hija de Jetro."
+    },
+    {
+      "id": 131,
+      "libro": "Éxodo",
+      "dificultad": "media",
+      "categoria": "Zarza",
+      "pregunta": "¿Cuál era el nombre del lugar donde ardía la zarza?",
+      "opciones": {
+        "A": "Meriba",
+        "B": "Masá",
+        "C": "Horeb",
+        "D": "Bet-el"
+      },
+      "correcta": "C",
+      "explicacion": "Éxodo 3:1 indica que Moisés llevó el rebaño al monte de Horeb donde vio la zarza."
+    },
+    {
+      "id": 132,
+      "libro": "Éxodo",
+      "dificultad": "media",
+      "categoria": "Plagas",
+      "pregunta": "¿Cuál fue la primera plaga sobre Egipto?",
+      "opciones": {
+        "A": "Las ranas",
+        "B": "Los piojos",
+        "C": "El agua convertida en sangre",
+        "D": "La oscuridad"
+      },
+      "correcta": "C",
+      "explicacion": "Éxodo 7:20 narra que Moisés golpeó las aguas del Nilo y se convirtieron en sangre."
+    },
+    {
+      "id": 133,
+      "libro": "Éxodo",
+      "dificultad": "media",
+      "categoria": "Plagas",
+      "pregunta": "¿Cuál fue la última plaga sobre Egipto?",
+      "opciones": {
+        "A": "Las langostas",
+        "B": "Las tinieblas",
+        "C": "Muerte de los primogénitos",
+        "D": "La granizada"
+      },
+      "correcta": "C",
+      "explicacion": "Éxodo 12 narra la muerte de todos los primogénitos de Egipto como décima plaga."
+    },
+    {
+      "id": 134,
+      "libro": "Éxodo",
+      "dificultad": "media",
+      "categoria": "Pascua",
+      "pregunta": "¿Qué debían untar los israelitas en los marcos de sus puertas?",
+      "opciones": {
+        "A": "Aceite de oliva",
+        "B": "Sangre del cordero",
+        "C": "Agua del Nilo",
+        "D": "Ceniza"
+      },
+      "correcta": "B",
+      "explicacion": "Éxodo 12:7 ordena untar la sangre del cordero pascual en los postes de las puertas."
+    },
+    {
+      "id": 135,
+      "libro": "Éxodo",
+      "dificultad": "media",
+      "categoria": "Pascua",
+      "pregunta": "¿Qué tipo de pan debían comer los israelitas en la Pascua?",
+      "opciones": {
+        "A": "Pan con levadura",
+        "B": "Pan fermentado",
+        "C": "Pan sin levadura",
+        "D": "Pan de cebada"
+      },
+      "correcta": "C",
+      "explicacion": "Éxodo 12:8 manda comer el cordero con panes sin levadura y hierbas amargas."
+    },
+    {
+      "id": 136,
+      "libro": "Éxodo",
+      "dificultad": "media",
+      "categoria": "Mar Rojo",
+      "pregunta": "¿Qué hizo Dios para guiar a Israel de noche en el desierto?",
+      "opciones": {
+        "A": "Una estrella brillante",
+        "B": "Una columna de fuego",
+        "C": "Un ángel visible",
+        "D": "La luna llena permanente"
+      },
+      "correcta": "B",
+      "explicacion": "Éxodo 13:21 describe que Dios iba delante de ellos en columna de fuego por la noche."
+    },
+    {
+      "id": 137,
+      "libro": "Éxodo",
+      "dificultad": "media",
+      "categoria": "Mar Rojo",
+      "pregunta": "¿Qué ocurrió con el ejército del faraón al cruzar el mar?",
+      "opciones": {
+        "A": "Se rindieron",
+        "B": "Regresaron a Egipto",
+        "C": "Fueron cubiertos por las aguas",
+        "D": "Fueron capturados"
+      },
+      "correcta": "C",
+      "explicacion": "Éxodo 14:28 dice que las aguas volvieron y cubrieron a los carros y jinetes del faraón."
+    },
+    {
+      "id": 138,
+      "libro": "Éxodo",
+      "dificultad": "media",
+      "categoria": "Mandamientos",
+      "pregunta": "¿Qué hizo Moisés con las primeras tablas de los mandamientos al ver al pueblo adorar el becerro?",
+      "opciones": {
+        "A": "Las escondió",
+        "B": "Las tiró y quebró",
+        "C": "Las quemó",
+        "D": "Las entregó a los sacerdotes"
+      },
+      "correcta": "B",
+      "explicacion": "Éxodo 32:19 narra que Moisés arrojó las tablas y las quebró al pie del monte."
+    },
+    {
+      "id": 139,
+      "libro": "Éxodo",
+      "dificultad": "media",
+      "categoria": "Becerro de Oro",
+      "pregunta": "¿Quién fabricó el becerro de oro?",
+      "opciones": {
+        "A": "Moisés",
+        "B": "Josué",
+        "C": "Aarón",
+        "D": "Caleb"
+      },
+      "correcta": "C",
+      "explicacion": "Éxodo 32:4 dice que Aarón tomó el oro y lo fundió formando un becerro."
+    },
+    {
+      "id": 140,
+      "libro": "Éxodo",
+      "dificultad": "media",
+      "categoria": "Tabernáculo",
+      "pregunta": "¿Qué objeto sagrado estaba dentro del Lugar Santísimo?",
+      "opciones": {
+        "A": "El altar de bronce",
+        "B": "El arca del pacto",
+        "C": "El candelabro",
+        "D": "La mesa de los panes"
+      },
+      "correcta": "B",
+      "explicacion": "Éxodo 26:34 ubica el arca del testimonio dentro del lugar santísimo."
+    },
+    {
+      "id": 141,
+      "libro": "Éxodo",
+      "dificultad": "media",
+      "categoria": "Tabernáculo",
+      "pregunta": "¿Cuántas ramas tenía el candelabro del tabernáculo?",
+      "opciones": {
+        "A": "4",
+        "B": "5",
+        "C": "7",
+        "D": "12"
+      },
+      "correcta": "C",
+      "explicacion": "Éxodo 25:32 describe el candelabro con siete brazos o ramas."
+    },
+    {
+      "id": 142,
+      "libro": "Éxodo",
+      "dificultad": "media",
+      "categoria": "Moisés",
+      "pregunta": "¿Qué llevaba Moisés en la mano cuando Dios lo llamó?",
+      "opciones": {
+        "A": "Un arco",
+        "B": "Una vara",
+        "C": "Una espada",
+        "D": "Un hacha"
+      },
+      "correcta": "B",
+      "explicacion": "Éxodo 4:2 menciona la vara en mano de Moisés que Dios usó para realizar señales."
+    },
+    {
+      "id": 143,
+      "libro": "Éxodo",
+      "dificultad": "media",
+      "categoria": "Maná",
+      "pregunta": "¿Qué día no caía el maná del cielo?",
+      "opciones": {
+        "A": "El lunes",
+        "B": "El viernes",
+        "C": "El sábado",
+        "D": "El domingo"
+      },
+      "correcta": "C",
+      "explicacion": "Éxodo 16:26-27 indica que el maná no caía en el día de reposo (sábado)."
+    },
+    {
+      "id": 144,
+      "libro": "Éxodo",
+      "dificultad": "media",
+      "categoria": "Agua",
+      "pregunta": "¿Cómo obtuvo Moisés agua en Masá y Meriba?",
+      "opciones": {
+        "A": "Orando junto a un pozo",
+        "B": "Golpeando una roca con su vara",
+        "C": "El ángel la hizo brotar",
+        "D": "Cavando en la arena"
+      },
+      "correcta": "B",
+      "explicacion": "Éxodo 17:6 narra que Dios ordenó a Moisés golpear la roca en Horeb para sacar agua."
+    },
+    {
+      "id": 145,
+      "libro": "Éxodo",
+      "dificultad": "media",
+      "categoria": "Jetro",
+      "pregunta": "¿Qué consejo le dio Jetro a Moisés para no agotarse juzgando al pueblo?",
+      "opciones": {
+        "A": "Delegar en jueces capaces",
+        "B": "Reducir los juicios a tres días",
+        "C": "Enviar casos difíciles a Egipto",
+        "D": "Crear una asamblea de ancianos cada mes"
+      },
+      "correcta": "A",
+      "explicacion": "Éxodo 18:21-22 narra el consejo de Jetro de nombrar jueces para los asuntos menores."
+    },
+    {
+      "id": 146,
+      "libro": "Éxodo",
+      "dificultad": "media",
+      "categoria": "Plagas",
+      "pregunta": "¿Qué plaga cubrió el cielo de Egipto con oscuridad?",
+      "opciones": {
+        "A": "La octava",
+        "B": "La novena",
+        "C": "La séptima",
+        "D": "La quinta"
+      },
+      "correcta": "B",
+      "explicacion": "Éxodo 10:21-22 describe la novena plaga: tres días de oscuridad total sobre Egipto."
+    },
+    {
+      "id": 147,
+      "libro": "Éxodo",
+      "dificultad": "media",
+      "categoria": "Plagas",
+      "pregunta": "¿Qué plaga destruyó las cosechas con piedras y fuego?",
+      "opciones": {
+        "A": "Las langostas",
+        "B": "La granizada",
+        "C": "Los tábanos",
+        "D": "El granizo con fuego"
+      },
+      "correcta": "D",
+      "explicacion": "Éxodo 9:24 describe granizo mezclado con fuego, la séptima plaga."
+    },
+    {
+      "id": 148,
+      "libro": "Éxodo",
+      "dificultad": "media",
+      "categoria": "Mandamientos",
+      "pregunta": "¿Cuál es el cuarto mandamiento?",
+      "opciones": {
+        "A": "No matarás",
+        "B": "Honra a tu padre y a tu madre",
+        "C": "Guardar el día de reposo",
+        "D": "No tendrás dioses ajenos"
+      },
+      "correcta": "C",
+      "explicacion": "Éxodo 20:8 ordena guardar el día de reposo y santificarlo."
+    },
+    {
+      "id": 149,
+      "libro": "Éxodo",
+      "dificultad": "dificil",
+      "categoria": "Moisés",
+      "pregunta": "¿Cuántos años tenía Moisés cuando se presentó ante el faraón?",
+      "opciones": {
+        "A": "40",
+        "B": "60",
+        "C": "80",
+        "D": "70"
+      },
+      "correcta": "C",
+      "explicacion": "Éxodo 7:7 indica que Moisés tenía 80 años y Aarón 83 cuando hablaron al faraón."
+    },
+    {
+      "id": 150,
+      "libro": "Éxodo",
+      "dificultad": "dificil",
+      "categoria": "Zarza",
+      "pregunta": "¿Cuál fue la primera excusa de Moisés para no ir ante el faraón?",
+      "opciones": {
+        "A": "Que era tartamudo",
+        "B": "Que nadie le creería",
+        "C": "Que era extranjero",
+        "D": "Preguntó cómo se llamaba Dios"
+      },
+      "correcta": "B",
+      "explicacion": "Éxodo 3:13 y 4:1 muestran que Moisés dijo que el pueblo no le creería."
+    },
+    {
+      "id": 151,
+      "libro": "Éxodo",
+      "dificultad": "dificil",
+      "categoria": "Plagas",
+      "pregunta": "¿Qué plaga afectó solo al ganado de los egipcios pero no al de Israel?",
+      "opciones": {
+        "A": "Las úlceras",
+        "B": "La granizada",
+        "C": "La muerte del ganado (quinta plaga)",
+        "D": "Las langostas"
+      },
+      "correcta": "C",
+      "explicacion": "Éxodo 9:6 especifica que murió todo el ganado de Egipto pero ninguno del de Israel."
+    },
+    {
+      "id": 152,
+      "libro": "Éxodo",
+      "dificultad": "dificil",
+      "categoria": "Tabernáculo",
+      "pregunta": "¿Quién fue llamado por Dios y llenado de sabiduría para construir el tabernáculo?",
+      "opciones": {
+        "A": "Moisés",
+        "B": "Bezaleel",
+        "C": "Aarón",
+        "D": "Josué"
+      },
+      "correcta": "B",
+      "explicacion": "Éxodo 31:2-3 menciona que Bezaleel fue llenado del Espíritu de Dios para toda obra de arte."
+    },
+    {
+      "id": 153,
+      "libro": "Éxodo",
+      "dificultad": "dificil",
+      "categoria": "Tabernáculo",
+      "pregunta": "¿De qué madera estaba hecho el arca del pacto?",
+      "opciones": {
+        "A": "Cedro",
+        "B": "Olivo",
+        "C": "Acacia",
+        "D": "Ciprés"
+      },
+      "correcta": "C",
+      "explicacion": "Éxodo 25:10 especifica que el arca debía construirse de madera de acacia."
+    },
+    {
+      "id": 154,
+      "libro": "Éxodo",
+      "dificultad": "dificil",
+      "categoria": "Nombre de Dios",
+      "pregunta": "¿Qué nombre le dio Dios a Moisés cuando le preguntó cómo se llamaba?",
+      "opciones": {
+        "A": "Elohim",
+        "B": "Adonai",
+        "C": "YO SOY EL QUE SOY",
+        "D": "El Shaddai"
+      },
+      "correcta": "C",
+      "explicacion": "Éxodo 3:14 registra que Dios dijo: 'YO SOY EL QUE SOY', revelando su nombre eterno."
+    },
+    {
+      "id": 155,
+      "libro": "Éxodo",
+      "dificultad": "dificil",
+      "categoria": "Pascua",
+      "pregunta": "¿En qué mes del calendario hebreo debía celebrarse la Pascua?",
+      "opciones": {
+        "A": "Primer mes (Nisán)",
+        "B": "Tercer mes",
+        "C": "Séptimo mes",
+        "D": "Décimo mes"
+      },
+      "correcta": "A",
+      "explicacion": "Éxodo 12:2-3 establece que Abib (Nisán) sería el primer mes y la Pascua el día 14."
+    },
+    {
+      "id": 156,
+      "libro": "Éxodo",
+      "dificultad": "dificil",
+      "categoria": "Becerro de Oro",
+      "pregunta": "¿Cuántas personas murieron por la espada después del pecado del becerro de oro?",
+      "opciones": {
+        "A": "1.000",
+        "B": "3.000",
+        "C": "10.000",
+        "D": "5.000"
+      },
+      "correcta": "B",
+      "explicacion": "Éxodo 32:28 dice que los hijos de Leví mataron ese día como a tres mil hombres."
+    },
+    {
+      "id": 157,
+      "libro": "Éxodo",
+      "dificultad": "dificil",
+      "categoria": "Gloria de Dios",
+      "pregunta": "¿Qué vio Moisés cuando Dios pasó ante él en la hendidura de la roca?",
+      "opciones": {
+        "A": "El rostro de Dios",
+        "B": "Las espaldas de Dios",
+        "C": "Un ángel de fuego",
+        "D": "Una nube de gloria"
+      },
+      "correcta": "B",
+      "explicacion": "Éxodo 33:23 dice que Dios quitaría la mano y Moisés vería sus espaldas, no su rostro."
+    },
+    {
+      "id": 158,
+      "libro": "Éxodo",
+      "dificultad": "dificil",
+      "categoria": "Moisés",
+      "pregunta": "¿Qué le ocurrió al rostro de Moisés después de hablar con Dios?",
+      "opciones": {
+        "A": "Brillaba intensamente",
+        "B": "Se oscureció",
+        "C": "Se cubrió de manchas",
+        "D": "Se volvió blanco como la nieve"
+      },
+      "correcta": "A",
+      "explicacion": "Éxodo 34:29-30 narra que la piel del rostro de Moisés resplandecía y el pueblo temía acercarse."
+    },
+    {
+      "id": 159,
+      "libro": "Éxodo",
+      "dificultad": "muy_dificil",
+      "categoria": "Tabernáculo",
+      "pregunta": "¿Cuántas tablas de acacia formaban las paredes del tabernáculo?",
+      "opciones": {
+        "A": "20",
+        "B": "40",
+        "C": "48",
+        "D": "60"
+      },
+      "correcta": "C",
+      "explicacion": "Éxodo 26:15-25 detalla 48 tablas: 20 al sur, 20 al norte y 8 al occidente."
+    },
+    {
+      "id": 160,
+      "libro": "Éxodo",
+      "dificultad": "muy_dificil",
+      "categoria": "Plagas",
+      "pregunta": "¿Cuál fue la única plaga que el faraón pidió expresamente que terminara esa misma noche?",
+      "opciones": {
+        "A": "Las ranas",
+        "B": "Los mosquitos",
+        "C": "Las úlceras",
+        "D": "Las langostas"
+      },
+      "correcta": "A",
+      "explicacion": "Éxodo 8:9-10 muestra que el faraón rogó a Moisés que quitara las ranas, y Moisés oró esa misma noche."
+    },
+    {
+      "id": 161,
+      "libro": "Éxodo",
+      "dificultad": "muy_dificil",
+      "categoria": "Aarón",
+      "pregunta": "¿Cuál era el nombre del sumo sacerdote del pectoral de Aarón que contenía 12 piedras preciosas?",
+      "opciones": {
+        "A": "Efod",
+        "B": "Pectoral del juicio",
+        "C": "Manto azul",
+        "D": "Turbante sagrado"
+      },
+      "correcta": "B",
+      "explicacion": "Éxodo 28:15 llama al objeto 'pectoral del juicio', que contenía las doce piedras de las tribus."
+    },
+    {
+      "id": 162,
+      "libro": "Éxodo",
+      "dificultad": "muy_dificil",
+      "categoria": "Nombre de Dios",
+      "pregunta": "¿Con qué nombre no se había dado a conocer a Abraham, Isaac y Jacob, según Éxodo 6?",
+      "opciones": {
+        "A": "Elohim",
+        "B": "YHWH (Jehová)",
+        "C": "El Shaddai",
+        "D": "Adonai"
+      },
+      "correcta": "B",
+      "explicacion": "Éxodo 6:3 dice que Dios se apareció como El Shaddai, pero con el nombre YHWH no se dio a conocer a los patriarcas."
+    },
+    {
+      "id": 163,
+      "libro": "Levítico",
+      "dificultad": "facil",
+      "categoria": "Ofrendas",
+      "pregunta": "¿Cuántos tipos principales de ofrendas describe Levítico?",
+      "opciones": {
+        "A": "3",
+        "B": "5",
+        "C": "7",
+        "D": "10"
+      },
+      "correcta": "B",
+      "explicacion": "Levítico describe 5 ofrendas principales: holocausto, ofrenda, ofrenda de paz, expiación y culpa."
+    },
+    {
+      "id": 164,
+      "libro": "Levítico",
+      "dificultad": "facil",
+      "categoria": "Sacerdotes",
+      "pregunta": "¿Quién fue el primer sumo sacerdote de Israel?",
+      "opciones": {
+        "A": "Moisés",
+        "B": "Aarón",
+        "C": "Eleazar",
+        "D": "Itamar"
+      },
+      "correcta": "B",
+      "explicacion": "Levítico 8 describe la consagración de Aarón como primer sumo sacerdote."
+    },
+    {
+      "id": 165,
+      "libro": "Levítico",
+      "dificultad": "facil",
+      "categoria": "Animales puros",
+      "pregunta": "¿Cuáles son las características de un animal terrestre considerado puro?",
+      "opciones": {
+        "A": "Que tenga plumas y vuele",
+        "B": "Que tenga pezuña hendida y rumie",
+        "C": "Que viva en agua y tenga escamas",
+        "D": "Que sea doméstico"
+      },
+      "correcta": "B",
+      "explicacion": "Levítico 11:3 define como puro al animal que tiene pezuña hendida y rumia."
+    },
+    {
+      "id": 166,
+      "libro": "Levítico",
+      "dificultad": "facil",
+      "categoria": "Año de Jubileo",
+      "pregunta": "¿Cada cuántos años se celebraba el Año de Jubileo?",
+      "opciones": {
+        "A": "7",
+        "B": "25",
+        "C": "50",
+        "D": "100"
+      },
+      "correcta": "C",
+      "explicacion": "Levítico 25:10-11 establece que el año cincuenta sería el año de jubileo."
+    },
+    {
+      "id": 167,
+      "libro": "Levítico",
+      "dificultad": "facil",
+      "categoria": "Día de Expiación",
+      "pregunta": "¿Cómo se llama el día sagrado en que el sumo sacerdote entraba al Lugar Santísimo?",
+      "opciones": {
+        "A": "Día de las Primicias",
+        "B": "Día de la Expiación (Yom Kippur)",
+        "C": "Día del Jubileo",
+        "D": "Día de los Tabernáculos"
+      },
+      "correcta": "B",
+      "explicacion": "Levítico 16 describe el Día de Expiación como el único día en que el sumo sacerdote entraba al Lugar Santísimo."
+    },
+    {
+      "id": 168,
+      "libro": "Levítico",
+      "dificultad": "facil",
+      "categoria": "Santidad",
+      "pregunta": "¿Qué frase repite Levítico como razón para ser santos?",
+      "opciones": {
+        "A": "'Porque yo soy justo'",
+        "B": "'Porque yo soy vuestro Dios'",
+        "C": "'Porque yo soy santo'",
+        "D": "'Porque yo soy eterno'"
+      },
+      "correcta": "C",
+      "explicacion": "Levítico 11:44-45 y 19:2 repiten: 'sed santos, porque yo soy santo'."
+    },
+    {
+      "id": 169,
+      "libro": "Levítico",
+      "dificultad": "media",
+      "categoria": "Ofrendas",
+      "pregunta": "¿Qué era el holocausto?",
+      "opciones": {
+        "A": "Ofrenda de primicias de los frutos",
+        "B": "Animal completamente quemado en el altar",
+        "C": "Ofrenda de pan sin levadura",
+        "D": "Sacrificio solo de aves"
+      },
+      "correcta": "B",
+      "explicacion": "Levítico 1 describe el holocausto como una ofrenda quemada completamente ante Dios."
+    },
+    {
+      "id": 170,
+      "libro": "Levítico",
+      "dificultad": "media",
+      "categoria": "Nadab y Abiú",
+      "pregunta": "¿Qué hicieron Nadab y Abiú que causó su muerte?",
+      "opciones": {
+        "A": "Robaron del altar",
+        "B": "Ofrecieron fuego extraño ante Dios",
+        "C": "Blasfemaron el nombre de Dios",
+        "D": "Comieron carne de animales impuros"
+      },
+      "correcta": "B",
+      "explicacion": "Levítico 10:1-2 narra que ofrecieron fuego no mandado por Dios y murieron consumidos."
+    },
+    {
+      "id": 171,
+      "libro": "Levítico",
+      "dificultad": "media",
+      "categoria": "Lepra",
+      "pregunta": "¿Quién debía examinar a una persona con lepra?",
+      "opciones": {
+        "A": "El rey",
+        "B": "El juez",
+        "C": "El sacerdote",
+        "D": "El profeta"
+      },
+      "correcta": "C",
+      "explicacion": "Levítico 13:2 ordena que el afectado sea llevado al sacerdote para examen y diagnóstico."
+    },
+    {
+      "id": 172,
+      "libro": "Levítico",
+      "dificultad": "media",
+      "categoria": "Chivo expiatorio",
+      "pregunta": "¿Qué simbolizaba el chivo que era soltado al desierto en el Día de Expiación?",
+      "opciones": {
+        "A": "La ofrenda al Señor",
+        "B": "Los pecados del pueblo llevados lejos",
+        "C": "El sacrificio del sumo sacerdote",
+        "D": "La purificación del tabernáculo"
+      },
+      "correcta": "B",
+      "explicacion": "Levítico 16:21-22 describe cómo Aarón confesaba los pecados sobre el chivo que luego era soltado."
+    },
+    {
+      "id": 173,
+      "libro": "Levítico",
+      "dificultad": "media",
+      "categoria": "Fiestas",
+      "pregunta": "¿Cuántas fiestas solemnes describe Levítico 23?",
+      "opciones": {
+        "A": "5",
+        "B": "6",
+        "C": "7",
+        "D": "8"
+      },
+      "correcta": "C",
+      "explicacion": "Levítico 23 establece 7 fiestas: Pascua, Panes sin levadura, Primicias, Pentecostés, Trompetas, Expiación y Tabernáculos."
+    },
+    {
+      "id": 174,
+      "libro": "Levítico",
+      "dificultad": "media",
+      "categoria": "Año sabático",
+      "pregunta": "¿Qué debía hacerse con la tierra cada 7 años?",
+      "opciones": {
+        "A": "Dividirse entre los pobres",
+        "B": "Darse reposo, no sembrarse",
+        "C": "Quemarse para purificarla",
+        "D": "Dedicarse al templo"
+      },
+      "correcta": "B",
+      "explicacion": "Levítico 25:4 ordena que la tierra descanse en el séptimo año, sin sembrar ni podar."
+    },
+    {
+      "id": 175,
+      "libro": "Levítico",
+      "dificultad": "media",
+      "categoria": "Animales puros",
+      "pregunta": "¿Qué pez era considerado impuro según Levítico?",
+      "opciones": {
+        "A": "El que tiene escamas y aletas",
+        "B": "El que no tiene escamas ni aletas",
+        "C": "El que vive en río",
+        "D": "El que es pequeño"
+      },
+      "correcta": "B",
+      "explicacion": "Levítico 11:10 declara abominación al ser acuático sin aletas ni escamas."
+    },
+    {
+      "id": 176,
+      "libro": "Levítico",
+      "dificultad": "media",
+      "categoria": "Amor al prójimo",
+      "pregunta": "¿Qué mandato de Levítico resume Jesús como uno de los dos grandes mandamientos?",
+      "opciones": {
+        "A": "'Honra al sacerdote'",
+        "B": "'Amarás a tu prójimo como a ti mismo'",
+        "C": "'Guarda el sábado'",
+        "D": "'No comerás sangre'"
+      },
+      "correcta": "B",
+      "explicacion": "Levítico 19:18 ordena amar al prójimo como a uno mismo, citado por Jesús en Mateo 22:39."
+    },
+    {
+      "id": 177,
+      "libro": "Levítico",
+      "dificultad": "media",
+      "categoria": "Sacerdotes",
+      "pregunta": "¿Qué tribu fue designada para el sacerdocio?",
+      "opciones": {
+        "A": "Judá",
+        "B": "Efraín",
+        "C": "Leví",
+        "D": "Benjamín"
+      },
+      "correcta": "C",
+      "explicacion": "Levítico y Números establecen que solo los descendientes de Leví podían servir como sacerdotes."
+    },
+    {
+      "id": 178,
+      "libro": "Levítico",
+      "dificultad": "media",
+      "categoria": "Ofrendas",
+      "pregunta": "¿Qué ingrediente nunca podía incluirse en una ofrenda quemada al Señor?",
+      "opciones": {
+        "A": "Sal",
+        "B": "Aceite",
+        "C": "Levadura",
+        "D": "Incienso"
+      },
+      "correcta": "C",
+      "explicacion": "Levítico 2:11 prohíbe la levadura y la miel en las ofrendas quemadas al Señor."
+    },
+    {
+      "id": 179,
+      "libro": "Levítico",
+      "dificultad": "dificil",
+      "categoria": "Día de Expiación",
+      "pregunta": "¿Cuántos machos cabríos se usaban en el Día de Expiación y para qué?",
+      "opciones": {
+        "A": "Uno para Dios y uno para el pueblo",
+        "B": "Dos: uno para Jehová y uno para Azazel",
+        "C": "Tres: uno quemado, uno soltado y uno para el sacerdote",
+        "D": "Cuatro: uno por cada tribu representativa"
+      },
+      "correcta": "B",
+      "explicacion": "Levítico 16:8 especifica dos machos cabríos: uno para Jehová (sacrificado) y uno para Azazel (soltado)."
+    },
+    {
+      "id": 180,
+      "libro": "Levítico",
+      "dificultad": "dificil",
+      "categoria": "Sacerdotes",
+      "pregunta": "¿Qué se colocó en la mano derecha de Aarón e hijos durante la consagración?",
+      "opciones": {
+        "A": "Aceite de la unción",
+        "B": "Sangre del carnero de consagración",
+        "C": "El pan de la proposición",
+        "D": "El pectoral del juicio"
+      },
+      "correcta": "B",
+      "explicacion": "Levítico 8:23-24 describe que Moisés tomó sangre y la puso en el lóbulo de su oreja derecha, mano y pie."
+    },
+    {
+      "id": 181,
+      "libro": "Levítico",
+      "dificultad": "dificil",
+      "categoria": "Año de Jubileo",
+      "pregunta": "¿Qué ocurría con las propiedades vendidas en el Año de Jubileo?",
+      "opciones": {
+        "A": "Quedaban en manos del comprador",
+        "B": "Se dividían entre sacerdotes y propietarios",
+        "C": "Volvían a sus dueños originales",
+        "D": "Se donaban al tabernáculo"
+      },
+      "correcta": "C",
+      "explicacion": "Levítico 25:28 establece que en el jubileo la propiedad volvía al dueño original."
+    },
+    {
+      "id": 182,
+      "libro": "Levítico",
+      "dificultad": "dificil",
+      "categoria": "Lepra",
+      "pregunta": "¿Qué rito debía hacerse para purificar a un leproso sanado?",
+      "opciones": {
+        "A": "Baño en el río Jordán",
+        "B": "Sacrificio de dos aves, cedro, hisopo y grana",
+        "C": "Ofrenda de incienso por 7 días",
+        "D": "Circuncisión renovada"
+      },
+      "correcta": "B",
+      "explicacion": "Levítico 14:4-7 describe el ritual de purificación con dos pájaros, madera de cedro, carmesí e hisopo."
+    },
+    {
+      "id": 183,
+      "libro": "Levítico",
+      "dificultad": "muy_dificil",
+      "categoria": "Ofrendas",
+      "pregunta": "¿Qué parte del animal de la ofrenda de paz se quemaba en el altar?",
+      "opciones": {
+        "A": "Todo el animal",
+        "B": "Solo la cabeza",
+        "C": "La grasa, los riñones y el lóbulo del hígado",
+        "D": "Las patas y la cola"
+      },
+      "correcta": "C",
+      "explicacion": "Levítico 3:9-11 especifica que la grasa, los riñones y el lóbulo del hígado se quemaban en el altar."
+    },
+    {
+      "id": 184,
+      "libro": "Levítico",
+      "dificultad": "muy_dificil",
+      "categoria": "Fiestas",
+      "pregunta": "¿Cuántos días duraba la Fiesta de los Tabernáculos?",
+      "opciones": {
+        "A": "3",
+        "B": "7",
+        "C": "8",
+        "D": "14"
+      },
+      "correcta": "C",
+      "explicacion": "Levítico 23:36 indica siete días de fiesta más un octavo día de asamblea solemne."
+    },
+    {
+      "id": 185,
+      "libro": "Números",
+      "dificultad": "facil",
+      "categoria": "Censo",
+      "pregunta": "¿Para qué fue realizado el primer censo en el libro de Números?",
+      "opciones": {
+        "A": "Para cobrar impuestos",
+        "B": "Para contar los hombres aptos para la guerra",
+        "C": "Para repartir la tierra",
+        "D": "Para organizar las fiestas"
+      },
+      "correcta": "B",
+      "explicacion": "Números 1:2-3 ordena contar a todos los varones de 20 años arriba aptos para la guerra."
+    },
+    {
+      "id": 186,
+      "libro": "Números",
+      "dificultad": "facil",
+      "categoria": "Espías",
+      "pregunta": "¿Cuántos espías fueron enviados a explorar Canaán?",
+      "opciones": {
+        "A": "7",
+        "B": "10",
+        "C": "12",
+        "D": "2"
+      },
+      "correcta": "C",
+      "explicacion": "Números 13:2 dice que Moisés envió un hombre por cada tribu, 12 en total."
+    },
+    {
+      "id": 187,
+      "libro": "Números",
+      "dificultad": "facil",
+      "categoria": "Espías",
+      "pregunta": "¿Qué fruta trajeron los espías como muestra de la fertilidad de Canaán?",
+      "opciones": {
+        "A": "Una cesta de higos",
+        "B": "Un racimo de uvas tan grande que lo cargaron dos hombres",
+        "C": "Granadas y dátiles",
+        "D": "Aceitunas y trigo"
+      },
+      "correcta": "B",
+      "explicacion": "Números 13:23 describe el enorme racimo de uvas del arroyo de Escol que cargaron en un palo."
+    },
+    {
+      "id": 188,
+      "libro": "Números",
+      "dificultad": "facil",
+      "categoria": "Serpiente de bronce",
+      "pregunta": "¿Qué hizo Dios para sanar a los israelitas mordidos por serpientes?",
+      "opciones": {
+        "A": "Les envió maná especial",
+        "B": "Ordenó hacer una serpiente de bronce y levantarla",
+        "C": "Moisés oró y sanaron instantáneamente",
+        "D": "Les dio agua de una roca"
+      },
+      "correcta": "B",
+      "explicacion": "Números 21:8-9 narra que Moisés hizo una serpiente de bronce y todo el que la miraba vivía."
+    },
+    {
+      "id": 189,
+      "libro": "Números",
+      "dificultad": "facil",
+      "categoria": "Balaam",
+      "pregunta": "¿Quién contrató a Balaam para maldecir a Israel?",
+      "opciones": {
+        "A": "El faraón",
+        "B": "Balac, rey de Moab",
+        "C": "Og, rey de Basán",
+        "D": "Sehón, rey de los amorreos"
+      },
+      "correcta": "B",
+      "explicacion": "Números 22:5-6 narra que Balac, rey de Moab, mandó mensajeros a llamar a Balaam."
+    },
+    {
+      "id": 190,
+      "libro": "Números",
+      "dificultad": "facil",
+      "categoria": "Caleb y Josué",
+      "pregunta": "¿Qué dijeron Caleb y Josué diferente al resto de los espías?",
+      "opciones": {
+        "A": "Que la tierra era estéril",
+        "B": "Que podían conquistar la tierra con la ayuda de Dios",
+        "C": "Que debían buscar otra tierra",
+        "D": "Que el enemigo era demasiado fuerte"
+      },
+      "correcta": "B",
+      "explicacion": "Números 13:30 y 14:6-9 muestran a Caleb y Josué animando al pueblo a subir y tomar la tierra."
+    },
+    {
+      "id": 191,
+      "libro": "Números",
+      "dificultad": "media",
+      "categoria": "Aarón y Miriam",
+      "pregunta": "¿Por qué criticaron Miriam y Aarón a Moisés?",
+      "opciones": {
+        "A": "Por casarse con una mujer cusita",
+        "B": "Por no consultar al pueblo",
+        "C": "Por recibir demasiado honor",
+        "D": "Por descansar demasiado"
+      },
+      "correcta": "A",
+      "explicacion": "Números 12:1 dice que hablaron contra Moisés a causa de la mujer cusita con quien se había casado."
+    },
+    {
+      "id": 192,
+      "libro": "Números",
+      "dificultad": "media",
+      "categoria": "Miriam",
+      "pregunta": "¿Qué le ocurrió a Miriam por hablar contra Moisés?",
+      "opciones": {
+        "A": "Murió de inmediato",
+        "B": "Se quedó muda",
+        "C": "Le salió lepra",
+        "D": "Fue expulsada del campamento para siempre"
+      },
+      "correcta": "C",
+      "explicacion": "Números 12:10 narra que la ira de Dios se encendió y Miriam quedó leprosa como la nieve."
+    },
+    {
+      "id": 193,
+      "libro": "Números",
+      "dificultad": "media",
+      "categoria": "Rebelión de Coré",
+      "pregunta": "¿Qué le pasó a Coré, Datán y Abiram por rebelarse contra Moisés?",
+      "opciones": {
+        "A": "Fueron apedreados",
+        "B": "La tierra se abrió y los tragó",
+        "C": "Murieron de hambre",
+        "D": "Fueron expulsados a Egipto"
+      },
+      "correcta": "B",
+      "explicacion": "Números 16:31-33 narra que la tierra se abrió y se los tragó junto con sus casas."
+    },
+    {
+      "id": 194,
+      "libro": "Números",
+      "dificultad": "media",
+      "categoria": "Vara de Aarón",
+      "pregunta": "¿Qué le ocurrió a la vara de Aarón para confirmar su sacerdocio?",
+      "opciones": {
+        "A": "Emitió fuego",
+        "B": "Se convirtió en serpiente",
+        "C": "Floreció y produjo almendras",
+        "D": "Se partió en dos"
+      },
+      "correcta": "C",
+      "explicacion": "Números 17:8 dice que la vara de Aarón había florecido, echado flores y madurado almendras."
+    },
+    {
+      "id": 195,
+      "libro": "Números",
+      "dificultad": "media",
+      "categoria": "Moisés pecó",
+      "pregunta": "¿Por qué Moisés no pudo entrar a la tierra prometida?",
+      "opciones": {
+        "A": "Por adorar el becerro de oro",
+        "B": "Por golpear la roca dos veces en lugar de hablarle",
+        "C": "Por casarse con la mujer cusita",
+        "D": "Por desconfiar de los espías"
+      },
+      "correcta": "B",
+      "explicacion": "Números 20:11-12 narra que Moisés golpeó la roca dos veces y Dios le dijo que no entraría a la tierra."
+    },
+    {
+      "id": 196,
+      "libro": "Números",
+      "dificultad": "media",
+      "categoria": "Balaam",
+      "pregunta": "¿Qué animal habló con Balaam cuando iba a maldecir a Israel?",
+      "opciones": {
+        "A": "Un camello",
+        "B": "Una paloma",
+        "C": "Su asna",
+        "D": "Un buey"
+      },
+      "correcta": "C",
+      "explicacion": "Números 22:28 narra que Dios abrió la boca de la asna de Balaam y ésta habló."
+    },
+    {
+      "id": 197,
+      "libro": "Números",
+      "dificultad": "media",
+      "categoria": "Balaam",
+      "pregunta": "¿Qué vio la asna de Balaam que él no podía ver?",
+      "opciones": {
+        "A": "Un ángel con espada en el camino",
+        "B": "Una columna de fuego",
+        "C": "Un ejército de Israel",
+        "D": "Un torbellino"
+      },
+      "correcta": "A",
+      "explicacion": "Números 22:23 dice que la asna vio al ángel de Jehová con su espada desnuda y se desvió."
+    },
+    {
+      "id": 198,
+      "libro": "Números",
+      "dificultad": "media",
+      "categoria": "Espías",
+      "pregunta": "¿Cuánto tiempo exploró los espías la tierra de Canaán?",
+      "opciones": {
+        "A": "7 días",
+        "B": "30 días",
+        "C": "40 días",
+        "D": "3 meses"
+      },
+      "correcta": "C",
+      "explicacion": "Números 13:25 indica que los espías regresaron al cabo de cuarenta días."
+    },
+    {
+      "id": 199,
+      "libro": "Números",
+      "dificultad": "media",
+      "categoria": "Castigo",
+      "pregunta": "¿Cuántos años vagó Israel por el desierto a causa de su incredulidad?",
+      "opciones": {
+        "A": "20",
+        "B": "30",
+        "C": "40",
+        "D": "50"
+      },
+      "correcta": "C",
+      "explicacion": "Números 14:34 establece 40 años en el desierto, un año por cada día que los espías exploraron."
+    },
+    {
+      "id": 200,
+      "libro": "Números",
+      "dificultad": "media",
+      "categoria": "Finees",
+      "pregunta": "¿Qué acto de celo de Finees detuvo una plaga en Israel?",
+      "opciones": {
+        "A": "Oró 40 días",
+        "B": "Pasó con su lanza a un israelita y a una mujer madianita en pecado",
+        "C": "Sacrificó 100 bueyes",
+        "D": "Destruyó los ídolos del campamento"
+      },
+      "correcta": "B",
+      "explicacion": "Números 25:7-8 narra que Finees mató con su lanza al israelita Zimri y a Cozbi la madianita."
+    },
+    {
+      "id": 201,
+      "libro": "Números",
+      "dificultad": "dificil",
+      "categoria": "Censo",
+      "pregunta": "¿Cuántos hombres aptos para la guerra resultaron del primer censo?",
+      "opciones": {
+        "A": "400.000",
+        "B": "503.550",
+        "C": "603.550",
+        "D": "750.000"
+      },
+      "correcta": "C",
+      "explicacion": "Números 1:46 registra un total de 603.550 varones mayores de 20 años aptos para la guerra."
+    },
+    {
+      "id": 202,
+      "libro": "Números",
+      "dificultad": "dificil",
+      "categoria": "Nazareos",
+      "pregunta": "¿Cuál de estas NO era una restricción del voto nazareo?",
+      "opciones": {
+        "A": "Abstenerse de vino",
+        "B": "No cortarse el cabello",
+        "C": "No tocar cadáver alguno",
+        "D": "No casarse durante el voto"
+      },
+      "correcta": "D",
+      "explicacion": "Números 6:3-6 establece abstención de vino, no cortarse el cabello y no tocar muerto, pero no menciona el matrimonio."
+    },
+    {
+      "id": 203,
+      "libro": "Números",
+      "dificultad": "dificil",
+      "categoria": "Ciudades de refugio",
+      "pregunta": "¿Cuántas ciudades de refugio debían establecerse en Canaán?",
+      "opciones": {
+        "A": "3",
+        "B": "6",
+        "C": "12",
+        "D": "48"
+      },
+      "correcta": "B",
+      "explicacion": "Números 35:13-14 ordena establecer seis ciudades de refugio: tres a cada lado del Jordán."
+    },
+    {
+      "id": 204,
+      "libro": "Números",
+      "dificultad": "dificil",
+      "categoria": "Rebelión de Coré",
+      "pregunta": "¿Cuántas personas murieron en la plaga que siguió a la rebelión de Coré?",
+      "opciones": {
+        "A": "3.000",
+        "B": "10.000",
+        "C": "14.700",
+        "D": "24.000"
+      },
+      "correcta": "C",
+      "explicacion": "Números 16:49 registra que murieron 14.700 personas en esa plaga, sin contar a los de Coré."
+    },
+    {
+      "id": 205,
+      "libro": "Números",
+      "dificultad": "muy_dificil",
+      "categoria": "Balaam",
+      "pregunta": "¿Cuántos altares construyó Balaam en el monte Peor para maldecir a Israel?",
+      "opciones": {
+        "A": "3",
+        "B": "5",
+        "C": "7",
+        "D": "12"
+      },
+      "correcta": "C",
+      "explicacion": "Números 23:1 y 23:29 muestran que Balaam construyó 7 altares en cada lugar donde intentó maldecir."
+    },
+    {
+      "id": 206,
+      "libro": "Números",
+      "dificultad": "muy_dificil",
+      "categoria": "Ofrenda",
+      "pregunta": "¿Qué se hacía con la vaca alazana (roja) en Números 19?",
+      "opciones": {
+        "A": "Se sacrificaba y su ceniza purificaba la impureza por contacto con muertos",
+        "B": "Se ofrecía como holocausto anual en el Día de Expiación",
+        "C": "Se enviaba al desierto como chivo expiatorio",
+        "D": "Se guardaba viva como símbolo de prosperidad"
+      },
+      "correcta": "A",
+      "explicacion": "Números 19:9 describe que la ceniza de la vaca alazana se usaba para el agua de purificación del que había tocado un muerto."
+    },
+    {
+      "id": 207,
+      "libro": "Deuteronomio",
+      "dificultad": "facil",
+      "categoria": "Shema",
+      "pregunta": "¿Cuál es el versículo más famoso de Deuteronomio sobre amar a Dios?",
+      "opciones": {
+        "A": "'El Señor es mi pastor'",
+        "B": "'Oye Israel, el Señor nuestro Dios, el Señor uno es. Amarás a Jehová tu Dios'",
+        "C": "'No tendrás dioses ajenos delante de mí'",
+        "D": "'Bienaventurado el hombre que teme a Dios'"
+      },
+      "correcta": "B",
+      "explicacion": "Deuteronomio 6:4-5 contiene el Shema, la declaración central de fe del judaísmo."
+    },
+    {
+      "id": 208,
+      "libro": "Deuteronomio",
+      "dificultad": "facil",
+      "categoria": "Moisés",
+      "pregunta": "¿Dónde murió Moisés?",
+      "opciones": {
+        "A": "En el Monte Sinaí",
+        "B": "En el Monte Nebo",
+        "C": "En las llanuras de Moab",
+        "D": "En el río Jordán"
+      },
+      "correcta": "B",
+      "explicacion": "Deuteronomio 34:1,5 narra que Moisés subió al monte Nebo y murió allí."
+    },
+    {
+      "id": 209,
+      "libro": "Deuteronomio",
+      "dificultad": "facil",
+      "categoria": "Moisés",
+      "pregunta": "¿Cuántos años tenía Moisés cuando murió?",
+      "opciones": {
+        "A": "100",
+        "B": "110",
+        "C": "120",
+        "D": "130"
+      },
+      "correcta": "C",
+      "explicacion": "Deuteronomio 34:7 indica que Moisés era de 120 años cuando murió."
+    },
+    {
+      "id": 210,
+      "libro": "Deuteronomio",
+      "dificultad": "facil",
+      "categoria": "Josué",
+      "pregunta": "¿A quién designó Moisés como su sucesor?",
+      "opciones": {
+        "A": "Caleb",
+        "B": "Eleazar",
+        "C": "Josué",
+        "D": "Finees"
+      },
+      "correcta": "C",
+      "explicacion": "Deuteronomio 31:7-8 narra que Moisés llamó a Josué y lo animó como su sucesor."
+    },
+    {
+      "id": 211,
+      "libro": "Deuteronomio",
+      "dificultad": "facil",
+      "categoria": "Mandamientos",
+      "pregunta": "¿En qué libro de la Biblia se repiten los Diez Mandamientos?",
+      "opciones": {
+        "A": "Levítico",
+        "B": "Números",
+        "C": "Josué",
+        "D": "Deuteronomio"
+      },
+      "correcta": "D",
+      "explicacion": "Deuteronomio 5:6-21 repite los Diez Mandamientos que Dios dio en el Sinaí."
+    },
+    {
+      "id": 212,
+      "libro": "Deuteronomio",
+      "dificultad": "facil",
+      "categoria": "Promesa",
+      "pregunta": "¿Cuántas veces repite Deuteronomio la promesa de una tierra que 'fluye leche y miel'?",
+      "opciones": {
+        "A": "1",
+        "B": "3",
+        "C": "7",
+        "D": "Varias veces (más de 5)"
+      },
+      "correcta": "D",
+      "explicacion": "La frase 'tierra que fluye leche y miel' aparece múltiples veces en Deuteronomio (6:3, 11:9, 26:9, etc.)."
+    },
+    {
+      "id": 213,
+      "libro": "Deuteronomio",
+      "dificultad": "media",
+      "categoria": "Shema",
+      "pregunta": "¿Qué debían hacer los israelitas con las palabras del Shema según Deuteronomio 6?",
+      "opciones": {
+        "A": "Escribirlas en el templo",
+        "B": "Enseñarlas a los hijos, atarlas como señal y escribirlas en los postes",
+        "C": "Cantarlas cada mañana",
+        "D": "Guardarlas en el arca del pacto"
+      },
+      "correcta": "B",
+      "explicacion": "Deuteronomio 6:7-9 ordena enseñarlas a los hijos, atarlas a la mano, ponerlas entre los ojos y escribirlas en los postes."
+    },
+    {
+      "id": 214,
+      "libro": "Deuteronomio",
+      "dificultad": "media",
+      "categoria": "Profeta",
+      "pregunta": "¿Qué gran profeta anuncia Moisés que Dios levantaría semejante a él?",
+      "opciones": {
+        "A": "Elías",
+        "B": "Isaías",
+        "C": "Un profeta como Moisés (cumplido en Cristo)",
+        "D": "Samuel"
+      },
+      "correcta": "C",
+      "explicacion": "Deuteronomio 18:15 promete que Dios levantaría un profeta como Moisés de entre sus hermanos, cumplido en Jesucristo."
+    },
+    {
+      "id": 215,
+      "libro": "Deuteronomio",
+      "dificultad": "media",
+      "categoria": "Bendiciones y maldiciones",
+      "pregunta": "¿En qué monte debían proclamarse las bendiciones?",
+      "opciones": {
+        "A": "Monte Ebal",
+        "B": "Monte Sinaí",
+        "C": "Monte Gerizim",
+        "D": "Monte Hermón"
+      },
+      "correcta": "C",
+      "explicacion": "Deuteronomio 11:29 ordena pronunciar las bendiciones en el monte Gerizim y las maldiciones en el Ebal."
+    },
+    {
+      "id": 216,
+      "libro": "Deuteronomio",
+      "dificultad": "media",
+      "categoria": "Diezmo",
+      "pregunta": "¿Qué debía hacerse con el diezmo en el año tercero?",
+      "opciones": {
+        "A": "Quemarlo en el altar",
+        "B": "Guardarlo en el templo",
+        "C": "Darlo al levita, al extranjero, al huérfano y a la viuda",
+        "D": "Enviarlo al sacerdote en Jerusalén"
+      },
+      "correcta": "C",
+      "explicacion": "Deuteronomio 14:28-29 ordena que el diezmo del tercer año se deje en las ciudades para el levita, el forastero, el huérfano y la viuda."
+    },
+    {
+      "id": 217,
+      "libro": "Deuteronomio",
+      "dificultad": "media",
+      "categoria": "Rey",
+      "pregunta": "¿Qué condiciones debía cumplir el rey de Israel según Deuteronomio?",
+      "opciones": {
+        "A": "Ser de la tribu de Leví",
+        "B": "Ser el más rico del pueblo",
+        "C": "No multiplicar caballos, mujeres ni riquezas, y copiar la ley",
+        "D": "Haber sido sacerdote antes"
+      },
+      "correcta": "C",
+      "explicacion": "Deuteronomio 17:16-17 establece limitaciones al rey: no multiplicar caballos, mujeres ni plata, y copiar la ley para leerla toda su vida."
+    },
+    {
+      "id": 218,
+      "libro": "Deuteronomio",
+      "dificultad": "media",
+      "categoria": "Año de remisión",
+      "pregunta": "¿Cada cuántos años debían perdonarse las deudas entre israelitas?",
+      "opciones": {
+        "A": "3",
+        "B": "5",
+        "C": "7",
+        "D": "10"
+      },
+      "correcta": "C",
+      "explicacion": "Deuteronomio 15:1-2 establece que cada 7 años se remitiría la deuda a todo acreedor."
+    },
+    {
+      "id": 219,
+      "libro": "Deuteronomio",
+      "dificultad": "media",
+      "categoria": "Moisés",
+      "pregunta": "¿Qué texto sagrado debían leer públicamente cada 7 años?",
+      "opciones": {
+        "A": "El libro de los Salmos",
+        "B": "La ley (Deuteronomio)",
+        "C": "Los Profetas",
+        "D": "El libro de los Proverbios"
+      },
+      "correcta": "B",
+      "explicacion": "Deuteronomio 31:10-11 ordena que la ley se lea ante todo Israel reunido cada 7 años en la Fiesta de los Tabernáculos."
+    },
+    {
+      "id": 220,
+      "libro": "Deuteronomio",
+      "dificultad": "media",
+      "categoria": "Cántico",
+      "pregunta": "¿Qué hizo Moisés antes de morir además de bendecir a las tribus?",
+      "opciones": {
+        "A": "Escribió el Salmo 90",
+        "B": "Enseñó un cántico a Israel",
+        "C": "Construyó un altar en Nebo",
+        "D": "Nombró un sucesor para cada tribu"
+      },
+      "correcta": "B",
+      "explicacion": "Deuteronomio 31:30 a 32:44 contiene el cántico que Moisés enseñó a todo Israel."
+    },
+    {
+      "id": 221,
+      "libro": "Deuteronomio",
+      "dificultad": "dificil",
+      "categoria": "Ciudades de refugio",
+      "pregunta": "¿Cuántas ciudades de refugio mandó separar Moisés al oriente del Jordán?",
+      "opciones": {
+        "A": "2",
+        "B": "3",
+        "C": "6",
+        "D": "12"
+      },
+      "correcta": "B",
+      "explicacion": "Deuteronomio 4:41-43 narra que Moisés apartó 3 ciudades al oriente del Jordán: Béser, Ramot y Golán."
+    },
+    {
+      "id": 222,
+      "libro": "Deuteronomio",
+      "dificultad": "dificil",
+      "categoria": "Moisés",
+      "pregunta": "¿Qué detalle físico notable tenía Moisés al morir?",
+      "opciones": {
+        "A": "Su cabello se había vuelto blanco como la nieve",
+        "B": "Sus ojos no se habían oscurecido y su vigor no había cesado",
+        "C": "Su piel brillaba como el sol",
+        "D": "Sus manos ya no podían sostener la vara"
+      },
+      "correcta": "B",
+      "explicacion": "Deuteronomio 34:7 afirma que a los 120 años sus ojos nunca se oscurecieron ni decayó su vigor natural."
+    },
+    {
+      "id": 223,
+      "libro": "Deuteronomio",
+      "dificultad": "dificil",
+      "categoria": "Bendiciones y maldiciones",
+      "pregunta": "¿Cuántas maldiciones específicas menciona Deuteronomio 27?",
+      "opciones": {
+        "A": "6",
+        "B": "10",
+        "C": "12",
+        "D": "7"
+      },
+      "correcta": "C",
+      "explicacion": "Deuteronomio 27:15-26 lista 12 maldiciones que los levitas proclamarían desde el monte Ebal."
+    },
+    {
+      "id": 224,
+      "libro": "Deuteronomio",
+      "dificultad": "dificil",
+      "categoria": "Profeta",
+      "pregunta": "¿Cuál es la afirmación final del libro sobre la unicidad de Moisés?",
+      "opciones": {
+        "A": "Que ningún profeta pudo hacer tantos milagros",
+        "B": "Que no volvió a surgir profeta en Israel como Moisés, a quien Dios conoció cara a cara",
+        "C": "Que Moisés escribió todos los libros de la ley",
+        "D": "Que Moisés gobernó Israel durante 70 años"
+      },
+      "correcta": "B",
+      "explicacion": "Deuteronomio 34:10 afirma que nunca más se levantó profeta en Israel como Moisés, a quien Jehová conoció cara a cara."
+    },
+    {
+      "id": 225,
+      "libro": "Deuteronomio",
+      "dificultad": "muy_dificil",
+      "categoria": "Ley",
+      "pregunta": "¿Qué debían hacer los israelitas con la copia de la ley al cruzar el Jordán?",
+      "opciones": {
+        "A": "Quemarla como ofrenda",
+        "B": "Escribirla en piedras encaladas en el monte Ebal",
+        "C": "Enterrarla junto al arca",
+        "D": "Dividirla entre los sacerdotes de cada tribu"
+      },
+      "correcta": "B",
+      "explicacion": "Deuteronomio 27:2-4 ordena escribir la ley sobre grandes piedras encaladas en el monte Ebal al cruzar el Jordán."
+    },
+    {
+      "id": 226,
+      "libro": "Deuteronomio",
+      "dificultad": "muy_dificil",
+      "categoria": "Moisés",
+      "pregunta": "¿Quién sepultó a Moisés y dónde exactamente?",
+      "opciones": {
+        "A": "Josué, en el valle de Moab",
+        "B": "Los ángeles, en un lugar secreto del Sinaí",
+        "C": "Dios mismo lo sepultó en el valle de Bet-peor y nadie sabe el lugar",
+        "D": "Eleazar, en el monte Nebo"
+      },
+      "correcta": "C",
+      "explicacion": "Deuteronomio 34:6 dice que Dios lo sepultó en el valle, en tierra de Moab frente a Bet-peor, y nadie conoce su sepulcro."
+    }
+  ]
+}

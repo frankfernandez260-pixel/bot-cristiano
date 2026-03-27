@@ -1,0 +1,29 @@
+# Variables de entorno — NUNCA subir al repositorio
+.env
+
+# Base de datos local
+*.db
+*.sqlite3
+
+# Caché de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Entornos virtuales
+venv/
+env/
+.venv/
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+
+# Logs
+*.log
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db

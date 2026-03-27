@@ -1,0 +1,546 @@
+{
+  "grupo_id": "PROFETAS_MENORES",
+  "grupo_nombre": "Profetas Menores",
+  "libros": [
+    "Oseas",
+    "Joel",
+    "Amós",
+    "Abdías",
+    "Jonás",
+    "Miqueas",
+    "Nahúm",
+    "Habacuc",
+    "Sofonías",
+    "Hageo",
+    "Zacarías",
+    "Malaquías"
+  ],
+  "total_preguntas": 35,
+  "preguntas": [
+    {
+      "id": 1,
+      "libro": "Oseas",
+      "dificultad": "facil",
+      "categoria": "Matrimonio",
+      "pregunta": "¿Qué ordenó Dios a Oseas que hiciera como señal profética?",
+      "opciones": {
+        "A": "Ayunar 40 días",
+        "B": "Casarse con una mujer infiel",
+        "C": "Caminar descalzo por Jerusalén",
+        "D": "Construir un altar en su casa"
+      },
+      "correcta": "B",
+      "explicacion": "Oseas 1:2 narra que Dios ordenó a Oseas casarse con Gomer, una mujer de fornicaciones, como símbolo del amor de Dios por Israel infiel."
+    },
+    {
+      "id": 2,
+      "libro": "Oseas",
+      "dificultad": "media",
+      "categoria": "Amor de Dios",
+      "pregunta": "¿Qué frase de Oseas resume lo que Dios desea más que sacrificios?",
+      "opciones": {
+        "A": "'Buscadme y viviréis'",
+        "B": "'Misericordia quiero y no sacrificio'",
+        "C": "'Vuélvete a mí con todo tu corazón'",
+        "D": "'Guardad la justicia y haced misericordia'"
+      },
+      "correcta": "B",
+      "explicacion": "Oseas 6:6 declara: 'Misericordia quiero y no sacrificio, y conocimiento de Dios más que holocaustos', citado por Jesús en Mateo 9:13."
+    },
+    {
+      "id": 3,
+      "libro": "Oseas",
+      "dificultad": "dificil",
+      "categoria": "Restauración",
+      "pregunta": "¿Cuánto plata y cebada pagó Oseas para recuperar a Gomer?",
+      "opciones": {
+        "A": "10 siclos de plata y 5 homer de cebada",
+        "B": "15 siclos de plata y un homer y medio de cebada",
+        "C": "20 siclos de plata y 2 homer de cebada",
+        "D": "30 siclos de plata y 3 homer de cebada"
+      },
+      "correcta": "B",
+      "explicacion": "Oseas 3:2 especifica que compró a Gomer por quince piezas de plata y un homer y medio de cebada."
+    },
+    {
+      "id": 4,
+      "libro": "Joel",
+      "dificultad": "facil",
+      "categoria": "Espíritu",
+      "pregunta": "¿Qué promesa del Espíritu Santo aparece en Joel 2 y se cumplió en Pentecostés?",
+      "opciones": {
+        "A": "'Os daré un corazón nuevo'",
+        "B": "'Derramaré mi Espíritu sobre toda carne'",
+        "C": "'El Espíritu de Dios morará en vosotros'",
+        "D": "'Recibiréis poder del Espíritu Santo'"
+      },
+      "correcta": "B",
+      "explicacion": "Joel 2:28 profetiza: 'Derramaré mi Espíritu sobre toda carne', citado por Pedro en Hechos 2:17 el día de Pentecostés."
+    },
+    {
+      "id": 5,
+      "libro": "Joel",
+      "dificultad": "media",
+      "categoria": "Juicio",
+      "pregunta": "¿Qué plaga devastadora da contexto al mensaje de juicio en el libro de Joel?",
+      "opciones": {
+        "A": "Una sequía de 7 años",
+        "B": "Una invasión de langostas",
+        "C": "Una epidemia de peste",
+        "D": "Un terremoto"
+      },
+      "correcta": "B",
+      "explicacion": "Joel 1:4 describe una devastadora plaga de langostas que destruyó todo, usada como imagen del juicio divino."
+    },
+    {
+      "id": 6,
+      "libro": "Joel",
+      "dificultad": "dificil",
+      "categoria": "Día del Señor",
+      "pregunta": "¿Qué imagen usa Joel 3 para el juicio final de las naciones?",
+      "opciones": {
+        "A": "Un fuego que consume el mundo",
+        "B": "Las naciones reunidas en el valle de Josafat",
+        "C": "Un diluvio de agua y fuego",
+        "D": "Ángeles con trompetas"
+      },
+      "correcta": "B",
+      "explicacion": "Joel 3:2 y 12 ubican el juicio final de las naciones en el valle de Josafat (valle de la decisión)."
+    },
+    {
+      "id": 7,
+      "libro": "Amós",
+      "dificultad": "facil",
+      "categoria": "Llamado",
+      "pregunta": "¿Cuál era la ocupación de Amós antes de ser llamado a profetizar?",
+      "opciones": {
+        "A": "Sacerdote en Bet-el",
+        "B": "Pastor y cultivador de higos silvestres",
+        "C": "Escriba en la corte real",
+        "D": "Mercader en Samaria"
+      },
+      "correcta": "B",
+      "explicacion": "Amós 7:14 declara: 'No soy profeta ni hijo de profeta, sino boyero y cultivador de sicómoros.'"
+    },
+    {
+      "id": 8,
+      "libro": "Amós",
+      "dificultad": "media",
+      "categoria": "Justicia",
+      "pregunta": "¿Cuál es el versículo más famoso de Amós sobre la justicia?",
+      "opciones": {
+        "A": "'Buscad el bien y no el mal'",
+        "B": "'Corra el juicio como las aguas y la justicia como impetuoso arroyo'",
+        "C": "'Odiad el mal y amad el bien'",
+        "D": "'Preparaos para encontraros con tu Dios'"
+      },
+      "correcta": "B",
+      "explicacion": "Amós 5:24 exclama: 'Corra, sí, el juicio como las aguas, y la justicia como impetuoso arroyo.'"
+    },
+    {
+      "id": 9,
+      "libro": "Amós",
+      "dificultad": "dificil",
+      "categoria": "Visiones",
+      "pregunta": "¿Cuántas visiones de juicio describe Amós en los capítulos 7-9?",
+      "opciones": {
+        "A": "3",
+        "B": "4",
+        "C": "5",
+        "D": "6"
+      },
+      "correcta": "C",
+      "explicacion": "Amós describe 5 visiones: langostas (7:1), fuego (7:4), plomada (7:7), canasta de fruta de verano (8:1) y el altar (9:1)."
+    },
+    {
+      "id": 10,
+      "libro": "Abdías",
+      "dificultad": "facil",
+      "categoria": "Edom",
+      "pregunta": "¿Contra qué nación está dirigida la profecía de Abdías?",
+      "opciones": {
+        "A": "Moab",
+        "B": "Amón",
+        "C": "Edom",
+        "D": "Filistea"
+      },
+      "correcta": "C",
+      "explicacion": "Abdías 1:1 dirige todo el libro contra Edom (descendientes de Esaú) por su orgullo y por alegrarse de la caída de Jerusalén."
+    },
+    {
+      "id": 11,
+      "libro": "Abdías",
+      "dificultad": "media",
+      "categoria": "Orgullo",
+      "pregunta": "¿Por qué se acusa a Edom en Abdías?",
+      "opciones": {
+        "A": "Por atacar a Israel militarmente",
+        "B": "Por su orgullo, por ayudar a los enemigos de Israel y regocijarse en su caída",
+        "C": "Por adorar ídolos en los lugares altos",
+        "D": "Por negarse a pagar tributo a Judá"
+      },
+      "correcta": "B",
+      "explicacion": "Abdías 1:10-12 acusa a Edom de violencia contra su hermano Jacob, de no socorrerlo y de alegrarse en el día de su angustia."
+    },
+    {
+      "id": 12,
+      "libro": "Jonás",
+      "dificultad": "facil",
+      "categoria": "Desobediencia",
+      "pregunta": "¿A qué ciudad fue enviado Jonás a predicar?",
+      "opciones": {
+        "A": "Babilonia",
+        "B": "Nínive",
+        "C": "Tarsis",
+        "D": "Tiro"
+      },
+      "correcta": "B",
+      "explicacion": "Jonás 1:2 narra que Dios envió a Jonás a Nínive, capital del Imperio Asirio, a predicar contra su maldad."
+    },
+    {
+      "id": 13,
+      "libro": "Jonás",
+      "dificultad": "facil",
+      "categoria": "Pez",
+      "pregunta": "¿Cuántos días estuvo Jonás en el vientre del gran pez?",
+      "opciones": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "7"
+      },
+      "correcta": "C",
+      "explicacion": "Jonás 1:17 narra que Jonás estuvo tres días y tres noches en el vientre del pez, imagen que Jesús aplicó a su sepultura."
+    },
+    {
+      "id": 14,
+      "libro": "Jonás",
+      "dificultad": "media",
+      "categoria": "Nínive",
+      "pregunta": "¿Cuál fue la reacción de Nínive al mensaje de Jonás?",
+      "opciones": {
+        "A": "Expulsaron a Jonás de la ciudad",
+        "B": "Se arrepintieron, ayunaron y se vistieron de cilicio desde el rey hasta el pueblo",
+        "C": "Ignoraron el mensaje y continuaron en su maldad",
+        "D": "Solo los pobres se arrepintieron"
+      },
+      "correcta": "B",
+      "explicacion": "Jonás 3:5-6 narra que los ninivitas creyeron a Dios, proclamaron ayuno y se vistieron de cilicio desde el mayor hasta el menor."
+    },
+    {
+      "id": 15,
+      "libro": "Jonás",
+      "dificultad": "media",
+      "categoria": "Actitud",
+      "pregunta": "¿Por qué se enojó Jonás después de que Nínive se arrepintiera?",
+      "opciones": {
+        "A": "Porque nadie lo reconoció como profeta",
+        "B": "Porque sabía que Dios perdonaría a Nínive y no quería eso",
+        "C": "Porque Dios no le pagó por su trabajo",
+        "D": "Porque tuvo que caminar muchos días"
+      },
+      "correcta": "B",
+      "explicacion": "Jonás 4:1-2 muestra que Jonás se enojó porque sabía que Dios era misericordioso y temía que perdonara a los asirios."
+    },
+    {
+      "id": 16,
+      "libro": "Jonás",
+      "dificultad": "dificil",
+      "categoria": "Planta",
+      "pregunta": "¿Qué usó Dios para enseñarle una lección a Jonás sobre la compasión?",
+      "opciones": {
+        "A": "Un cordero que Jonás debía cuidar",
+        "B": "Una planta (calabacera) que creció y luego murió",
+        "C": "Un niño ninivita que se acercó a él",
+        "D": "Una paloma que le trajo comida"
+      },
+      "correcta": "B",
+      "explicacion": "Jonás 4:6-10 describe la calabacera que creció para dar sombra a Jonás y luego se secó, ilustrando la compasión de Dios por Nínive."
+    },
+    {
+      "id": 17,
+      "libro": "Miqueas",
+      "dificultad": "facil",
+      "categoria": "Belén",
+      "pregunta": "¿Qué profecía de Miqueas menciona a Belén como lugar de nacimiento del Mesías?",
+      "opciones": {
+        "A": "'De Sion saldrá la ley'",
+        "B": "'De ti, Belén Efrata, saldrá el que será Señor en Israel'",
+        "C": "'Una virgen concebirá y dará a luz'",
+        "D": "'El Mesías vendrá montado en un asno'"
+      },
+      "correcta": "B",
+      "explicacion": "Miqueas 5:2 profetiza que de Belén Efrata saldría el gobernante de Israel, cumplido en el nacimiento de Jesús."
+    },
+    {
+      "id": 18,
+      "libro": "Miqueas",
+      "dificultad": "media",
+      "categoria": "Justicia",
+      "pregunta": "¿Cuál es el resumen del deber del hombre según Miqueas 6:8?",
+      "opciones": {
+        "A": "Orar, ayunar y dar diezmos",
+        "B": "Hacer justicia, amar misericordia y humillarse ante Dios",
+        "C": "Guardar el sábado y los sacrificios",
+        "D": "Amar a Dios y al prójimo por igual"
+      },
+      "correcta": "B",
+      "explicacion": "Miqueas 6:8 resume: 'Hacer justicia, amar misericordia y humillarte ante tu Dios.'"
+    },
+    {
+      "id": 19,
+      "libro": "Nahúm",
+      "dificultad": "facil",
+      "categoria": "Nínive",
+      "pregunta": "¿Cuál es el tema central del libro de Nahúm?",
+      "opciones": {
+        "A": "El arrepentimiento de Israel",
+        "B": "La caída y destrucción de Nínive",
+        "C": "El regreso del exilio babilónico",
+        "D": "La venida del día del Señor"
+      },
+      "correcta": "B",
+      "explicacion": "Nahúm anuncia el juicio y la caída total de Nínive, capital de Asiria, décadas después de la predicación de Jonás."
+    },
+    {
+      "id": 20,
+      "libro": "Nahúm",
+      "dificultad": "dificil",
+      "categoria": "Dios",
+      "pregunta": "¿Qué atributo de Dios enfatiza Nahúm 1:3 junto a su poder?",
+      "opciones": {
+        "A": "Su omnisciencia",
+        "B": "Su amor eterno",
+        "C": "Que es tardo para la ira pero grande en poder y no da por inocente al culpable",
+        "D": "Su fidelidad a los pactos"
+      },
+      "correcta": "C",
+      "explicacion": "Nahúm 1:3 declara que Jehová es tardo en la ira y grande en poder, pero de ningún modo tendrá por inocente al culpable."
+    },
+    {
+      "id": 21,
+      "libro": "Habacuc",
+      "dificultad": "facil",
+      "categoria": "Fe",
+      "pregunta": "¿Cuál es el versículo más famoso de Habacuc, citado tres veces en el Nuevo Testamento?",
+      "opciones": {
+        "A": "'Jehová está en su santo templo, calle toda la tierra'",
+        "B": "'El justo por su fe vivirá'",
+        "C": "'Aunque la higuera no florezca'",
+        "D": "'Subiré a mi atalaya y esperaré'"
+      },
+      "correcta": "B",
+      "explicacion": "Habacuc 2:4 declara 'el justo por su fe vivirá', citado en Romanos 1:17, Gálatas 3:11 y Hebreos 10:38."
+    },
+    {
+      "id": 22,
+      "libro": "Habacuc",
+      "dificultad": "media",
+      "categoria": "Diálogo",
+      "pregunta": "¿Cuál es la queja inicial de Habacuc ante Dios?",
+      "opciones": {
+        "A": "Que Israel sufre hambre y Dios no responde",
+        "B": "Que clama por violencia e injusticia y Dios no parece actuar",
+        "C": "Que los profetas falsos engañan al pueblo",
+        "D": "Que los babilonios atacan sin razón"
+      },
+      "correcta": "B",
+      "explicacion": "Habacuc 1:2-3 abre con la queja del profeta: ¿hasta cuándo clamaré por violencia sin que Dios salve?"
+    },
+    {
+      "id": 23,
+      "libro": "Habacuc",
+      "dificultad": "dificil",
+      "categoria": "Alabanza",
+      "pregunta": "¿Cómo termina el libro de Habacuc a pesar de sus dudas iniciales?",
+      "opciones": {
+        "A": "Con una visión de juicio sobre Babilonia",
+        "B": "Con una oración de alabanza y confianza aunque todo falle",
+        "C": "Con una promesa de restauración para Israel",
+        "D": "Con la muerte del profeta en paz"
+      },
+      "correcta": "B",
+      "explicacion": "Habacuc 3:17-19 concluye con alabanza: aunque la higuera no florezca ni haya frutos, me alegraré en Jehová."
+    },
+    {
+      "id": 24,
+      "libro": "Sofonías",
+      "dificultad": "facil",
+      "categoria": "Día del Señor",
+      "pregunta": "¿Cuál es el tema dominante del libro de Sofonías?",
+      "opciones": {
+        "A": "El regreso del exilio",
+        "B": "El gran Día del Señor, de juicio y restauración",
+        "C": "La fidelidad de Dios al pacto",
+        "D": "La reconstrucción del templo"
+      },
+      "correcta": "B",
+      "explicacion": "Sofonías proclama extensamente el gran Día del Señor como día de ira y juicio sobre Judá y las naciones."
+    },
+    {
+      "id": 25,
+      "libro": "Sofonías",
+      "dificultad": "media",
+      "categoria": "Restauración",
+      "pregunta": "¿Qué promesa gozosa da Sofonías 3:17 sobre Dios y su pueblo?",
+      "opciones": {
+        "A": "'Os daré tierra nueva y cielos nuevos'",
+        "B": "'Jehová está en medio de ti, se gozará sobre ti con alegría, te amará, se regocijará sobre ti con cánticos'",
+        "C": "'Plantaré mi tabernáculo entre vosotros'",
+        "D": "'Seréis para mí un reino de sacerdotes'"
+      },
+      "correcta": "B",
+      "explicacion": "Sofonías 3:17 es un versículo de gran gozo: Dios se goza sobre su pueblo con alegría y cánticos de regocijo."
+    },
+    {
+      "id": 26,
+      "libro": "Hageo",
+      "dificultad": "facil",
+      "categoria": "Templo",
+      "pregunta": "¿Cuál era el problema que Hageo confrontó en el pueblo?",
+      "opciones": {
+        "A": "La idolatría generalizada",
+        "B": "Que vivían en casas bien construidas mientras el templo estaba en ruinas",
+        "C": "La corrupción del sacerdocio",
+        "D": "Los matrimonios mixtos con paganos"
+      },
+      "correcta": "B",
+      "explicacion": "Hageo 1:4 reprocha al pueblo: '¿Es para vosotros tiempo de vivir en casas artesonadas, mientras esta casa está en ruinas?'"
+    },
+    {
+      "id": 27,
+      "libro": "Hageo",
+      "dificultad": "dificil",
+      "categoria": "Gloria",
+      "pregunta": "¿Qué promesa da Hageo 2:9 sobre el segundo templo?",
+      "opciones": {
+        "A": "Que será más grande que el de Salomón",
+        "B": "Que la gloria postrera de esta casa será mayor que la primera",
+        "C": "Que durará para siempre",
+        "D": "Que el Mesías lo consagrará personalmente"
+      },
+      "correcta": "B",
+      "explicacion": "Hageo 2:9 promete: 'La gloria postrera de esta casa será mayor que la primera, dice Jehová de los ejércitos.'"
+    },
+    {
+      "id": 28,
+      "libro": "Zacarías",
+      "dificultad": "facil",
+      "categoria": "Mesías",
+      "pregunta": "¿Qué profecía mesiánica de Zacarías describe al rey entrando a Jerusalén en un asno?",
+      "opciones": {
+        "A": "'He aquí tu rey vendrá a ti, justo y salvador, humilde, cabalgando sobre un asno'",
+        "B": "'Un niño nos es nacido, un hijo nos es dado'",
+        "C": "'El Señor mismo os dará señal'",
+        "D": "'Verán al que traspasaron'"
+      },
+      "correcta": "A",
+      "explicacion": "Zacarías 9:9 profetiza la entrada triunfal del Mesías, cumplida en Mateo 21:5 cuando Jesús entró en Jerusalén."
+    },
+    {
+      "id": 29,
+      "libro": "Zacarías",
+      "dificultad": "media",
+      "categoria": "Visiones",
+      "pregunta": "¿Cuántas visiones nocturnas tuvo Zacarías en los capítulos 1-6?",
+      "opciones": {
+        "A": "4",
+        "B": "6",
+        "C": "8",
+        "D": "10"
+      },
+      "correcta": "C",
+      "explicacion": "Zacarías 1-6 registra 8 visiones nocturnas que Zacarías recibió en una sola noche, llenas de simbolismo profético."
+    },
+    {
+      "id": 30,
+      "libro": "Zacarías",
+      "dificultad": "dificil",
+      "categoria": "Mesías",
+      "pregunta": "¿Qué profecía de Zacarías menciona 30 piezas de plata como precio del Buen Pastor?",
+      "opciones": {
+        "A": "Zacarías 9:9",
+        "B": "Zacarías 11:12-13",
+        "C": "Zacarías 12:10",
+        "D": "Zacarías 13:7"
+      },
+      "correcta": "B",
+      "explicacion": "Zacarías 11:12-13 profetiza las 30 piezas de plata echadas al alfarero en la casa de Dios, cumplido en Mateo 27:9."
+    },
+    {
+      "id": 31,
+      "libro": "Malaquías",
+      "dificultad": "facil",
+      "categoria": "Diezmos",
+      "pregunta": "¿Qué desafío lanza Dios al pueblo en Malaquías sobre los diezmos?",
+      "opciones": {
+        "A": "'Traed todo el diezmo al alfolí y probadme en esto'",
+        "B": "'Dad el diezmo de todo lo que poseéis'",
+        "C": "'El que no da diezmos roba a su prójimo'",
+        "D": "'Los diezmos son para los levitas únicamente'"
+      },
+      "correcta": "A",
+      "explicacion": "Malaquías 3:10 contiene el famoso desafío de Dios: traed los diezmos y probadme si no os abriré las ventanas de los cielos."
+    },
+    {
+      "id": 32,
+      "libro": "Malaquías",
+      "dificultad": "facil",
+      "categoria": "Elías",
+      "pregunta": "¿Qué profecía de Malaquías anuncia el regreso de Elías antes del gran día?",
+      "opciones": {
+        "A": "'He aquí envío mi mensajero que preparará el camino'",
+        "B": "'He aquí yo envío al profeta Elías antes que venga el día grande y terrible'",
+        "C": "'Saldrá el sol de justicia con sanidad en sus alas'",
+        "D": "'Dios pondrá su Espíritu sobre el precursor'"
+      },
+      "correcta": "B",
+      "explicacion": "Malaquías 4:5 profetiza el envío de Elías antes del gran día, cumplido en Juan el Bautista según Mateo 11:14."
+    },
+    {
+      "id": 33,
+      "libro": "Malaquías",
+      "dificultad": "media",
+      "categoria": "Amor de Dios",
+      "pregunta": "¿Con qué declaración abre el libro de Malaquías?",
+      "opciones": {
+        "A": "'¿Dónde está el Dios de justicia?'",
+        "B": "'Yo os he amado, dice Jehová'",
+        "C": "'El hijo honra al padre'",
+        "D": "'Traed ofrenda digna al altar'"
+      },
+      "correcta": "B",
+      "explicacion": "Malaquías 1:2 abre con la afirmación de Dios: 'Yo os he amado, dice Jehová', a lo que el pueblo responde con escepticismo."
+    },
+    {
+      "id": 34,
+      "libro": "Malaquías",
+      "dificultad": "dificil",
+      "categoria": "Mensajero",
+      "pregunta": "¿Cuál es el último versículo del Antiguo Testamento en la Biblia protestante?",
+      "opciones": {
+        "A": "'Vendrá el Mesías a su templo'",
+        "B": "'He aquí envío al profeta Elías... hará volver el corazón de los padres a los hijos'",
+        "C": "'El sol de justicia nacerá con sanidad en sus alas'",
+        "D": "'El nombre de Dios será grande entre las naciones'"
+      },
+      "correcta": "B",
+      "explicacion": "Malaquías 4:5-6 cierra el AT prometiendo el regreso de Elías para reconciliar padres e hijos antes del gran día del Señor."
+    },
+    {
+      "id": 35,
+      "libro": "Malaquías",
+      "dificultad": "muy_dificil",
+      "categoria": "Contexto",
+      "pregunta": "¿Cuántos años de silencio profético hay entre Malaquías y el Nuevo Testamento?",
+      "opciones": {
+        "A": "200",
+        "B": "300",
+        "C": "400",
+        "D": "500"
+      },
+      "correcta": "C",
+      "explicacion": "Desde Malaquías hasta Juan el Bautista transcurrieron aproximadamente 400 años sin profeta reconocido en Israel."
+    }
+  ]
+}

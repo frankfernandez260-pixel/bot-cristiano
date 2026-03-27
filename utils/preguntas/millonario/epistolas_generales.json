@@ -1,0 +1,423 @@
+{
+  "grupo_id": "EPISTOLAS_GENERALES",
+  "grupo_nombre": "Epístolas Generales y Apocalipsis",
+  "libros": [
+    "Hebreos",
+    "Santiago",
+    "1 Pedro",
+    "2 Pedro",
+    "1 Juan",
+    "2 Juan",
+    "3 Juan",
+    "Judas",
+    "Apocalipsis"
+  ],
+  "total_preguntas": 27,
+  "preguntas": [
+    {
+      "id": 1,
+      "libro": "Hebreos",
+      "dificultad": "facil",
+      "categoria": "Cristo Sumo Sacerdote",
+      "pregunta": "¿Cuál es el tema central de la carta a los Hebreos?",
+      "opciones": {
+        "A": "La vida en la iglesia primitiva",
+        "B": "La superioridad de Cristo sobre todo el sistema levítico",
+        "C": "La segunda venida de Cristo",
+        "D": "Los dones del Espíritu Santo"
+      },
+      "correcta": "B",
+      "explicacion": "Hebreos presenta a Cristo como superior a los ángeles, Moisés, el sacerdocio levítico y los sacrificios del AT."
+    },
+    {
+      "id": 2,
+      "libro": "Hebreos",
+      "dificultad": "facil",
+      "categoria": "Fe",
+      "pregunta": "¿Cómo define Hebreos 11:1 la fe?",
+      "opciones": {
+        "A": "'Fe es creer sin ver'",
+        "B": "'Fe es la certeza de lo que se espera, la convicción de lo que no se ve'",
+        "C": "'Fe es confiar en Dios en todo momento'",
+        "D": "'Fe es obedecer los mandamientos de Dios'"
+      },
+      "correcta": "B",
+      "explicacion": "Hebreos 11:1 da la definición clásica: 'la fe es la certeza de lo que se espera, la convicción de lo que no se ve.'"
+    },
+    {
+      "id": 3,
+      "libro": "Hebreos",
+      "dificultad": "media",
+      "categoria": "Nube de testigos",
+      "pregunta": "¿Qué imagen usa Hebreos 12:1 para motivar la perseverancia?",
+      "opciones": {
+        "A": "Un atleta que entrena solo",
+        "B": "Una nube de testigos que nos rodea",
+        "C": "Un soldado en batalla",
+        "D": "Un viajero en el desierto"
+      },
+      "correcta": "B",
+      "explicacion": "Hebreos 12:1 usa la imagen de una gran nube de testigos (los héroes de Hebreos 11) para motivar a correr con paciencia."
+    },
+    {
+      "id": 4,
+      "libro": "Hebreos",
+      "dificultad": "dificil",
+      "categoria": "Melquisedec",
+      "pregunta": "¿Por qué es Melquisedec tan importante en Hebreos?",
+      "opciones": {
+        "A": "Porque fue el primer sacerdote de Israel",
+        "B": "Porque representa un sacerdocio eterno superior al de Aarón, prefigurando a Cristo",
+        "C": "Porque fue el rey que unificó a Israel",
+        "D": "Porque escribió parte del Pentateuco"
+      },
+      "correcta": "B",
+      "explicacion": "Hebreos 7 desarrolla que Cristo es sacerdote según el orden de Melquisedec: eterno, sin genealogía sacerdotal levítica, superior a Aarón."
+    },
+    {
+      "id": 5,
+      "libro": "Santiago",
+      "dificultad": "facil",
+      "categoria": "Fe y obras",
+      "pregunta": "¿Qué famosa afirmación hace Santiago sobre la fe sin obras?",
+      "opciones": {
+        "A": "'La fe sola salva sin necesidad de obras'",
+        "B": "'La fe sin obras está muerta'",
+        "C": "'Las obras sin fe son suficientes para agradar a Dios'",
+        "D": "'Fe y obras se contradicen'"
+      },
+      "correcta": "B",
+      "explicacion": "Santiago 2:17 y 26 afirman que la fe sin obras está muerta, complementando la enseñanza de Pablo sobre la justificación."
+    },
+    {
+      "id": 6,
+      "libro": "Santiago",
+      "dificultad": "facil",
+      "categoria": "Lengua",
+      "pregunta": "¿A qué compara Santiago la lengua en cuanto a su poder destructivo?",
+      "opciones": {
+        "A": "Una espada afilada",
+        "B": "Un pequeño fuego que incendia un gran bosque",
+        "C": "Un veneno mortal",
+        "D": "Tanto B como C en el mismo pasaje"
+      },
+      "correcta": "D",
+      "explicacion": "Santiago 3:5-8 compara la lengua con un fuego que incendia el bosque y también dice que es un mal que no puede ser domado, llena de veneno mortal."
+    },
+    {
+      "id": 7,
+      "libro": "Santiago",
+      "dificultad": "media",
+      "categoria": "Pruebas",
+      "pregunta": "¿Qué actitud recomienda Santiago ante las pruebas?",
+      "opciones": {
+        "A": "Pedirle a Dios que las quite",
+        "B": "Tenerlas por sumo gozo porque producen paciencia",
+        "C": "Evitarlas con sabiduría",
+        "D": "Soportarlas en silencio"
+      },
+      "correcta": "B",
+      "explicacion": "Santiago 1:2-3 exhorta a tener las pruebas por sumo gozo, sabiendo que la prueba de la fe produce paciencia."
+    },
+    {
+      "id": 8,
+      "libro": "1 Pedro",
+      "dificultad": "facil",
+      "categoria": "Sufrimiento",
+      "pregunta": "¿Para qué dice 1 Pedro que los creyentes fueron llamados?",
+      "opciones": {
+        "A": "Para vivir sin sufrimiento",
+        "B": "Porque Cristo sufrió por nosotros y nos dejó ejemplo para seguir sus pisadas",
+        "C": "Para predicar a todas las naciones",
+        "D": "Para guardar la ley perfectamente"
+      },
+      "correcta": "B",
+      "explicacion": "1 Pedro 2:21 declara que para esto fuimos llamados, porque Cristo sufrió por nosotros dejándonos ejemplo para que sigamos sus pisadas."
+    },
+    {
+      "id": 9,
+      "libro": "1 Pedro",
+      "dificultad": "media",
+      "categoria": "Identidad",
+      "pregunta": "¿Cómo describe 1 Pedro 2:9 a los creyentes?",
+      "opciones": {
+        "A": "'Siervos del Señor y sus embajadores'",
+        "B": "'Linaje escogido, real sacerdocio, nación santa, pueblo adquirido por Dios'",
+        "C": "'Hijos adoptivos y coherederos'",
+        "D": "'Templo del Espíritu Santo y cuerpo de Cristo'"
+      },
+      "correcta": "B",
+      "explicacion": "1 Pedro 2:9 describe a la iglesia con cuatro títulos gloriosos: linaje escogido, real sacerdocio, nación santa y pueblo adquirido."
+    },
+    {
+      "id": 10,
+      "libro": "1 Pedro",
+      "dificultad": "dificil",
+      "categoria": "Defensa",
+      "pregunta": "¿Qué exhorta 1 Pedro 3:15 que el creyente esté siempre preparado para hacer?",
+      "opciones": {
+        "A": "Predicar el evangelio en público",
+        "B": "Dar defensa (apología) a todo el que le pida razón de su esperanza",
+        "C": "Orar sin cesar por los incrédulos",
+        "D": "Estudiar las Escrituras diariamente"
+      },
+      "correcta": "B",
+      "explicacion": "1 Pedro 3:15 ordena santificar a Cristo como Señor y estar siempre listos para dar defensa de la esperanza que hay en nosotros."
+    },
+    {
+      "id": 11,
+      "libro": "2 Pedro",
+      "dificultad": "facil",
+      "categoria": "Escritura",
+      "pregunta": "¿Qué dice 2 Pedro 1:21 sobre el origen de la profecía?",
+      "opciones": {
+        "A": "'Los profetas inventaron sus mensajes'",
+        "B": "'Los santos hombres hablaron siendo inspirados por el Espíritu Santo'",
+        "C": "'Dios dictó cada palabra directamente'",
+        "D": "'Los profetas interpretaron los sueños del pueblo'"
+      },
+      "correcta": "B",
+      "explicacion": "2 Pedro 1:21 declara que la profecía no vino por voluntad humana, sino que los hombres hablaron de parte de Dios siendo movidos por el Espíritu Santo."
+    },
+    {
+      "id": 12,
+      "libro": "2 Pedro",
+      "dificultad": "media",
+      "categoria": "Segunda Venida",
+      "pregunta": "¿Por qué dice 2 Pedro 3:9 que el Señor demora su venida?",
+      "opciones": {
+        "A": "Porque está preparando el cielo nuevo",
+        "B": "Porque no quiere que ninguno perezca sino que todos lleguen al arrepentimiento",
+        "C": "Porque los ángeles aún no están listos",
+        "D": "Porque el número de elegidos no se ha completado"
+      },
+      "correcta": "B",
+      "explicacion": "2 Pedro 3:9 explica que Dios no tarda su promesa, sino que es paciente, no queriendo que ninguno perezca."
+    },
+    {
+      "id": 13,
+      "libro": "1 Juan",
+      "dificultad": "facil",
+      "categoria": "Amor",
+      "pregunta": "¿Qué declaración central hace 1 Juan sobre la naturaleza de Dios?",
+      "opciones": {
+        "A": "'Dios es poderoso'",
+        "B": "'Dios es luz'",
+        "C": "'Dios es amor'",
+        "D": "'Dios es justo'"
+      },
+      "correcta": "C",
+      "explicacion": "1 Juan 4:8 y 16 declaran que 'Dios es amor', la afirmación más directa sobre la naturaleza de Dios en toda la Biblia."
+    },
+    {
+      "id": 14,
+      "libro": "1 Juan",
+      "dificultad": "facil",
+      "categoria": "Salvación",
+      "pregunta": "¿Para qué dice 1 Juan 5:13 que fue escrita la carta?",
+      "opciones": {
+        "A": "Para conocer más doctrina",
+        "B": "Para que sepan que tienen vida eterna los que creen en el Hijo de Dios",
+        "C": "Para advertir sobre los falsos profetas",
+        "D": "Para enseñar sobre el amor fraternal"
+      },
+      "correcta": "B",
+      "explicacion": "1 Juan 5:13 declara: 'Estas cosas os he escrito para que sepáis que tenéis vida eterna, vosotros los que creéis en el Hijo de Dios.'"
+    },
+    {
+      "id": 15,
+      "libro": "1 Juan",
+      "dificultad": "media",
+      "categoria": "Perdón",
+      "pregunta": "¿Qué promete 1 Juan 1:9 al que confiesa sus pecados?",
+      "opciones": {
+        "A": "Que será libre del pecado para siempre",
+        "B": "Que Dios es fiel y justo para perdonar y limpiar de toda maldad",
+        "C": "Que nunca más pecará",
+        "D": "Que recibirá un don especial del Espíritu"
+      },
+      "correcta": "B",
+      "explicacion": "1 Juan 1:9 promete: 'Si confesamos nuestros pecados, él es fiel y justo para perdonar nuestros pecados y limpiarnos de toda maldad.'"
+    },
+    {
+      "id": 16,
+      "libro": "2 Juan",
+      "dificultad": "dificil",
+      "categoria": "Doctrina",
+      "pregunta": "¿Cuál es la advertencia central de 2 Juan?",
+      "opciones": {
+        "A": "No abandonar la iglesia local",
+        "B": "No recibir ni saludar a quien no trae la doctrina de Cristo",
+        "C": "No casarse con incrédulos",
+        "D": "No participar en fiestas paganas"
+      },
+      "correcta": "B",
+      "explicacion": "2 Juan 10-11 advierte no recibir en casa ni saludar al que no trae la doctrina de Cristo, para no participar en sus malas obras."
+    },
+    {
+      "id": 17,
+      "libro": "3 Juan",
+      "dificultad": "muy_dificil",
+      "categoria": "Hospitalidad",
+      "pregunta": "¿A quién alaba Juan en 3 Juan por su hospitalidad con los misioneros?",
+      "opciones": {
+        "A": "Diótrefes",
+        "B": "Gayo",
+        "C": "Demetrio",
+        "D": "Tanto Gayo como Demetrio"
+      },
+      "correcta": "D",
+      "explicacion": "3 Juan alaba a Gayo (v.5-6) por su hospitalidad con los hermanos y a Demetrio (v.12) por el buen testimonio de todos."
+    },
+    {
+      "id": 18,
+      "libro": "Judas",
+      "dificultad": "facil",
+      "categoria": "Apostasía",
+      "pregunta": "¿Cuál es el tema principal de la carta de Judas?",
+      "opciones": {
+        "A": "El amor fraternal",
+        "B": "Contender ardientemente por la fe ante los falsos maestros que se habían infiltrado",
+        "C": "La esperanza de la resurrección",
+        "D": "La paciencia en el sufrimiento"
+      },
+      "correcta": "B",
+      "explicacion": "Judas 3-4 exhorta a contender ardientemente por la fe, porque ciertos hombres impíos se habían infiltrado en la iglesia."
+    },
+    {
+      "id": 19,
+      "libro": "Judas",
+      "dificultad": "dificil",
+      "categoria": "Ángeles",
+      "pregunta": "¿Qué hecho sobre el arcángel Miguel menciona Judas en su carta?",
+      "opciones": {
+        "A": "Que Miguel le reveló la ley a Moisés",
+        "B": "Que Miguel disputó con el diablo por el cuerpo de Moisés sin pronunciar juicio",
+        "C": "Que Miguel protege a Israel de sus enemigos",
+        "D": "Que Miguel selló el libro del Apocalipsis"
+      },
+      "correcta": "B",
+      "explicacion": "Judas 9 narra que el arcángel Miguel, cuando contendía con el diablo disputando por el cuerpo de Moisés, no se atrevió a proferir juicio de maldición."
+    },
+    {
+      "id": 20,
+      "libro": "Apocalipsis",
+      "dificultad": "facil",
+      "categoria": "Visión",
+      "pregunta": "¿A quién le fue dada la visión del Apocalipsis?",
+      "opciones": {
+        "A": "Al apóstol Pablo en Roma",
+        "B": "Al apóstol Juan en la isla de Patmos",
+        "C": "Al profeta Ezequiel en Babilonia",
+        "D": "A Pedro en Jerusalén"
+      },
+      "correcta": "B",
+      "explicacion": "Apocalipsis 1:9 indica que Juan estaba en la isla de Patmos cuando recibió la visión, desterrado por causa de la Palabra de Dios."
+    },
+    {
+      "id": 21,
+      "libro": "Apocalipsis",
+      "dificultad": "facil",
+      "categoria": "Siete iglesias",
+      "pregunta": "¿A cuántas iglesias están dirigidas las cartas del Apocalipsis?",
+      "opciones": {
+        "A": "5",
+        "B": "7",
+        "C": "10",
+        "D": "12"
+      },
+      "correcta": "B",
+      "explicacion": "Apocalipsis 2-3 contiene siete cartas a las iglesias de Éfeso, Esmirna, Pérgamo, Tiatira, Sardis, Filadelfia y Laodicea."
+    },
+    {
+      "id": 22,
+      "libro": "Apocalipsis",
+      "dificultad": "facil",
+      "categoria": "Nueva Creación",
+      "pregunta": "¿Qué visión cierra el libro del Apocalipsis?",
+      "opciones": {
+        "A": "El juicio final del gran trono blanco",
+        "B": "La nueva Jerusalén descendiendo del cielo a la nueva tierra",
+        "C": "El regreso de Cristo en las nubes",
+        "D": "La derrota final de Satanás"
+      },
+      "correcta": "B",
+      "explicacion": "Apocalipsis 21:1-2 describe la nueva Jerusalén descendiendo del cielo, símbolo de la morada eterna de Dios con su pueblo."
+    },
+    {
+      "id": 23,
+      "libro": "Apocalipsis",
+      "dificultad": "media",
+      "categoria": "Cordero",
+      "pregunta": "¿Qué imagen usa Apocalipsis para describir a Jesucristo en el trono celestial?",
+      "opciones": {
+        "A": "Un león rugiente",
+        "B": "Un cordero como inmolado",
+        "C": "Un rey con corona de oro",
+        "D": "Un sol brillante"
+      },
+      "correcta": "B",
+      "explicacion": "Apocalipsis 5:6 describe a Cristo como un Cordero que estaba de pie, como inmolado, en medio del trono."
+    },
+    {
+      "id": 24,
+      "libro": "Apocalipsis",
+      "dificultad": "media",
+      "categoria": "Bestia",
+      "pregunta": "¿Cuál es el famoso número de la bestia en Apocalipsis?",
+      "opciones": {
+        "A": "444",
+        "B": "555",
+        "C": "616",
+        "D": "666"
+      },
+      "correcta": "D",
+      "explicacion": "Apocalipsis 13:18 identifica el número de la bestia como 666, número del hombre, tema de amplio debate interpretativo."
+    },
+    {
+      "id": 25,
+      "libro": "Apocalipsis",
+      "dificultad": "media",
+      "categoria": "Siete sellos",
+      "pregunta": "¿Cuántas series de juicios describe el Apocalipsis?",
+      "opciones": {
+        "A": "Dos: sellos y trompetas",
+        "B": "Tres: sellos, trompetas y copas",
+        "C": "Cuatro: sellos, trompetas, rayos y copas",
+        "D": "Siete series en total"
+      },
+      "correcta": "B",
+      "explicacion": "Apocalipsis presenta tres series de 7 juicios: los 7 sellos (6-8), las 7 trompetas (8-11) y las 7 copas (16)."
+    },
+    {
+      "id": 26,
+      "libro": "Apocalipsis",
+      "dificultad": "dificil",
+      "categoria": "Nueva Creación",
+      "pregunta": "¿Qué dimensiones tiene la nueva Jerusalén según Apocalipsis 21?",
+      "opciones": {
+        "A": "100 estadios en cada lado",
+        "B": "1.200 estadios (12.000 estadios de circunferencia) en forma de cubo",
+        "C": "144 codos de altura y largo ilimitado",
+        "D": "La misma dimensión que el templo de Salomón multiplicada por 1.000"
+      },
+      "correcta": "B",
+      "explicacion": "Apocalipsis 21:16 describe la ciudad como un cubo perfecto de 12.000 estadios en cada dirección, símbolo de perfección."
+    },
+    {
+      "id": 27,
+      "libro": "Apocalipsis",
+      "dificultad": "muy_dificil",
+      "categoria": "Siete iglesias",
+      "pregunta": "¿A cuál de las siete iglesias no se le hace ninguna crítica en las cartas del Apocalipsis?",
+      "opciones": {
+        "A": "Éfeso y Filadelfia",
+        "B": "Solo Esmirna y Filadelfia",
+        "C": "Solo Filadelfia",
+        "D": "Esmirna, Filadelfia y Pérgamo"
+      },
+      "correcta": "B",
+      "explicacion": "Apocalipsis 2:8-11 (Esmirna) y 3:7-13 (Filadelfia) son las únicas dos cartas donde Jesús no hace ninguna crítica a la iglesia."
+    }
+  ]
+}

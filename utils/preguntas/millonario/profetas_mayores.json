@@ -1,0 +1,539 @@
+{
+  "grupo_id": "PROFETAS_MAYORES",
+  "grupo_nombre": "Profetas Mayores",
+  "libros": [
+    "Isaías",
+    "Jeremías",
+    "Lamentaciones",
+    "Ezequiel",
+    "Daniel"
+  ],
+  "total_preguntas": 35,
+  "preguntas": [
+    {
+      "id": 1,
+      "libro": "Isaías",
+      "dificultad": "facil",
+      "categoria": "Llamado",
+      "pregunta": "¿Qué vio Isaías en la visión de su llamado?",
+      "opciones": {
+        "A": "Un torbellino de fuego",
+        "B": "A Jehová sentado en un trono alto y sublime, rodeado de serafines",
+        "C": "Una zarza ardiente",
+        "D": "Un carro de fuego"
+      },
+      "correcta": "B",
+      "explicacion": "Isaías 6:1-2 describe la visión del trono de Dios rodeado de serafines que clamaban: 'Santo, santo, santo'."
+    },
+    {
+      "id": 2,
+      "libro": "Isaías",
+      "dificultad": "facil",
+      "categoria": "Mesías",
+      "pregunta": "¿Qué profecía de Isaías anuncia el nacimiento virginal del Mesías?",
+      "opciones": {
+        "A": "'Un niño nos es nacido'",
+        "B": "'He aquí que la virgen concebirá y dará a luz un hijo'",
+        "C": "'Saldrá una vara del tronco de Isaí'",
+        "D": "'El pueblo que andaba en tinieblas vio gran luz'"
+      },
+      "correcta": "B",
+      "explicacion": "Isaías 7:14 profetiza que una virgen concebirá y dará a luz un hijo llamado Emanuel."
+    },
+    {
+      "id": 3,
+      "libro": "Isaías",
+      "dificultad": "facil",
+      "categoria": "Consuelo",
+      "pregunta": "¿Cuál es el versículo de Isaías más conocido sobre renovar las fuerzas?",
+      "opciones": {
+        "A": "'No temas, porque yo estoy contigo'",
+        "B": "'Los que esperan en Jehová tendrán nuevas fuerzas'",
+        "C": "'Venid a mí todos los que estáis trabajados'",
+        "D": "'Dios es nuestra fortaleza y baluarte'"
+      },
+      "correcta": "B",
+      "explicacion": "Isaías 40:31 promete que los que esperan en Jehová tendrán nuevas fuerzas, volarán como águilas."
+    },
+    {
+      "id": 4,
+      "libro": "Isaías",
+      "dificultad": "media",
+      "categoria": "Llamado",
+      "pregunta": "¿Qué hizo el serafín para purificar los labios de Isaías?",
+      "opciones": {
+        "A": "Sopló sobre él",
+        "B": "Lo ungió con aceite",
+        "C": "Tocó su boca con un carbón encendido del altar",
+        "D": "Le dio agua del río de vida"
+      },
+      "correcta": "C",
+      "explicacion": "Isaías 6:6-7 describe que el serafín voló con un carbón del altar y tocó la boca de Isaías para purificarla."
+    },
+    {
+      "id": 5,
+      "libro": "Isaías",
+      "dificultad": "media",
+      "categoria": "Mesías",
+      "pregunta": "¿Qué capítulo de Isaías describe al Siervo sufriente que es herido por nuestras transgresiones?",
+      "opciones": {
+        "A": "Isaías 40",
+        "B": "Isaías 53",
+        "C": "Isaías 61",
+        "D": "Isaías 9"
+      },
+      "correcta": "B",
+      "explicacion": "Isaías 53 es el capítulo del Siervo sufriente, profetizando la muerte vicaria del Mesías con gran detalle."
+    },
+    {
+      "id": 6,
+      "libro": "Isaías",
+      "dificultad": "media",
+      "categoria": "Profecía",
+      "pregunta": "¿A qué rey persa nombró Isaías por nombre más de 150 años antes de que naciera?",
+      "opciones": {
+        "A": "Darío",
+        "B": "Jerjes",
+        "C": "Ciro",
+        "D": "Artajerjes"
+      },
+      "correcta": "C",
+      "explicacion": "Isaías 44:28 y 45:1 nombran a Ciro como el ungido que mandaría reconstruir Jerusalén, profetizado siglos antes."
+    },
+    {
+      "id": 7,
+      "libro": "Isaías",
+      "dificultad": "media",
+      "categoria": "Consuelo",
+      "pregunta": "¿Qué promete Isaías 41:10?",
+      "opciones": {
+        "A": "'El que persevera hasta el fin será salvo'",
+        "B": "'No temas porque yo estoy contigo; no desmayes porque yo soy tu Dios'",
+        "C": "'Dios peleará por vosotros'",
+        "D": "'Toda rodilla se doblará ante mí'"
+      },
+      "correcta": "B",
+      "explicacion": "Isaías 41:10 promete: 'No temas porque yo estoy contigo; no desmayes, porque yo soy tu Dios que te esfuerzo.'"
+    },
+    {
+      "id": 8,
+      "libro": "Isaías",
+      "dificultad": "dificil",
+      "categoria": "Mesías",
+      "pregunta": "¿Cuántos títulos mesiánicos menciona Isaías 9:6 para el niño que nacería?",
+      "opciones": {
+        "A": "2",
+        "B": "3",
+        "C": "4",
+        "D": "5"
+      },
+      "correcta": "C",
+      "explicacion": "Isaías 9:6 da cuatro títulos: Admirable Consejero, Dios Fuerte, Padre Eterno, Príncipe de Paz."
+    },
+    {
+      "id": 9,
+      "libro": "Isaías",
+      "dificultad": "dificil",
+      "categoria": "Profecía",
+      "pregunta": "¿Qué capítulos de Isaías se conocen como el 'Segundo Isaías' por su cambio de contexto?",
+      "opciones": {
+        "A": "Capítulos 1-12",
+        "B": "Capítulos 13-39",
+        "C": "Capítulos 40-66",
+        "D": "Capítulos 24-35"
+      },
+      "correcta": "C",
+      "explicacion": "Los capítulos 40-66 tienen un tono y contexto distintos (exilio babilónico), por lo que muchos eruditos los distinguen como 'Deutero-Isaías'."
+    },
+    {
+      "id": 10,
+      "libro": "Isaías",
+      "dificultad": "muy_dificil",
+      "categoria": "Siervo",
+      "pregunta": "¿Cuántos 'Cánticos del Siervo' identifican los eruditos en Isaías?",
+      "opciones": {
+        "A": "2",
+        "B": "3",
+        "C": "4",
+        "D": "5"
+      },
+      "correcta": "C",
+      "explicacion": "Los cuatro Cánticos del Siervo están en Isaías 42:1-4, 49:1-6, 50:4-9 y 52:13-53:12."
+    },
+    {
+      "id": 11,
+      "libro": "Jeremías",
+      "dificultad": "facil",
+      "categoria": "Llamado",
+      "pregunta": "¿Cuál fue la excusa de Jeremías cuando Dios lo llamó a profetizar?",
+      "opciones": {
+        "A": "Que era demasiado viejo",
+        "B": "Que era torpe de lengua",
+        "C": "Que era joven y no sabía hablar",
+        "D": "Que el pueblo no lo escucharía"
+      },
+      "correcta": "C",
+      "explicacion": "Jeremías 1:6 narra que Jeremías dijo: 'No sé hablar, porque soy niño.'"
+    },
+    {
+      "id": 12,
+      "libro": "Jeremías",
+      "dificultad": "facil",
+      "categoria": "Nuevo Pacto",
+      "pregunta": "¿Qué profecía importante sobre el nuevo pacto se encuentra en Jeremías 31?",
+      "opciones": {
+        "A": "La reconstrucción del templo",
+        "B": "El nuevo pacto escrito en el corazón, no en tablas de piedra",
+        "C": "El regreso de los exiliados a pie",
+        "D": "La venida del Mesías a Belén"
+      },
+      "correcta": "B",
+      "explicacion": "Jeremías 31:33 profetiza el nuevo pacto donde Dios escribirá su ley en los corazones del pueblo."
+    },
+    {
+      "id": 13,
+      "libro": "Jeremías",
+      "dificultad": "media",
+      "categoria": "Jeremías",
+      "pregunta": "¿Por qué se conoce a Jeremías como el 'profeta llorón'?",
+      "opciones": {
+        "A": "Porque tenía una enfermedad en los ojos",
+        "B": "Por su profundo dolor ante la destrucción de Jerusalén y el rechazo del pueblo",
+        "C": "Porque ayunaba constantemente llorando",
+        "D": "Porque perdió a su familia en la guerra"
+      },
+      "correcta": "B",
+      "explicacion": "Jeremías llora profundamente por su nación (Jer 9:1, Lamentaciones) y sufre gran angustia personal por su ministerio."
+    },
+    {
+      "id": 14,
+      "libro": "Jeremías",
+      "dificultad": "media",
+      "categoria": "Profecía",
+      "pregunta": "¿Cuántos años profetizó Jeremías que duraría el cautiverio en Babilonia?",
+      "opciones": {
+        "A": "40",
+        "B": "50",
+        "C": "70",
+        "D": "100"
+      },
+      "correcta": "C",
+      "explicacion": "Jeremías 25:11 profetiza que el cautiverio babilónico duraría 70 años."
+    },
+    {
+      "id": 15,
+      "libro": "Jeremías",
+      "dificultad": "media",
+      "categoria": "Sufrimiento",
+      "pregunta": "¿Qué le hicieron al profeta Jeremías al arrojarle a una cisterna?",
+      "opciones": {
+        "A": "Lo mataron con espadas",
+        "B": "Se hundió en el lodo sin agua y quedó atrapado",
+        "C": "Lo dejaron sin comida ni agua",
+        "D": "Lo quemaron vivo"
+      },
+      "correcta": "B",
+      "explicacion": "Jeremías 38:6 narra que lo bajaron con sogas a la cisterna donde no había agua sino lodo, hundiéndose en él."
+    },
+    {
+      "id": 16,
+      "libro": "Jeremías",
+      "dificultad": "dificil",
+      "categoria": "Rollo",
+      "pregunta": "¿Qué hizo el rey Joacim con el rollo donde estaban escritas las profecías de Jeremías?",
+      "opciones": {
+        "A": "Lo guardó en el templo",
+        "B": "Lo quemó trozo por trozo en el brasero",
+        "C": "Lo enterró bajo el palacio",
+        "D": "Lo envió a Babilonia"
+      },
+      "correcta": "B",
+      "explicacion": "Jeremías 36:23 narra que Joacim cortaba secciones del rollo con un cortaplumas y las arrojaba al fuego."
+    },
+    {
+      "id": 17,
+      "libro": "Jeremías",
+      "dificultad": "muy_dificil",
+      "categoria": "Llamado",
+      "pregunta": "¿Qué tocó Dios en Jeremías cuando lo llamó, similar a lo del serafín con Isaías?",
+      "opciones": {
+        "A": "Sus ojos",
+        "B": "Su corazón",
+        "C": "Su boca",
+        "D": "Sus manos"
+      },
+      "correcta": "C",
+      "explicacion": "Jeremías 1:9 narra que Jehová extendió su mano y tocó la boca de Jeremías, poniendo sus palabras en ella."
+    },
+    {
+      "id": 18,
+      "libro": "Lamentaciones",
+      "dificultad": "facil",
+      "categoria": "Contexto",
+      "pregunta": "¿Sobre qué evento llora el libro de Lamentaciones?",
+      "opciones": {
+        "A": "La muerte de Moisés",
+        "B": "La destrucción de Jerusalén por Babilonia",
+        "C": "El cautiverio en Egipto",
+        "D": "La división del reino de Israel"
+      },
+      "correcta": "B",
+      "explicacion": "Lamentaciones es un poema fúnebre por la destrucción de Jerusalén y el templo por Nabucodonosor."
+    },
+    {
+      "id": 19,
+      "libro": "Lamentaciones",
+      "dificultad": "media",
+      "categoria": "Esperanza",
+      "pregunta": "¿Cuál es el versículo de esperanza más conocido en medio del dolor de Lamentaciones?",
+      "opciones": {
+        "A": "'Jehová es justo, yo me rebelé contra su mandato'",
+        "B": "'Las misericordias de Jehová nunca decaen... nuevas son cada mañana'",
+        "C": "'¿Hay dolor como mi dolor?'",
+        "D": "'Recuerda Jehová lo que nos ha sucedido'"
+      },
+      "correcta": "B",
+      "explicacion": "Lamentaciones 3:22-23 declara que las misericordias de Dios nunca fallan y son nuevas cada mañana."
+    },
+    {
+      "id": 20,
+      "libro": "Lamentaciones",
+      "dificultad": "dificil",
+      "categoria": "Estructura",
+      "pregunta": "¿Qué característica literaria especial tienen los primeros cuatro capítulos de Lamentaciones?",
+      "opciones": {
+        "A": "Son himnos con estribillo",
+        "B": "Son poemas acrósticos basados en el alfabeto hebreo",
+        "C": "Cada versículo tiene exactamente 7 palabras",
+        "D": "Están escritos en primera persona plural"
+      },
+      "correcta": "B",
+      "explicacion": "Los capítulos 1-4 son poemas acrósticos: cada versículo o sección comienza con una letra sucesiva del alefato hebreo."
+    },
+    {
+      "id": 21,
+      "libro": "Ezequiel",
+      "dificultad": "facil",
+      "categoria": "Visión",
+      "pregunta": "¿Qué vio Ezequiel en su famosa visión inicial junto al río Quebar?",
+      "opciones": {
+        "A": "Un trono de fuego con ángeles",
+        "B": "Una tormenta con cuatro seres vivientes y ruedas llenas de ojos",
+        "C": "Un templo celestial",
+        "D": "Un río de agua viva"
+      },
+      "correcta": "B",
+      "explicacion": "Ezequiel 1:4-21 describe la visión de la tormenta, los cuatro seres vivientes y las ruedas con ojos, símbolo de la omnisciencia divina."
+    },
+    {
+      "id": 22,
+      "libro": "Ezequiel",
+      "dificultad": "facil",
+      "categoria": "Valle",
+      "pregunta": "¿Qué profetizó Ezequiel en el valle de los huesos secos?",
+      "opciones": {
+        "A": "La destrucción de Babilonia",
+        "B": "La resurrección de Israel como nación",
+        "C": "La llegada del Mesías",
+        "D": "La reconstrucción del templo"
+      },
+      "correcta": "B",
+      "explicacion": "Ezequiel 37:1-14 contiene la profecía del valle de huesos secos que simboliza la restauración de Israel."
+    },
+    {
+      "id": 23,
+      "libro": "Ezequiel",
+      "dificultad": "media",
+      "categoria": "Responsabilidad",
+      "pregunta": "¿A qué oficio compara Dios la responsabilidad del profeta Ezequiel?",
+      "opciones": {
+        "A": "Un pastor de ovejas",
+        "B": "Un atalaya (centinela)",
+        "C": "Un juez",
+        "D": "Un sacerdote"
+      },
+      "correcta": "B",
+      "explicacion": "Ezequiel 3:17 y 33:7 designan a Ezequiel como atalaya de Israel, responsable de advertir al pueblo."
+    },
+    {
+      "id": 24,
+      "libro": "Ezequiel",
+      "dificultad": "media",
+      "categoria": "Visión",
+      "pregunta": "¿Qué vio Ezequiel que los ancianos de Israel hacían en secreto dentro del templo?",
+      "opciones": {
+        "A": "Adorando ídolos de animales pintados en las paredes",
+        "B": "Bebiendo vino de las ofrendas",
+        "C": "Robando el oro del templo",
+        "D": "Consultando adivinos"
+      },
+      "correcta": "A",
+      "explicacion": "Ezequiel 8:10-12 describe a los 70 ancianos adorando ídolos de reptiles y animales pintados en las paredes del templo."
+    },
+    {
+      "id": 25,
+      "libro": "Ezequiel",
+      "dificultad": "dificil",
+      "categoria": "Templo",
+      "pregunta": "¿Cuántos capítulos dedica Ezequiel a la descripción del templo futuro?",
+      "opciones": {
+        "A": "4",
+        "B": "6",
+        "C": "9",
+        "D": "13"
+      },
+      "correcta": "C",
+      "explicacion": "Ezequiel 40-48 (9 capítulos) describen con gran detalle las medidas y el orden del templo milenial futuro."
+    },
+    {
+      "id": 26,
+      "libro": "Ezequiel",
+      "dificultad": "muy_dificil",
+      "categoria": "Gog y Magog",
+      "pregunta": "¿En qué capítulos de Ezequiel aparece la profecía de Gog y Magog?",
+      "opciones": {
+        "A": "Capítulos 25-26",
+        "B": "Capítulos 33-34",
+        "C": "Capítulos 38-39",
+        "D": "Capítulos 40-41"
+      },
+      "correcta": "C",
+      "explicacion": "Ezequiel 38-39 contienen la profecía de la invasión de Gog de la tierra de Magog contra Israel restaurado."
+    },
+    {
+      "id": 27,
+      "libro": "Daniel",
+      "dificultad": "facil",
+      "categoria": "Fidelidad",
+      "pregunta": "¿Qué decidió Daniel no hacer para no contaminarse en Babilonia?",
+      "opciones": {
+        "A": "Aprender el idioma caldeo",
+        "B": "Comer la comida y beber el vino del rey",
+        "C": "Servir en el palacio del rey",
+        "D": "Adorar a los dioses babilonios"
+      },
+      "correcta": "B",
+      "explicacion": "Daniel 1:8 narra que Daniel propuso en su corazón no contaminarse con la comida ni con el vino del rey."
+    },
+    {
+      "id": 28,
+      "libro": "Daniel",
+      "dificultad": "facil",
+      "categoria": "León",
+      "pregunta": "¿Por qué fue Daniel arrojado al foso de los leones?",
+      "opciones": {
+        "A": "Por negarse a adorar la estatua de oro",
+        "B": "Por interpretar mal el sueño del rey",
+        "C": "Por seguir orando a Dios tres veces al día a pesar del decreto",
+        "D": "Por revelar secretos del palacio"
+      },
+      "correcta": "C",
+      "explicacion": "Daniel 6:10-13 narra que Daniel continuó orando tres veces al día hacia Jerusalén, violando el decreto de Darío."
+    },
+    {
+      "id": 29,
+      "libro": "Daniel",
+      "dificultad": "facil",
+      "categoria": "Horno",
+      "pregunta": "¿Quiénes fueron arrojados al horno de fuego por no adorar la estatua de oro?",
+      "opciones": {
+        "A": "Daniel, Sadrac y Mesac",
+        "B": "Sadrac, Mesac y Abed-nego",
+        "C": "Daniel, Sadrac y Abed-nego",
+        "D": "Los cuatro amigos de Daniel juntos"
+      },
+      "correcta": "B",
+      "explicacion": "Daniel 3:19-21 narra que Sadrac, Mesac y Abed-nego fueron arrojados al horno de fuego ardiente."
+    },
+    {
+      "id": 30,
+      "libro": "Daniel",
+      "dificultad": "media",
+      "categoria": "Sueños",
+      "pregunta": "¿Qué representaban los cuatro metales de la estatua en el sueño de Nabucodonosor?",
+      "opciones": {
+        "A": "Cuatro épocas del mismo reino babilónico",
+        "B": "Cuatro imperios mundiales sucesivos",
+        "C": "Cuatro generaciones de la familia real",
+        "D": "Cuatro etapas de la vida de Nabucodonosor"
+      },
+      "correcta": "B",
+      "explicacion": "Daniel 2:36-45 interpreta los cuatro metales como cuatro imperios: Babilonia, Medo-Persia, Grecia y Roma."
+    },
+    {
+      "id": 31,
+      "libro": "Daniel",
+      "dificultad": "media",
+      "categoria": "Escritura",
+      "pregunta": "¿Qué apareció misteriosamente durante el banquete del rey Belsasar?",
+      "opciones": {
+        "A": "Una voz del cielo",
+        "B": "Una mano que escribió en la pared",
+        "C": "Un ángel con una espada",
+        "D": "Un terremoto que agrietó el palacio"
+      },
+      "correcta": "B",
+      "explicacion": "Daniel 5:5 narra que apareció la mano de un hombre escribiendo en la pared del palacio: MENE, MENE, TEKEL, UPARSIN."
+    },
+    {
+      "id": 32,
+      "libro": "Daniel",
+      "dificultad": "media",
+      "categoria": "Horno",
+      "pregunta": "¿Qué vio el rey Nabucodonosor dentro del horno cuando miró a los tres jóvenes?",
+      "opciones": {
+        "A": "Solo a los tres jóvenes ilesos",
+        "B": "A los tres y a un ángel guardándolos",
+        "C": "A cuatro hombres, el cuarto semejante a hijo de Dios",
+        "D": "Una nube de humo que los protegía"
+      },
+      "correcta": "C",
+      "explicacion": "Daniel 3:25 narra que el rey vio cuatro hombres sueltos caminando en el fuego, el cuarto semejante a hijo de Dios."
+    },
+    {
+      "id": 33,
+      "libro": "Daniel",
+      "dificultad": "dificil",
+      "categoria": "Profecía",
+      "pregunta": "¿Qué profecía numérica de Daniel menciona 70 semanas?",
+      "opciones": {
+        "A": "Daniel 7",
+        "B": "Daniel 9",
+        "C": "Daniel 11",
+        "D": "Daniel 12"
+      },
+      "correcta": "B",
+      "explicacion": "Daniel 9:24-27 contiene la profecía de las 70 semanas, una de las profecías mesiánicas más precisas del Antiguo Testamento."
+    },
+    {
+      "id": 34,
+      "libro": "Daniel",
+      "dificultad": "dificil",
+      "categoria": "Visión",
+      "pregunta": "¿Qué cuatro bestias vio Daniel en su visión del capítulo 7?",
+      "opciones": {
+        "A": "León, oso, leopardo y un monstruo con 10 cuernos",
+        "B": "Águila, toro, serpiente y dragón",
+        "C": "León, leopardo, oso y cabra",
+        "D": "León alado, oso, leopardo alado y bestia con hierro"
+      },
+      "correcta": "A",
+      "explicacion": "Daniel 7:3-7 describe un león con alas de águila, un oso, un leopardo de 4 cabezas y una bestia terrible con 10 cuernos."
+    },
+    {
+      "id": 35,
+      "libro": "Daniel",
+      "dificultad": "muy_dificil",
+      "categoria": "Ángeles",
+      "pregunta": "¿Cuántos días estuvo Daniel en aflicción antes de que el ángel llegara con la respuesta a su oración?",
+      "opciones": {
+        "A": "7",
+        "B": "14",
+        "C": "21",
+        "D": "40"
+      },
+      "correcta": "C",
+      "explicacion": "Daniel 10:2-13 indica que Daniel ayunó 3 semanas (21 días) y el ángel explicó que fue retenido por el príncipe de Persia."
+    }
+  ]
+}

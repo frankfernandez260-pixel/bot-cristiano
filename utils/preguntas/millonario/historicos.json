@@ -1,0 +1,979 @@
+{
+  "grupo_id": "HISTORICOS",
+  "grupo_nombre": "Históricos",
+  "libros": [
+    "Josué",
+    "Jueces",
+    "Rut",
+    "1 Samuel",
+    "2 Samuel",
+    "1 Reyes",
+    "2 Reyes",
+    "Esdras",
+    "Nehemías",
+    "Ester"
+  ],
+  "total_preguntas": 64,
+  "preguntas": [
+    {
+      "id": 1,
+      "libro": "Josué",
+      "dificultad": "facil",
+      "categoria": "Conquista",
+      "pregunta": "¿Quién sucedió a Moisés como líder de Israel?",
+      "opciones": {
+        "A": "Caleb",
+        "B": "Josué",
+        "C": "Finees",
+        "D": "Eleazar"
+      },
+      "correcta": "B",
+      "explicacion": "Josué 1:1-2 narra que Dios habló a Josué tras la muerte de Moisés y lo comisionó como nuevo líder."
+    },
+    {
+      "id": 2,
+      "libro": "Josué",
+      "dificultad": "facil",
+      "categoria": "Rahab",
+      "pregunta": "¿Quién escondió a los espías israelitas en Jericó?",
+      "opciones": {
+        "A": "Débora",
+        "B": "Abigail",
+        "C": "Rahab",
+        "D": "Dalila"
+      },
+      "correcta": "C",
+      "explicacion": "Josué 2:1-4 narra que Rahab, una mujer de Jericó, escondió a los dos espías en su casa."
+    },
+    {
+      "id": 3,
+      "libro": "Josué",
+      "dificultad": "facil",
+      "categoria": "Jericó",
+      "pregunta": "¿Cómo cayeron los muros de Jericó?",
+      "opciones": {
+        "A": "Con arietes de madera",
+        "B": "Con un terremoto",
+        "C": "Marchando alrededor y tocando trompetas",
+        "D": "Con fuego del cielo"
+      },
+      "correcta": "C",
+      "explicacion": "Josué 6:20 describe que el pueblo gritó y los sacerdotes tocaron las trompetas, y los muros cayeron."
+    },
+    {
+      "id": 4,
+      "libro": "Josué",
+      "dificultad": "facil",
+      "categoria": "Milagro",
+      "pregunta": "¿Qué milagro ocurrió en la batalla de Gabaón bajo el mando de Josué?",
+      "opciones": {
+        "A": "Cayó granizo sobre los enemigos",
+        "B": "El sol y la luna se detuvieron",
+        "C": "Un ángel luchó por Israel",
+        "D": "El río se dividió"
+      },
+      "correcta": "B",
+      "explicacion": "Josué 10:13 narra que el sol se detuvo y la luna se paró hasta que Israel se vengó de sus enemigos."
+    },
+    {
+      "id": 5,
+      "libro": "Josué",
+      "dificultad": "media",
+      "categoria": "Rahab",
+      "pregunta": "¿Qué señal debía poner Rahab para ser salvada cuando Israel tomara Jericó?",
+      "opciones": {
+        "A": "Una paloma blanca en la ventana",
+        "B": "Un cordón de hilo escarlata",
+        "C": "Una lámpara encendida",
+        "D": "Una rama de olivo"
+      },
+      "correcta": "B",
+      "explicacion": "Josué 2:18 ordena que Rahab atara un cordón de grana escarlata en la ventana como señal de salvación."
+    },
+    {
+      "id": 6,
+      "libro": "Josué",
+      "dificultad": "media",
+      "categoria": "Cruce del Jordán",
+      "pregunta": "¿Qué ocurrió con el río Jordán cuando los sacerdotes pusieron los pies en él?",
+      "opciones": {
+        "A": "Se redujo a la mitad",
+        "B": "Las aguas se dividieron y detuvieron",
+        "C": "Apareció un puente de piedra",
+        "D": "Se secó completamente una semana antes"
+      },
+      "correcta": "B",
+      "explicacion": "Josué 3:15-16 narra que cuando los pies de los sacerdotes tocaron el agua, las aguas se detuvieron formando un muro."
+    },
+    {
+      "id": 7,
+      "libro": "Josué",
+      "dificultad": "media",
+      "categoria": "Acán",
+      "pregunta": "¿Por qué Israel fue derrotado en Hai la primera vez?",
+      "opciones": {
+        "A": "Josué no consultó a Dios",
+        "B": "Acán tomó cosas del botín prohibido de Jericó",
+        "C": "Los soldados estaban cansados",
+        "D": "Había espías enemigos en el campamento"
+      },
+      "correcta": "B",
+      "explicacion": "Josué 7:1 explica que Acán tomó del anatema (botín consagrado a Dios) y por eso la ira de Dios se encendió."
+    },
+    {
+      "id": 8,
+      "libro": "Josué",
+      "dificultad": "media",
+      "categoria": "Reparto",
+      "pregunta": "¿Qué tribu no recibió territorio porque Dios era su herencia?",
+      "opciones": {
+        "A": "Judá",
+        "B": "Efraín",
+        "C": "Leví",
+        "D": "Simeón"
+      },
+      "correcta": "C",
+      "explicacion": "Josué 13:33 establece que los levitas no recibieron herencia territorial porque Jehová era su herencia."
+    },
+    {
+      "id": 9,
+      "libro": "Josué",
+      "dificultad": "media",
+      "categoria": "Caleb",
+      "pregunta": "¿Qué territorio pidió Caleb como herencia por su fidelidad?",
+      "opciones": {
+        "A": "Las llanuras del Jordán",
+        "B": "El monte Hebrón",
+        "C": "La ciudad de Jericó",
+        "D": "El valle de Jezreel"
+      },
+      "correcta": "B",
+      "explicacion": "Josué 14:12 narra que Caleb pidió el monte Hebrón donde estaban los anaceos (gigantes)."
+    },
+    {
+      "id": 10,
+      "libro": "Josué",
+      "dificultad": "media",
+      "categoria": "Pacto",
+      "pregunta": "¿Qué dijo Josué al pueblo en su discurso final en Siquem?",
+      "opciones": {
+        "A": "Que dividiera la tierra en partes iguales",
+        "B": "Que escogieran a quién servirían, pero él y su casa servirían a Jehová",
+        "C": "Que nombraran un rey",
+        "D": "Que regresaran a Egipto si no obedecían"
+      },
+      "correcta": "B",
+      "explicacion": "Josué 24:15 contiene la famosa declaración: 'yo y mi casa serviremos a Jehová'."
+    },
+    {
+      "id": 11,
+      "libro": "Josué",
+      "dificultad": "dificil",
+      "categoria": "Jericó",
+      "pregunta": "¿Cuántos días marcharon alrededor de Jericó antes del día final?",
+      "opciones": {
+        "A": "3",
+        "B": "5",
+        "C": "6",
+        "D": "7"
+      },
+      "correcta": "C",
+      "explicacion": "Josué 6:3-4 indica que marcharon una vez al día por seis días, y el séptimo día siete veces."
+    },
+    {
+      "id": 12,
+      "libro": "Josué",
+      "dificultad": "dificil",
+      "categoria": "Acán",
+      "pregunta": "¿Qué tomó Acán del botín de Jericó?",
+      "opciones": {
+        "A": "Oro, plata y un manto babilónico",
+        "B": "Armas y caballos",
+        "C": "Grano y aceite",
+        "D": "Ídolos de plata"
+      },
+      "correcta": "A",
+      "explicacion": "Josué 7:21 especifica que Acán tomó un manto babilónico, doscientos siclos de plata y un lingote de oro."
+    },
+    {
+      "id": 13,
+      "libro": "Josué",
+      "dificultad": "dificil",
+      "categoria": "Gabaonitas",
+      "pregunta": "¿Cómo engañaron los gabaonitas a Josué para hacer un pacto?",
+      "opciones": {
+        "A": "Fingieron ser de una nación lejana con pan duro y ropa vieja",
+        "B": "Sobornaron a los líderes de Israel",
+        "C": "Se disfrazaron de soldados israelitas",
+        "D": "Enviaron una embajada con regalos costosos"
+      },
+      "correcta": "A",
+      "explicacion": "Josué 9:4-6 narra que tomaron odres viejos, pan enmohecido y ropa raída para fingir un largo viaje."
+    },
+    {
+      "id": 14,
+      "libro": "Josué",
+      "dificultad": "muy_dificil",
+      "categoria": "Ciudades de refugio",
+      "pregunta": "¿Cuál de estas era una ciudad de refugio al occidente del Jordán?",
+      "opciones": {
+        "A": "Golán",
+        "B": "Ramot de Galaad",
+        "C": "Cedes",
+        "D": "Béser"
+      },
+      "correcta": "C",
+      "explicacion": "Josué 20:7 menciona Cedes en Galilea, Siquem en Efraín y Hebrón en Judá como ciudades al occidente."
+    },
+    {
+      "id": 15,
+      "libro": "Jueces",
+      "dificultad": "facil",
+      "categoria": "Sansón",
+      "pregunta": "¿En qué residía la fuerza de Sansón?",
+      "opciones": {
+        "A": "En su cinturón especial",
+        "B": "En su cabello largo",
+        "C": "En un anillo de oro",
+        "D": "En su tamaño físico"
+      },
+      "correcta": "B",
+      "explicacion": "Jueces 16:17 revela que Sansón nunca había sido trasquilado como nazo consagrado a Dios."
+    },
+    {
+      "id": 16,
+      "libro": "Jueces",
+      "dificultad": "facil",
+      "categoria": "Sansón",
+      "pregunta": "¿Quién traicionó a Sansón revelando el secreto de su fuerza?",
+      "opciones": {
+        "A": "Su madre",
+        "B": "Su esposa filistea",
+        "C": "Dalila",
+        "D": "Un siervo comprado"
+      },
+      "correcta": "C",
+      "explicacion": "Jueces 16:18-19 narra que Dalila hizo dormir a Sansón y llamó a un hombre para que le rapara el cabello."
+    },
+    {
+      "id": 17,
+      "libro": "Jueces",
+      "dificultad": "facil",
+      "categoria": "Débora",
+      "pregunta": "¿Qué función tenía Débora además de ser jueza?",
+      "opciones": {
+        "A": "Sacerdotisa",
+        "B": "Profetisa",
+        "C": "Reina",
+        "D": "Guerrera profesional"
+      },
+      "correcta": "B",
+      "explicacion": "Jueces 4:4 describe a Débora como profetisa que juzgaba a Israel en ese tiempo."
+    },
+    {
+      "id": 18,
+      "libro": "Jueces",
+      "dificultad": "facil",
+      "categoria": "Gedeón",
+      "pregunta": "¿Con cuántos hombres venció Gedeón al ejército madianita?",
+      "opciones": {
+        "A": "1.000",
+        "B": "300",
+        "C": "3.000",
+        "D": "100"
+      },
+      "correcta": "B",
+      "explicacion": "Jueces 7:7 narra que Dios redujo el ejército de Gedeón a solo 300 hombres para que la gloria fuera de Dios."
+    },
+    {
+      "id": 19,
+      "libro": "Jueces",
+      "dificultad": "media",
+      "categoria": "Gedeón",
+      "pregunta": "¿Cómo probó Gedeón la voluntad de Dios antes de ir a la guerra?",
+      "opciones": {
+        "A": "Ayunó 40 días",
+        "B": "Consultó al sumo sacerdote",
+        "C": "Puso un vellón de lana y pidió señales de rocío",
+        "D": "Construyó un altar y esperó fuego del cielo"
+      },
+      "correcta": "C",
+      "explicacion": "Jueces 6:36-40 narra que Gedeón puso un vellón dos veces pidiendo señales específicas con el rocío."
+    },
+    {
+      "id": 20,
+      "libro": "Jueces",
+      "dificultad": "media",
+      "categoria": "Gedeón",
+      "pregunta": "¿Qué usaron los 300 hombres de Gedeón como armas en la batalla?",
+      "opciones": {
+        "A": "Espadas y escudos",
+        "B": "Cántaros, antorchas y trompetas",
+        "C": "Arcos y flechas",
+        "D": "Hondas y piedras"
+      },
+      "correcta": "B",
+      "explicacion": "Jueces 7:20 describe que quebraron los cántaros, tomaron las antorchas y tocaron las trompetas."
+    },
+    {
+      "id": 21,
+      "libro": "Jueces",
+      "dificultad": "media",
+      "categoria": "Jefté",
+      "pregunta": "¿Qué voto imprudente hizo Jefté antes de la batalla?",
+      "opciones": {
+        "A": "Ofrecer a Dios la mitad del botín",
+        "B": "No comer hasta la victoria",
+        "C": "Ofrecer en holocausto lo primero que saliera de su casa",
+        "D": "Construir un templo si ganaba"
+      },
+      "correcta": "C",
+      "explicacion": "Jueces 11:30-31 narra el voto de Jefté de ofrecer como holocausto lo primero que saliera de su casa."
+    },
+    {
+      "id": 22,
+      "libro": "Jueces",
+      "dificultad": "media",
+      "categoria": "Sansón",
+      "pregunta": "¿Qué hizo Sansón en su muerte final?",
+      "opciones": {
+        "A": "Mató a mil filisteos con una quijada",
+        "B": "Derribó las columnas del templo de Dagón aplastando a miles",
+        "C": "Prendió fuego a la ciudad de Gaza",
+        "D": "Rompió sus cadenas y escapó"
+      },
+      "correcta": "B",
+      "explicacion": "Jueces 16:29-30 narra que Sansón empujó las dos columnas centrales del templo y este cayó sobre todos."
+    },
+    {
+      "id": 23,
+      "libro": "Jueces",
+      "dificultad": "media",
+      "categoria": "Débora",
+      "pregunta": "¿Quién mató al general Sísara mientras dormía?",
+      "opciones": {
+        "A": "Débora",
+        "B": "Barac",
+        "C": "Jael",
+        "D": "Miriam"
+      },
+      "correcta": "C",
+      "explicacion": "Jueces 4:21 narra que Jael tomó una estaca de la tienda y la clavó en la sien de Sísara mientras dormía."
+    },
+    {
+      "id": 24,
+      "libro": "Jueces",
+      "dificultad": "media",
+      "categoria": "Abimelec",
+      "pregunta": "¿Cómo murió el juez Abimelec?",
+      "opciones": {
+        "A": "En batalla contra los filisteos",
+        "B": "Una mujer le arrojó una piedra de molino en la cabeza",
+        "C": "Fue ejecutado por los ancianos de Israel",
+        "D": "Murió de vejez"
+      },
+      "correcta": "B",
+      "explicacion": "Jueces 9:53 narra que una mujer de Tebes arrojó un pedazo de muela sobre la cabeza de Abimelec."
+    },
+    {
+      "id": 25,
+      "libro": "Jueces",
+      "dificultad": "dificil",
+      "categoria": "Sansón",
+      "pregunta": "¿Qué acertijo planteó Sansón en su boda que causó un conflicto?",
+      "opciones": {
+        "A": "'¿Qué es más rápido que el águila?'",
+        "B": "'Del comedor salió comida y del fuerte salió dulzura'",
+        "C": "'¿Qué tiene dientes pero no muerde?'",
+        "D": "'¿Qué es invisible pero mueve montañas?'"
+      },
+      "correcta": "B",
+      "explicacion": "Jueces 14:14 registra el acertijo de Sansón sobre el león muerto del que salieron abejas y miel."
+    },
+    {
+      "id": 26,
+      "libro": "Jueces",
+      "dificultad": "dificil",
+      "categoria": "Gedeón",
+      "pregunta": "¿Cuál era el otro nombre de Gedeón?",
+      "opciones": {
+        "A": "Yerubaal",
+        "B": "Tola",
+        "C": "Abimelec",
+        "D": "Jair"
+      },
+      "correcta": "A",
+      "explicacion": "Jueces 6:32 dice que desde ese día lo llamaron Jerobaal (Yerubaal) porque derribó el altar de Baal."
+    },
+    {
+      "id": 27,
+      "libro": "Jueces",
+      "dificultad": "muy_dificil",
+      "categoria": "Benjamín",
+      "pregunta": "¿Qué pecado de la tribu de Benjamín provocó casi su exterminación por las otras tribus?",
+      "opciones": {
+        "A": "Adorar a Baal en masa",
+        "B": "El crimen de Gabaa contra la concubina del levita",
+        "C": "Aliarse con los filisteos",
+        "D": "Matar al sumo sacerdote"
+      },
+      "correcta": "B",
+      "explicacion": "Jueces 19-20 narra el terrible crimen en Gabaa y la guerra civil que casi extermina a Benjamín."
+    },
+    {
+      "id": 28,
+      "libro": "Rut",
+      "dificultad": "facil",
+      "categoria": "Lealtad",
+      "pregunta": "¿De dónde era Rut?",
+      "opciones": {
+        "A": "Edom",
+        "B": "Moab",
+        "C": "Amón",
+        "D": "Madián"
+      },
+      "correcta": "B",
+      "explicacion": "Rut 1:4 menciona que Rut era mujer moabita, nuera de Noemí."
+    },
+    {
+      "id": 29,
+      "libro": "Rut",
+      "dificultad": "facil",
+      "categoria": "Lealtad",
+      "pregunta": "¿Cuál es la frase famosa de lealtad que dijo Rut a Noemí?",
+      "opciones": {
+        "A": "'Donde tú vayas, yo iré'",
+        "B": "'Contigo hasta la muerte'",
+        "C": "'Tu pueblo es mi pueblo'",
+        "D": "Tanto A como C son parte de su declaración"
+      },
+      "correcta": "D",
+      "explicacion": "Rut 1:16-17 contiene la declaración completa: 'donde tú fueres iré yo, y donde tú te quedaras me quedaré... tu pueblo será mi pueblo y tu Dios mi Dios.'"
+    },
+    {
+      "id": 30,
+      "libro": "Rut",
+      "dificultad": "media",
+      "categoria": "Booz",
+      "pregunta": "¿Cómo se llama la ley que permitió a Booz casarse con Rut y redimir la propiedad de Noemí?",
+      "opciones": {
+        "A": "Ley del talión",
+        "B": "Ley del pariente redentor (go'el)",
+        "C": "Ley del año jubilar",
+        "D": "Ley del levirato"
+      },
+      "correcta": "B",
+      "explicacion": "Rut 3-4 describe el papel de Booz como pariente redentor (go'el), quien tenía derecho y deber de redimir."
+    },
+    {
+      "id": 31,
+      "libro": "Rut",
+      "dificultad": "media",
+      "categoria": "Booz",
+      "pregunta": "¿Quién era Booz en relación con el linaje de David?",
+      "opciones": {
+        "A": "Su bisabuelo",
+        "B": "Su abuelo",
+        "C": "Su tatarabuelo",
+        "D": "Su padre"
+      },
+      "correcta": "A",
+      "explicacion": "Rut 4:21-22 y Mateo 1:5-6 muestran que Booz fue bisabuelo de David: Booz → Obed → Isaí → David."
+    },
+    {
+      "id": 32,
+      "libro": "Rut",
+      "dificultad": "dificil",
+      "categoria": "Booz",
+      "pregunta": "¿Cuál era el símbolo legal para ceder el derecho de redención en Israel?",
+      "opciones": {
+        "A": "Romper una vasija de barro",
+        "B": "Quitarse la sandalia y dársela al otro",
+        "C": "Firmar un pergamino ante testigos",
+        "D": "Partir un pan en dos"
+      },
+      "correcta": "B",
+      "explicacion": "Rut 4:7-8 describe que para confirmar la redención, el pariente más cercano se quitó la sandalia como testimonio."
+    },
+    {
+      "id": 33,
+      "libro": "1 Samuel",
+      "dificultad": "facil",
+      "categoria": "Samuel",
+      "pregunta": "¿Quién llevó a Samuel al templo para que sirviera a Dios desde niño?",
+      "opciones": {
+        "A": "Su padre Elcana",
+        "B": "El sacerdote Elí",
+        "C": "Su madre Ana",
+        "D": "El profeta Gad"
+      },
+      "correcta": "C",
+      "explicacion": "1 Samuel 1:24-28 narra que Ana llevó a Samuel al templo de Silo y lo dedicó a Dios."
+    },
+    {
+      "id": 34,
+      "libro": "1 Samuel",
+      "dificultad": "facil",
+      "categoria": "David y Goliat",
+      "pregunta": "¿Con qué arma mató David a Goliat?",
+      "opciones": {
+        "A": "Una espada",
+        "B": "Una lanza",
+        "C": "Una honda y una piedra",
+        "D": "Un arco y una flecha"
+      },
+      "correcta": "C",
+      "explicacion": "1 Samuel 17:49-50 describe que David usó su honda, lanzó una piedra e hirió a Goliat en la frente."
+    },
+    {
+      "id": 35,
+      "libro": "1 Samuel",
+      "dificultad": "facil",
+      "categoria": "Saúl",
+      "pregunta": "¿Quién fue el primer rey de Israel?",
+      "opciones": {
+        "A": "David",
+        "B": "Saúl",
+        "C": "Samuel",
+        "D": "Josué"
+      },
+      "correcta": "B",
+      "explicacion": "1 Samuel 10:24 narra la proclamación de Saúl como primer rey de Israel por el pueblo."
+    },
+    {
+      "id": 36,
+      "libro": "1 Samuel",
+      "dificultad": "media",
+      "categoria": "Samuel",
+      "pregunta": "¿Cuántas veces llamó Dios a Samuel de noche antes de que entendiera que era Dios?",
+      "opciones": {
+        "A": "2",
+        "B": "3",
+        "C": "4",
+        "D": "5"
+      },
+      "correcta": "B",
+      "explicacion": "1 Samuel 3:8 muestra que Dios llamó tres veces a Samuel antes de que Elí le instruyera cómo responder."
+    },
+    {
+      "id": 37,
+      "libro": "1 Samuel",
+      "dificultad": "media",
+      "categoria": "Saúl",
+      "pregunta": "¿Por qué Dios rechazó a Saúl como rey?",
+      "opciones": {
+        "A": "Por casarse con una mujer extranjera",
+        "B": "Por ofrecer un sacrificio sin esperar a Samuel y por no destruir a Amalec completamente",
+        "C": "Por consultar a una adivina",
+        "D": "Por robar el tesoro del templo"
+      },
+      "correcta": "B",
+      "explicacion": "1 Samuel 13:13-14 y 15:22-23 muestran dos desobediencias de Saúl que llevaron a su rechazo por Dios."
+    },
+    {
+      "id": 38,
+      "libro": "1 Samuel",
+      "dificultad": "media",
+      "categoria": "David",
+      "pregunta": "¿A qué tribu pertenecía David?",
+      "opciones": {
+        "A": "Efraín",
+        "B": "Benjamín",
+        "C": "Judá",
+        "D": "Leví"
+      },
+      "correcta": "C",
+      "explicacion": "1 Samuel 17:12 indica que David era hijo de Isaí, el belemita, de la tribu de Judá."
+    },
+    {
+      "id": 39,
+      "libro": "1 Samuel",
+      "dificultad": "dificil",
+      "categoria": "David y Jonatán",
+      "pregunta": "¿Cuál era la señal que Jonatán usaría para avisar a David si debía huir?",
+      "opciones": {
+        "A": "Tres silbidos al anochecer",
+        "B": "Disparar flechas y decir al muchacho que las flechas estaban más allá",
+        "C": "Encender una hoguera en el campo",
+        "D": "Enviar un mensajero con pan"
+      },
+      "correcta": "B",
+      "explicacion": "1 Samuel 20:20-22 describe el código de las flechas que Jonatán usaría para advertir a David."
+    },
+    {
+      "id": 40,
+      "libro": "1 Samuel",
+      "dificultad": "muy_dificil",
+      "categoria": "Saúl",
+      "pregunta": "¿Qué hizo Saúl que lo llevó a su derrota final en Gilboa?",
+      "opciones": {
+        "A": "Traicionó a sus generales",
+        "B": "Consultó a la adivina de Endor para invocar a Samuel muerto",
+        "C": "Se negó a pelear y huyó",
+        "D": "Sacrificó a su hijo primogénito"
+      },
+      "correcta": "B",
+      "explicacion": "1 Samuel 28:7-11 narra que Saúl fue a la adivina de Endor en desesperación, lo que selló su juicio."
+    },
+    {
+      "id": 41,
+      "libro": "2 Samuel",
+      "dificultad": "facil",
+      "categoria": "David",
+      "pregunta": "¿Cuántos años reinó David sobre todo Israel?",
+      "opciones": {
+        "A": "20",
+        "B": "30",
+        "C": "33",
+        "D": "40"
+      },
+      "correcta": "D",
+      "explicacion": "2 Samuel 5:4 indica que David reinó 40 años: 7 en Hebrón y 33 en Jerusalén."
+    },
+    {
+      "id": 42,
+      "libro": "2 Samuel",
+      "dificultad": "media",
+      "categoria": "David y Betsabé",
+      "pregunta": "¿Qué hizo David para encubrir su pecado con Betsabé?",
+      "opciones": {
+        "A": "Exilió a Urías",
+        "B": "Mandó poner a Urías en el frente de batalla para que muriera",
+        "C": "Compró el silencio de los testigos",
+        "D": "Fingió que el hijo era de otro hombre"
+      },
+      "correcta": "B",
+      "explicacion": "2 Samuel 11:15 narra que David envió una carta ordenando poner a Urías en el frente más peligroso."
+    },
+    {
+      "id": 43,
+      "libro": "2 Samuel",
+      "dificultad": "media",
+      "categoria": "Natán",
+      "pregunta": "¿Qué parábola usó el profeta Natán para confrontar a David por su pecado?",
+      "opciones": {
+        "A": "El hijo pródigo",
+        "B": "La oveja perdida",
+        "C": "La ovejita de un hombre pobre tomada por un rico",
+        "D": "El sembrador y la semilla"
+      },
+      "correcta": "C",
+      "explicacion": "2 Samuel 12:1-4 contiene la parábola del hombre rico que tomó la única ovejita del pobre."
+    },
+    {
+      "id": 44,
+      "libro": "2 Samuel",
+      "dificultad": "dificil",
+      "categoria": "Absalón",
+      "pregunta": "¿Cómo murió Absalón, el hijo de David que se rebeló contra él?",
+      "opciones": {
+        "A": "Cayó en batalla contra el ejército de David",
+        "B": "Su cabello quedó atrapado en un árbol y Joab lo mató",
+        "C": "Fue ejecutado por el propio David",
+        "D": "Murió ahogado cruzando el río Jordán"
+      },
+      "correcta": "B",
+      "explicacion": "2 Samuel 18:9-14 narra que la mula de Absalón pasó bajo una encina y su cabeza quedó prendida; Joab lo atravesó."
+    },
+    {
+      "id": 45,
+      "libro": "2 Samuel",
+      "dificultad": "muy_dificil",
+      "categoria": "Arca",
+      "pregunta": "¿Qué le ocurrió a Uza cuando extendió la mano para sostener el arca?",
+      "opciones": {
+        "A": "Fue bendecido abundantemente",
+        "B": "Quedó ciego temporalmente",
+        "C": "Murió allí mismo por la ira de Dios",
+        "D": "Su mano quedó paralizada"
+      },
+      "correcta": "C",
+      "explicacion": "2 Samuel 6:6-7 narra que Uza extendió su mano al arca y Dios lo hirió allí, muriendo junto al arca."
+    },
+    {
+      "id": 46,
+      "libro": "1 Reyes",
+      "dificultad": "facil",
+      "categoria": "Salomón",
+      "pregunta": "¿Qué pidió Salomón a Dios cuando se le apareció en sueños?",
+      "opciones": {
+        "A": "Riquezas y honra",
+        "B": "Larga vida",
+        "C": "Corazón entendido para juzgar al pueblo",
+        "D": "Victoria sobre sus enemigos"
+      },
+      "correcta": "C",
+      "explicacion": "1 Reyes 3:9 narra que Salomón pidió un corazón entendido para discernir el bien y el mal."
+    },
+    {
+      "id": 47,
+      "libro": "1 Reyes",
+      "dificultad": "facil",
+      "categoria": "Elías",
+      "pregunta": "¿Qué profeta desafió a los 450 profetas de Baal en el Monte Carmelo?",
+      "opciones": {
+        "A": "Eliseo",
+        "B": "Isaías",
+        "C": "Elías",
+        "D": "Amós"
+      },
+      "correcta": "C",
+      "explicacion": "1 Reyes 18:19-22 narra que Elías convocó a los profetas de Baal al Monte Carmelo para el desafío."
+    },
+    {
+      "id": 48,
+      "libro": "1 Reyes",
+      "dificultad": "media",
+      "categoria": "Salomón",
+      "pregunta": "¿Cuántos años tardó Salomón en construir el templo?",
+      "opciones": {
+        "A": "3",
+        "B": "5",
+        "C": "7",
+        "D": "10"
+      },
+      "correcta": "C",
+      "explicacion": "1 Reyes 6:38 indica que el templo fue terminado en el año undécimo de Salomón, siete años después de comenzar."
+    },
+    {
+      "id": 49,
+      "libro": "1 Reyes",
+      "dificultad": "media",
+      "categoria": "Elías",
+      "pregunta": "¿Qué comió Elías cuando el ángel lo despertó en el desierto?",
+      "opciones": {
+        "A": "Maná del cielo",
+        "B": "Una torta cocida sobre piedras y un jarro de agua",
+        "C": "Frutas y miel silvestre",
+        "D": "Pan y vino"
+      },
+      "correcta": "B",
+      "explicacion": "1 Reyes 19:6 describe una torta cocida sobre piedras calientes y un jarro de agua que el ángel dejó para Elías."
+    },
+    {
+      "id": 50,
+      "libro": "1 Reyes",
+      "dificultad": "dificil",
+      "categoria": "División del reino",
+      "pregunta": "¿Por qué se dividió el reino de Israel tras la muerte de Salomón?",
+      "opciones": {
+        "A": "Por una guerra civil entre sus hijos",
+        "B": "Roboam rechazó aliviar la carga del pueblo y las 10 tribus se rebelaron",
+        "C": "Un profeta dividió la tierra por mandato divino",
+        "D": "Los asirios conquistaron el norte"
+      },
+      "correcta": "B",
+      "explicacion": "1 Reyes 12:13-16 narra que Roboam siguió el consejo de los jóvenes y amenazó con más dureza, causando la rebelión."
+    },
+    {
+      "id": 51,
+      "libro": "1 Reyes",
+      "dificultad": "muy_dificil",
+      "categoria": "Elías",
+      "pregunta": "¿En qué cueva se refugió Elías en el Monte Horeb después de huir de Jezabel?",
+      "opciones": {
+        "A": "No se especifica el nombre de la cueva",
+        "B": "La cueva de Adulam",
+        "C": "La cueva de Macpela",
+        "D": "La cueva de En-gadi"
+      },
+      "correcta": "A",
+      "explicacion": "1 Reyes 19:9 simplemente dice 'entró allí a una cueva' sin darle un nombre específico."
+    },
+    {
+      "id": 52,
+      "libro": "2 Reyes",
+      "dificultad": "facil",
+      "categoria": "Elías",
+      "pregunta": "¿Cómo fue llevado Elías al cielo?",
+      "opciones": {
+        "A": "Murió tranquilamente durmiendo",
+        "B": "Un torbellino lo arrebató en un carro de fuego",
+        "C": "Un ángel lo llevó de la mano",
+        "D": "Desapareció en una nube brillante"
+      },
+      "correcta": "B",
+      "explicacion": "2 Reyes 2:11 narra que apareció un carro de fuego con caballos de fuego y Elías subió al cielo en un torbellino."
+    },
+    {
+      "id": 53,
+      "libro": "2 Reyes",
+      "dificultad": "media",
+      "categoria": "Eliseo",
+      "pregunta": "¿Qué pidió Eliseo a Elías antes de que fuera arrebatado?",
+      "opciones": {
+        "A": "Su manto y su vara",
+        "B": "Doble porción de su espíritu",
+        "C": "Conocer todos sus secretos",
+        "D": "Ser llevado al cielo junto a él"
+      },
+      "correcta": "B",
+      "explicacion": "2 Reyes 2:9 narra que Eliseo pidió que una doble porción de su espíritu fuera sobre él."
+    },
+    {
+      "id": 54,
+      "libro": "2 Reyes",
+      "dificultad": "media",
+      "categoria": "Naamán",
+      "pregunta": "¿Cómo fue sanado Naamán de su lepra?",
+      "opciones": {
+        "A": "El profeta oró y lo tocó",
+        "B": "Se lavó siete veces en el río Jordán",
+        "C": "Bebió agua del pozo de Eliseo",
+        "D": "Ofreció un sacrificio en el templo"
+      },
+      "correcta": "B",
+      "explicacion": "2 Reyes 5:14 narra que Naamán se zambulló siete veces en el Jordán y su piel quedó limpia."
+    },
+    {
+      "id": 55,
+      "libro": "2 Reyes",
+      "dificultad": "dificil",
+      "categoria": "Caída de Israel",
+      "pregunta": "¿Qué nación conquistó el reino del norte (Israel) y llevó a su pueblo al exilio?",
+      "opciones": {
+        "A": "Babilonia",
+        "B": "Egipto",
+        "C": "Asiria",
+        "D": "Persia"
+      },
+      "correcta": "C",
+      "explicacion": "2 Reyes 17:6 narra que el rey de Asiria tomó Samaria y llevó a Israel cautivo a Asiria."
+    },
+    {
+      "id": 56,
+      "libro": "2 Reyes",
+      "dificultad": "muy_dificil",
+      "categoria": "Josías",
+      "pregunta": "¿Qué documento importante fue encontrado en el templo durante el reinado de Josías?",
+      "opciones": {
+        "A": "Las tablas de los Diez Mandamientos",
+        "B": "El libro de la ley (Deuteronomio)",
+        "C": "Los rollos de los profetas",
+        "D": "El censo de David"
+      },
+      "correcta": "B",
+      "explicacion": "2 Reyes 22:8 narra que el sumo sacerdote Hilcías encontró el libro de la ley en el templo durante la restauración."
+    },
+    {
+      "id": 57,
+      "libro": "Esdras",
+      "dificultad": "facil",
+      "categoria": "Regreso",
+      "pregunta": "¿Qué rey persa permitió a los judíos regresar a Jerusalén y reconstruir el templo?",
+      "opciones": {
+        "A": "Darío",
+        "B": "Artajerjes",
+        "C": "Ciro",
+        "D": "Jerjes"
+      },
+      "correcta": "C",
+      "explicacion": "Esdras 1:1-2 narra que Ciro, rey de Persia, proclamó que los judíos podían regresar a Jerusalén."
+    },
+    {
+      "id": 58,
+      "libro": "Esdras",
+      "dificultad": "media",
+      "categoria": "Templo",
+      "pregunta": "¿Quiénes se opusieron a la reconstrucción del templo en tiempos de Esdras?",
+      "opciones": {
+        "A": "Los babilonios",
+        "B": "Los samaritanos y pueblos de la región",
+        "C": "Los propios sacerdotes judíos",
+        "D": "Los persas"
+      },
+      "correcta": "B",
+      "explicacion": "Esdras 4:1-5 describe cómo los adversarios de Judá y Benjamín intentaron detener la construcción."
+    },
+    {
+      "id": 59,
+      "libro": "Nehemías",
+      "dificultad": "facil",
+      "categoria": "Muros",
+      "pregunta": "¿Qué reconstruyó Nehemías en Jerusalén?",
+      "opciones": {
+        "A": "El templo",
+        "B": "El palacio real",
+        "C": "Los muros de la ciudad",
+        "D": "El altar de sacrificios"
+      },
+      "correcta": "C",
+      "explicacion": "Nehemías 2:17 narra que Nehemías convocó al pueblo para reconstruir los muros destruidos de Jerusalén."
+    },
+    {
+      "id": 60,
+      "libro": "Nehemías",
+      "dificultad": "media",
+      "categoria": "Muros",
+      "pregunta": "¿En cuántos días reconstruyó Nehemías los muros de Jerusalén?",
+      "opciones": {
+        "A": "40",
+        "B": "52",
+        "C": "70",
+        "D": "100"
+      },
+      "correcta": "B",
+      "explicacion": "Nehemías 6:15 indica que el muro fue terminado en 52 días, el día 25 del mes de Elul."
+    },
+    {
+      "id": 61,
+      "libro": "Ester",
+      "dificultad": "facil",
+      "categoria": "Ester",
+      "pregunta": "¿Quién era el tutor de Ester?",
+      "opciones": {
+        "A": "Esdras",
+        "B": "Nehemías",
+        "C": "Mardoqueo",
+        "D": "Amán"
+      },
+      "correcta": "C",
+      "explicacion": "Ester 2:7 narra que Mardoqueo había criado a Ester, su prima, como si fuera su hija."
+    },
+    {
+      "id": 62,
+      "libro": "Ester",
+      "dificultad": "media",
+      "categoria": "Amán",
+      "pregunta": "¿Qué planeó Amán contra los judíos?",
+      "opciones": {
+        "A": "Esclavizarlos",
+        "B": "Expulsarlos de Persia",
+        "C": "Exterminarlos a todos en un solo día",
+        "D": "Quitarles sus propiedades"
+      },
+      "correcta": "C",
+      "explicacion": "Ester 3:13 describe el decreto de Amán para destruir, matar y exterminar a todos los judíos en un solo día."
+    },
+    {
+      "id": 63,
+      "libro": "Ester",
+      "dificultad": "media",
+      "categoria": "Ester",
+      "pregunta": "¿Cuál es la frase famosa de Mardoqueo a Ester sobre su posición providencial?",
+      "opciones": {
+        "A": "'Dios te puso aquí para tal tiempo como este'",
+        "B": "'¿Y quién sabe si para esta hora has llegado al reino?'",
+        "C": "'No calles, que Dios pelea por nosotros'",
+        "D": "'Tu pueblo será salvo por tu valentía'"
+      },
+      "correcta": "B",
+      "explicacion": "Ester 4:14 contiene la pregunta de Mardoqueo: '¿y quién sabe si para esta hora has llegado al reino?'"
+    },
+    {
+      "id": 64,
+      "libro": "Ester",
+      "dificultad": "dificil",
+      "categoria": "Amán",
+      "pregunta": "¿En qué terminó Amán al final del libro de Ester?",
+      "opciones": {
+        "A": "Fue exiliado a Babilonia",
+        "B": "Fue colgado en la horca que él mismo mandó construir para Mardoqueo",
+        "C": "Murió en batalla",
+        "D": "Fue destituido y empobrecido"
+      },
+      "correcta": "B",
+      "explicacion": "Ester 7:10 narra que Amán fue colgado en la horca de 50 codos de altura que había preparado para Mardoqueo."
+    }
+  ]
+}
