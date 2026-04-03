@@ -1,3 +1,4 @@
+import time
 import telebot
 import uvicorn
 from fastapi import FastAPI, Request, Response
@@ -32,20 +33,24 @@ WEBHOOK_PATH = f"/webhook/{BOT_TOKEN}"
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
-    # Al arrancar: inicializar BD y registrar el webhook con Telegram
     init_db()
-    bot.remove_webhook()
-    bot.set_webhook(url=f"{WEBHOOK_URL}{WEBHOOK_PATH}")
-    print(f"✝️ Bot Cristiano iniciado — webhook activo en {WEBHOOK_URL}{WEBHOOK_PATH}")
+    for intento in range(5):
+        try:
+            bot.remove_webhook()
+            time.sleep(2)
+            bot.set_webhook(url=f"{WEBHOOK_URL}{WEBHOOK_PATH}")
+            print(f"✝️ Webhook registrado en intento {intento + 1}")
+            break
+        except Exception as e:
+            print(f"⚠️ Intento {intento + 1} fallido: {e}")
+            time.sleep(5)
     yield
-    # Al apagar: eliminar el webhook
     bot.remove_webhook()
 
 app = FastAPI(lifespan=lifespan)
 
 @app.post(WEBHOOK_PATH)
 async def telegram_webhook(request: Request):
-    """Recibe las actualizaciones de Telegram y las procesa."""
     body = await request.body()
     update = telebot.types.Update.de_json(body.decode("utf-8"))
     bot.process_new_updates([update])
@@ -53,7 +58,6 @@ async def telegram_webhook(request: Request):
 
 @app.get("/")
 async def health():
-    """Health check para Railway."""
     return {"status": "ok", "bot": "Bot Cristiano"}
 
 # ── Arranque ──────────────────────────────────────────────────────────────────
